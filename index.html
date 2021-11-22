@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>首页</title>
+    <meta charset='utf-8'>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <meta httpequiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.19.2/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/evlon/cdn/js/hls.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/evlon/cdn/spop/spop.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@0.19.2/dist/axios.min.js"></script>
+    <style>
+        * {
+            font-family: '仿宋';
+        }
+
+        a {
+            text-decoration: none
+        }
+
+        ul,
+        li {
+            margin: 0px;
+            padding: 0px;
+            list-style-type: none;
+        }
+
+        p5 {
+            font-size: 20px;
+        }
+
+
+        .flex-container {
+            display: -webkit-flex;
+            display: flex;
+            font-weight: bold;
+            text-align: center;
+            justify-content: space-between;
+        }
+
+        .aside2 {
+            font-size: 20px;
+            line-height: 30px;
+            text-align: left;
+        }
+
+        @media screen and (orientation:portrait) {
+            video {
+                width: 100%;
+
+            }
+
+            .flex-container {
+                flex-direction: column;
+            }
+
+            .aside2 {
+                order: 2;
+            }
+        }
+
+        @media screen and (orientation:landscape) {
+            video {
+                height: 670px;
+                width: 1209px;
+            }
+
+            .flex-container {
+
+                -webkit-flex-flow: row wrap;
+                flex-flow: row wrap;
+
+            }
+
+            .aside2 {
+                height: 680px;
+                overflow-y: auto;
+                background: url(https://wangda.chinamobile.com/images/course-bg-right.png) no-repeat right center, url(https://wangda.chinamobile.com/images/course-bg.png) right bottom;
+            }
+        }
+
+
+        .flex-container>* {
+            padding: 10px;
+            flex: 1 100%;
+        }
+
+        .main {
+            justify-content: space-around;
+            text-align: left;
+            background: url(https://wangda.chinamobile.com/images/course-bg-left.png) no-repeat left center, url(https://wangda.chinamobile.com/images/course-bg-right.png) no-repeat right center, url(https://wangda.chinamobile.com/images/course-bg.png) right bottom;
+        }
+
+        .header {
+            background: #96b97d;
+        }
+
+        .footer {
+            text-align: left;
+            order: 3;
+        }
+
+        @media all and (min-width: 800px) {
+            .main {
+                flex: 4 0px;
+                order: 1;
+            }
+
+            .aside2 {
+                flex: 1 auto;
+                order: 2;
+            }
+
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div id="app" class="flex-container">
+        <header class="header">
+            <p1>{{currentSection.name}} </p1>
+        </header>
+
+        <article class="main">
+            <video id="video" controls="controls"></video>
+        </article>
+
+        <aside class="aside aside2">
+
+            <ul id="v-for-chapter" class="chapter">
+                <li v-for="chapter in chapters">
+                    <ul id="v-for-sections" class="sections">
+                        <p>{{chapter.name}} </p>
+                        <li v-for="section in chapter.sections">
+                            <a :href="getPlayUrl(section)">{{ section.name }}</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </aside>
+
+        <footer class="footer">
+            <p5>{{name}} </p5><br />
+            <p1>{{lecturer}} </p1><br />
+            <p>{{descriptionText}} </p>
+        </footer>
+    </div>
+
+    <script>
+
+
+
+
+
+        function play(src, nextSrc) {
+
+            if (src[0] == '/') {
+                src = src.substr(1);
+            }
+
+            axios.get(src).then(function (res) {
+                let m3u8data = res.data;
+
+                const hlsMimeType1 = "application/vnd.apple.mpegurl";
+
+                let base64DataSrc = `data:${hlsMimeType1};base64,${btoa(m3u8data)}`;
+
+
+                let blob = new Blob([m3u8data], { type: 'audio/mpeg' })
+                let blobsrc = URL.createObjectURL(blob);
+
+                var video = document.getElementById('video');
+                if (Hls.isSupported()) {
+                    var hls = new Hls();
+                    hls.loadSource(blobsrc);
+                    hls.attachMedia(video);
+                    hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                        video.play();
+                    });
+
+                    video.addEventListener('ended', function () {
+                        location.hash = nextSrc;
+                        console.log('play ended. next url', nextSrc)
+                    })
+                }
+                // hls.js is not supported on platforms that do not have Media Source Extensions (MSE) enabled.
+                // When the browser has built-in HLS support (check using `canPlayType`), we can provide an HLS manifest (i.e. .m3u8 URL) directly to the video element through the `src` property.
+                // This is using the built-in support of the plain video element, without using hls.js.
+                // Note: it would be more normal to wait on the 'canplay' event below however on Safari (where you are most likely to find built-in HLS support) the video.src URL must be on the user-driven
+                // white-list before a 'canplay' event will be emitted; the last video event that can be reliably listened-for when the URL is not on the white-list is 'loadedmetadata'.
+                else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+
+
+                    const hlsMimeType = "application/vnd.apple.mpegurl";
+
+                    video.type = hlsMimeType;
+                    video.src = `data:${hlsMimeType};base64,${btoa(m3u8data)}`;
+                    video.addEventListener('loadedmetadata', function () {
+                        video.play();
+                    });
+
+                    video.addEventListener('ended', function () {
+                        location.hash = nextSrc;
+                        console.log('play ended. next url', nextSrc)
+                    })
+                }
+                else {
+                    alert('不能播放');
+                }
+
+            });
+
+
+
+        }
+
+
+
+        //https://evlon.gitee.io/wdcourse/play.html#/148c686b-1bcd-4e63-9dbb-ec55f2c9f543/0_266276b42-6551-4baf-9309-525e8369c2d0.m3u8
+        //https://evlon.gitee.io/wdcourse/play.html#/148c686b-1bcd-4e63-9dbb-ec55f2c9f543
+        var matchs = /#\/?(.+?)(\/.+\.m3u8)?$/.exec(location.hash);
+
+        if (matchs && matchs.length == 3) {
+            let rid = matchs[1];
+
+            axios.get(rid + '/data.json')
+                .then(function (res) {
+                    var data = res.data;
+                    let playlist = [];
+
+                    data.chapters.forEach(ch => {
+                        ch.sections.forEach(s => {
+                            playlist.push(s);
+                        })
+                    });
+
+                    playlist.forEach((section, i) => {
+                        section.next = playlist[(i + 1) % playlist.length];
+                    });
+
+                    let currentSection = playlist[0];
+
+                    if (matchs[2]) {
+                        //can play m3u8
+                        let m3u8Url = matchs[0].substr(1);
+                        let section = playlist.find(d => d.url == m3u8Url);
+                        if (section) {
+                            currentSection = section;
+                        }
+                    }
+
+                    document.title = '学习 - ' + data.name;
+                    var app = new Vue({
+                        el: '#app',
+                        data: { ...data, currentSection: currentSection },
+                        created: function () {
+                            let self = this;
+                            window.addEventListener("hashchange", function (e) {
+                                var matchs = /#(.+?)(\/.+\.m3u8)?$/.exec(location.hash);
+
+                                if (matchs && matchs.length == 3) {
+                                    let m3u8Url = matchs[0].substr(1);
+                                    self.currentSection = playlist.find(d => d.url == m3u8Url);
+                                    self.play();
+
+                                }
+                            });
+                        },
+                        mounted: function () {
+                            //alert(playlist.length)
+                            this.play();
+                            this.$nextTick(function () {
+                            })
+                        },
+                        methods: {
+                            play() {
+                                let section = this.currentSection;
+                                play(section.url, section.next.url)
+                                console.log('start play ', section.url)
+                            },
+                            getPlayUrl(section) {
+                                return "#" + section.url;
+                            }
+                        }
+                    })
+                })
+                .catch(function (e) {
+                    //alert('<strong>暂时不能播放，出错了!</strong>', 'error');
+                })
+
+        }
+        else {
+            var app = new Vue({
+                el: '#app',
+                data: {}
+            })
+        }
+
+    </script>
+</body>
+
+</html>
