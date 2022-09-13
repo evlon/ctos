@@ -23,12 +23,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "Ucxx47K9VyPPul1L0htFX0mS0l/3kpJM12hmGFPgwlo=",
-                            "rand": "5ZFxmBDqctjczW9tD2eq7EdXqazlSYHwJx9S+ET0CHg=",
+                            "plaintext": "s7010uh8Q3AdOWE9rIfeMYz65EyCopzCvKnNifnYyDg=",
+                            "rand": "jxpnKsbMBGbfOS6N6yUhUbDmkKE6YcpYctuxbuFl8j0=",
                             "encrypt": 1,
                             "duration": "377.1849",
                             "rate": "366.764",
-                            "randInit": "DK3scEQcMcMwsQbB"
+                            "randInit": "WMmr2ZRkkMmdwMsS"
                         },
                         {
                             "width": 720,
@@ -38,12 +38,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "Uo0Ssjl4oxgdlPBMOyaEqjzF0N5YFMz17T+KxqEfpVw=",
-                            "rand": "0pPmEHKy5+5ML4V6UR9WnSXF9Zjx610Ha/8vWzysGU8=",
+                            "plaintext": "swFRhk5MG/v7XJtC/xJjIUBTXPs7O0YMrrybC2qqK6I=",
+                            "rand": "xtmqj1vlFC+RJQePKJevLR7hlOVe6hY/sgzAh9EERpM=",
                             "encrypt": 1,
                             "duration": "377.1664",
                             "rate": "419.458",
-                            "randInit": "DK3scEQcMcMwsQbB"
+                            "randInit": "WMmr2ZRkkMmdwMsS"
                         },
                         {
                             "width": 1080,
@@ -53,12 +53,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "Lg1EAbwrp4tRIVXMFqLdKUmzYlAB/Vu1u5LtTgIJPC4=",
-                            "rand": "qxBewENENu1G9HvZXtn9RcNz6FJZna7UyWKJVQZLBcQ=",
+                            "plaintext": "Cv/vGThEzXQyTtVaAds2UsLxkRxs+DvwYV2xcBjF7IE=",
+                            "rand": "acAjoPugtCDQ1mgi7QpRF6T9HNnqCTqVxvDG5NzbrFk=",
                             "encrypt": 1,
                             "duration": "377.1664",
                             "rate": "446.052",
-                            "randInit": "DK3scEQcMcMwsQbB"
+                            "randInit": "WMmr2ZRkkMmdwMsS"
                         }
                     ]
                 },
@@ -76,12 +76,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "DCRmTpKMfE5RQDpCjDQifpMqBmX2wwbxUq5aMIi5a+E=",
-                            "rand": "vpxaB3u5sQZTUjVSW/29vwTjhJcl5fCfgIaDWrTP6RE=",
+                            "plaintext": "8NDvjyGnb948dsdxSmQGC3muCumBBX97d17v1ehFgMo=",
+                            "rand": "kRZbcCGfjeX4lhVxTRUnNRHY+qy/sQfCew8OkvnYANg=",
                             "encrypt": 1,
                             "duration": "685.4865",
                             "rate": "310.527",
-                            "randInit": "hFEbtTQjPjz9c6nK"
+                            "randInit": "XsmBkWS3sPZWEi8C"
                         },
                         {
                             "width": 720,
@@ -91,12 +91,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "F6TR01tQrU5GgbnRVdCXzVvVJlbBG9ZGRUQBkSY+uuQ=",
-                            "rand": "dmBxnmEMz6EAPcqQ15j+WGTQSlMxBzmKeYQ5BdvG6+A=",
+                            "plaintext": "pF9CGHB6NrdmWZwmvXCTGvGX5wPERiGQ3qhKXvEqSoc=",
+                            "rand": "dIu6sQPAc+/gMLoNwjgfYENcA3YfFilNX9yjeSK0NJM=",
                             "encrypt": 1,
                             "duration": "685.4865",
                             "rate": "398.606",
-                            "randInit": "hFEbtTQjPjz9c6nK"
+                            "randInit": "XsmBkWS3sPZWEi8C"
                         },
                         {
                             "width": 1080,
@@ -106,12 +106,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "aplZFzqhs8PImMvNpsT7RHdDOnF+MKyeAUtxQXiqCIc=",
-                            "rand": "x9T76QDdm9PdYhhEx5l2cW194lEQeP9J8UFB8VX7gOI=",
+                            "plaintext": "J/Op7eMHSWnstJOYoSXf1XrwSNgbrWwPrWxOG3xzUD8=",
+                            "rand": "UkKiWkGc2izdgNT2J3z7Am80f7gyJ0CztVVzBXAPQAg=",
                             "encrypt": 1,
                             "duration": "685.4865",
                             "rate": "414.212",
-                            "randInit": "hFEbtTQjPjz9c6nK"
+                            "randInit": "XsmBkWS3sPZWEi8C"
                         }
                     ]
                 },
@@ -129,12 +129,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "bCseu0fMjlPwLGYgX5y70mwUrZZuAIqGo/F2OIQGopU=",
-                            "rand": "UZUpUPOsMy8EbH9lGJ63aCxpJTz0FGg+arwaOQpcNr8=",
+                            "plaintext": "i1H3YvyC2IBWljMGbzsE/GwDJzeztJbbb0ejbf+7Wus=",
+                            "rand": "zFSuYf9fBvwYyAKvhkaRG9lTS6sFht9FbvDF76hSwVw=",
                             "encrypt": 1,
                             "duration": "255.2464",
                             "rate": "305.942",
-                            "randInit": "2kQrJiwnh4cwShjQ"
+                            "randInit": "FJQfW7k0xhFMjea4"
                         },
                         {
                             "width": 720,
@@ -144,12 +144,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "tAR6HsmITvr4y/tUeKCNl/X/TLB21tUSQknTxonn8DI=",
-                            "rand": "EryEeNyonydI+EBbpiqMznUbXagjJ+ZIqOsPBvd4AD8=",
+                            "plaintext": "z3dU7KXdli59lOaTMtLXrWF/iKOxfO1rafDcnrebEw8=",
+                            "rand": "HGirBHkD1i8F5tlhGVIsYr9Kprcwz5D35LZwhVQwGdE=",
                             "encrypt": 1,
                             "duration": "255.2464",
                             "rate": "362.644",
-                            "randInit": "2kQrJiwnh4cwShjQ"
+                            "randInit": "FJQfW7k0xhFMjea4"
                         },
                         {
                             "width": 1080,
@@ -159,12 +159,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "PCP686rWRkj4Ei+09BnNeodUvr2L3JCP07iJ3eegzMY=",
-                            "rand": "yp36dut/rkSdKhI4ijVBqQk3HODkEYWivjkOkq/d5Zk=",
+                            "plaintext": "SQDg/mxFvBzoDrIrehDqZMRCv9HATWsuylhh6O7Tb9E=",
+                            "rand": "4XrrUc4bJnk/Z3qj8NTuypUtsyjO3EO+KywoldKX3MU=",
                             "encrypt": 1,
                             "duration": "255.2570",
                             "rate": "395.283",
-                            "randInit": "2kQrJiwnh4cwShjQ"
+                            "randInit": "FJQfW7k0xhFMjea4"
                         }
                     ]
                 }
@@ -189,12 +189,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "OhAUMIlj70mZPHs6968tQPgg+2L2wk1m4EGbQbCfw94=",
-                            "rand": "z0ISuhrEorvTrFKSNnp52khWyI3xyOiNgHDTpOb5SwQ=",
+                            "plaintext": "UfdG0gho8J1ms2ZHgsT60enMyQdqNh7qMxqRzZXakI4=",
+                            "rand": "dot/86rTos97a0KowYIx6eMdMJMjc+WIVe0RereY6yE=",
                             "encrypt": 1,
                             "duration": "747.4465",
                             "rate": "393.241",
-                            "randInit": "5NS0d255CyePf7QX"
+                            "randInit": "rCSDaKs0npZQK4yQ"
                         },
                         {
                             "width": 720,
@@ -204,12 +204,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "/uQAA+JyGE2Pyn2asnFvhgxlAR/1J+Ig6FvGteJPvJo=",
-                            "rand": "LHNEZrz33uosOpSMoo84CfkKNFfkkss2M0M+cMRGT5M=",
+                            "plaintext": "yxQeFJ30F2nQhmuGn1oWIteglXh16hi0BJ5YbqoVjZ8=",
+                            "rand": "pg/HVn/y/R85qO3ThtHa6fbfwPFk8Cjp9J2k4z1djxg=",
                             "encrypt": 1,
                             "duration": "747.4465",
                             "rate": "478.903",
-                            "randInit": "5NS0d255CyePf7QX"
+                            "randInit": "rCSDaKs0npZQK4yQ"
                         },
                         {
                             "width": 1080,
@@ -219,12 +219,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "9Ycx/FFzKMM/pqpT65Ru07hBpo/I5gJCdom+SCY7weo=",
-                            "rand": "/pgd2alJT+DGYEyBvxASL2Iz6gTVsFiSNLuEJw5s9C4=",
+                            "plaintext": "AAMeKnFiqe06GdVW3v6+Q4aguBwYgBNtLRsl7qrPKZc=",
+                            "rand": "0HdXHVbGZ8PojPGL+Jarh5BJ9+iGgXtPKG4IM7CZ2b8=",
                             "encrypt": 1,
                             "duration": "747.4465",
                             "rate": "512.189",
-                            "randInit": "5NS0d255CyePf7QX"
+                            "randInit": "rCSDaKs0npZQK4yQ"
                         }
                     ]
                 },
@@ -242,12 +242,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "Kh8JPFz3JY7MnUjhyvc5Od98bhI1FkuENVylurcWCG4=",
-                            "rand": "MMBAH5ewDPogBoy3JtGKteaWmUJrS+C7dYlfRfYfuz8=",
+                            "plaintext": "Zg+prFP5L4eOeR1TuUceld4RBk60RJLpfsZD2fBWnxE=",
+                            "rand": "IQAJgxWzqKBX1tlaQ3YevmQJIxFwXUF10DNDya2lI3I=",
                             "encrypt": 1,
                             "duration": "660.7264",
                             "rate": "411.929",
-                            "randInit": "YRBxQarMhZNbDZNs"
+                            "randInit": "CPcGWeKkXt8xBrsB"
                         },
                         {
                             "width": 720,
@@ -257,12 +257,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "pSINXbLwUheBFwIESzUrbEi5n8rrhD8jsnfZipUhXgg=",
-                            "rand": "dT6nbzMAX2QAnLkr/Aae5SO8QH+va2EbN7XHvo0ayvc=",
+                            "plaintext": "aTc6JKbEAA4mhridyyOOabPFFBEX17GddGCOSxufnD4=",
+                            "rand": "Q/nJibyW0rgwrIlzVC1cZ+MlVBM8nwQ54vlgBZ+P7R0=",
                             "encrypt": 1,
                             "duration": "660.7264",
                             "rate": "531.316",
-                            "randInit": "YRBxQarMhZNbDZNs"
+                            "randInit": "CPcGWeKkXt8xBrsB"
                         },
                         {
                             "width": 1080,
@@ -272,12 +272,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "L8sVBWX0uAdpWGEtDbUJI2srzq8b2YwCxmfPCCGJ0ho=",
-                            "rand": "+ShmI+yiIge83G4zIS2HVC06EeIsO6n2yEpQzgledOM=",
+                            "plaintext": "smG58yd7gqIgFAaxHA3H2pC6ktDCrthMZnNUrrK+zv8=",
+                            "rand": "/2+VJVi7Eey0PSaCt81eUnzc7Z0+GrptTWpBMZO1Mek=",
                             "encrypt": 1,
                             "duration": "660.7470",
                             "rate": "569.64",
-                            "randInit": "YRBxQarMhZNbDZNs"
+                            "randInit": "CPcGWeKkXt8xBrsB"
                         }
                     ]
                 },
@@ -295,12 +295,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "eMu8JFbUkb0zh6q5GJUEkc1JTKwgdeXHwCZm87cxkuQ=",
-                            "rand": "HnpGB3vK0phCQ2tBUkBE6K2N8sPwB6V1H3zFFjvRjNw=",
+                            "plaintext": "x0o19ndGcA9wYSp14rX+YuLuKGyPUl+eEUPXbM+4GLY=",
+                            "rand": "rxjC/zpyQNq696KEVUs5hTFFKcaJXNyI2rGwZtQPUjs=",
                             "encrypt": 1,
                             "duration": "875.1664",
                             "rate": "380.706",
-                            "randInit": "M7tayGmatbEC6btC"
+                            "randInit": "5G9WB3YYHypxW7Rn"
                         },
                         {
                             "width": 720,
@@ -310,12 +310,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "Wdk/YQ6sRhQXnaytQNWy9qEOgmG+C24j7d3BbOuH1uE=",
-                            "rand": "RVC+UAClI2e/s7j4fOEGAbDJYlqx9aOJ07Jz/S0ZcTY=",
+                            "plaintext": "mwqHpoLuP410LOzaKdq/W3R3vZ5OPlgazvm7osscGxU=",
+                            "rand": "up0YW+lHllIbJDupNBRNZtz8/gl0ZAB2Yt38T6+5u2g=",
                             "encrypt": 1,
                             "duration": "875.1664",
                             "rate": "487.954",
-                            "randInit": "M7tayGmatbEC6btC"
+                            "randInit": "5G9WB3YYHypxW7Rn"
                         },
                         {
                             "width": 1080,
@@ -325,12 +325,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "DtFiAUR7464Ei9ZHm7o8u1GZ4S+N9QdrE+Pv23snyC0=",
-                            "rand": "WzT0EuFRmMCiHrUag0XCsq2KAoaO5cuOs2HziQH5hDE=",
+                            "plaintext": "VKg22FHuByVEBMeLfTg53+a8aU41uCrbghxj3SBQ0so=",
+                            "rand": "pKpZ0KY66i0f116M+PyEA5KckpAsBkvqDnd+uxSo7gM=",
                             "encrypt": 1,
                             "duration": "875.1664",
                             "rate": "523.455",
-                            "randInit": "M7tayGmatbEC6btC"
+                            "randInit": "5G9WB3YYHypxW7Rn"
                         }
                     ]
                 },
@@ -348,12 +348,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "/0ppqjl8IAOurD7KPJQiPOqbrjaw7qjrqL1aA4uI29I=",
-                            "rand": "GSb0/9M8lbXLpWFON573OnqpJfayyBXVJIQNb7dhcio=",
+                            "plaintext": "dRpdFr6ELtVCzX/oU6A+k/YdbnrXZGaEdWjqHS/yK84=",
+                            "rand": "/qgTW+kyDCzFcKkxhOu4e8xOpClMuWcightSksEYej0=",
                             "encrypt": 1,
                             "duration": "710.3665",
                             "rate": "373.599",
-                            "randInit": "MZt7aE337T5McabR"
+                            "randInit": "zh6mBGYeSnafjDtS"
                         },
                         {
                             "width": 720,
@@ -363,12 +363,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "VLQFU2+Owas7QGjKG1RVBkXL4QTXrDcC2n5EQi9yIWU=",
-                            "rand": "6fpDXoRk4P2O1CChtWIr1qqOUV+gvcC9+GO7rI/ObHw=",
+                            "plaintext": "4Za00vpymT3jzW6kfmNDDbbJlCtsUsTcF/9FB2jHsw8=",
+                            "rand": "508pMqZJ7qcRXN5ydIjDnnUEz+5Fdaqu3YGnxReVJ3c=",
                             "encrypt": 1,
                             "duration": "710.3913",
                             "rate": "476.463",
-                            "randInit": "MZt7aE337T5McabR"
+                            "randInit": "zh6mBGYeSnafjDtS"
                         },
                         {
                             "width": 1080,
@@ -378,12 +378,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "xghCt+tIbHs1ua4xozQW0wyVnd8tNmBHlOUC91MQtV4=",
-                            "rand": "mlTjJ3ltmqRsF6OSjkJjwBIynlXiPdXYBNRfLhsaYaQ=",
+                            "plaintext": "BAeLUa6tGn1OAy0EFdpYwGxHX/s3ccP9LH/61ckkuwU=",
+                            "rand": "J9i91I63ZzvMY362O3Hi934sAsY1urNUSyupnmOlM6c=",
                             "encrypt": 1,
                             "duration": "710.3665",
                             "rate": "512.355",
-                            "randInit": "MZt7aE337T5McabR"
+                            "randInit": "zh6mBGYeSnafjDtS"
                         }
                     ]
                 },
@@ -401,12 +401,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "oJgbdQ+bpZ/w0NHcQw7WaRc9zcW0FgmGOhUvbLqasu0=",
-                            "rand": "jnLjIFaMYRG35L7ScmxYAHUCz4hLH4w7dGQNKLmQLXo=",
+                            "plaintext": "aaL6m3FLay9qWOG8pFVGIw/UgfkMMIfMSf1dVkgPFu0=",
+                            "rand": "f4/6RIX7l+BoCWhsL4qJaFwVnrQ3rVVZPLpCz6RrIKo=",
                             "encrypt": 1,
                             "duration": "479.7664",
                             "rate": "374.026",
-                            "randInit": "s59jpEBFx9JCPiNi"
+                            "randInit": "0eSWbEM6dw7QGfkQ"
                         },
                         {
                             "width": 720,
@@ -416,12 +416,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "GUVXSdvvoBQWed6XbND2B6h2co7wGkSvqO2ucYXzC18=",
-                            "rand": "13+H0iQOuHx3pqNB6rgXHG8wGCNqJHrU5iXDzYuABQI=",
+                            "plaintext": "AmtsluwXWwGrFEOFg81simSOht/OHdKixLpKarYFQoU=",
+                            "rand": "+xevaEN/ovfKbiH7zuNU0y25i4oqrKo0G9tcKQ71SqM=",
                             "encrypt": 1,
                             "duration": "479.7664",
                             "rate": "478.542",
-                            "randInit": "s59jpEBFx9JCPiNi"
+                            "randInit": "0eSWbEM6dw7QGfkQ"
                         },
                         {
                             "width": 1080,
@@ -431,12 +431,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "bLPkrqJW9zHPrVcEdKsTGJfxdg5gHKcWTrZ71yeo6cw=",
-                            "rand": "+ia5jvDKGEC9vE7DkjYr14JFEQNp9sjSJYaMzXbziwQ=",
+                            "plaintext": "uzM6wJt/mEN0ug80UjC1Zk3+VovhcU6P89lhsTXo44U=",
+                            "rand": "D2RX7N5Auff40H/zMdRQ7ziZYH7zsHnkur4ApQ1SNBk=",
                             "encrypt": 1,
                             "duration": "479.7664",
                             "rate": "510.947",
-                            "randInit": "s59jpEBFx9JCPiNi"
+                            "randInit": "0eSWbEM6dw7QGfkQ"
                         }
                     ]
                 },
@@ -454,12 +454,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "d1Mdd7GyTDImZkMOsTFd81B0Xi7r2cngD51Thp7rs/Y=",
-                            "rand": "arovP8qwhcKNg2EYxmy0bz50MmC3K7PEycBo0c1Zr58=",
+                            "plaintext": "miM04s46d25tLmBE7b53ZKmUKFCdNYjWBUj+m1s/nHk=",
+                            "rand": "PrHOKVYMj6HRLz7FjQpGwaAG0wac7iYykaBawbRDINc=",
                             "encrypt": 1,
                             "duration": "1314.1665",
                             "rate": "362.762",
-                            "randInit": "dEFNrA2FWc4GadZt"
+                            "randInit": "yyibCTPDSBrw5N34"
                         },
                         {
                             "width": 720,
@@ -469,12 +469,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "O2N+VvINaM+zsEMfhfujEY7Wy5uAvcJ0eVquaxmXuKU=",
-                            "rand": "HOxktD3btz1R6465IWd5y2lUIs2GGfpKyCXcBKVoCfU=",
+                            "plaintext": "/cf5aE/V4sOgUtHwCfiUUzgS+uDZtI5ukteotuTFkEo=",
+                            "rand": "ccfJ8qKCHBryvp+TKDJRbP0bUTBB5nCKCIv4fCY9U+M=",
                             "encrypt": 1,
                             "duration": "1314.1665",
                             "rate": "531.197",
-                            "randInit": "dEFNrA2FWc4GadZt"
+                            "randInit": "yyibCTPDSBrw5N34"
                         },
                         {
                             "width": 1080,
@@ -484,12 +484,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "/2URj0OSmHUVWwbOjBB2oGdCI2ajI1VweilRFvAkh8w=",
-                            "rand": "R9gFrX6TbrtAI/SE/LHcW2FbID8gkQddQe51uBpsMw0=",
+                            "plaintext": "YXE/s1oZbmyFflSO2l6jfxoUuAsa0lXJ1KdUApr68oI=",
+                            "rand": "Jn/SgQELJBPhEA2SaSXZwO4UUKApuQYN9l1ftg10mOc=",
                             "encrypt": 1,
                             "duration": "1314.1665",
                             "rate": "620.019",
-                            "randInit": "dEFNrA2FWc4GadZt"
+                            "randInit": "yyibCTPDSBrw5N34"
                         }
                     ]
                 },
@@ -507,12 +507,12 @@
                             "format": "m3u8",
                             "desc": "标清",
                             "encryptionType": 1,
-                            "plaintext": "wiBFBl6m9ibEc3eD3ZwA+Ks2vJCNTZD510yIrMAqgik=",
-                            "rand": "XBoWHwZnWMeqrv9dSNrYwvx5L0SlN+g+2nxO20o5ub0=",
+                            "plaintext": "AiVa+totscQOEFnIRdeRsnDykOGE6NrEVfQ9MpYZc+w=",
+                            "rand": "XmlmFEHrk9nGXOrcaxbhpbT++YI7R7Z0bE+oqqiFHQw=",
                             "encrypt": 1,
                             "duration": "685.4865",
                             "rate": "310.527",
-                            "randInit": "d0EWHckA73GJcQHQ"
+                            "randInit": "SbE4w2iRPr6bZR8H"
                         },
                         {
                             "width": 720,
@@ -522,12 +522,12 @@
                             "format": "m3u8",
                             "desc": "高清",
                             "encryptionType": 1,
-                            "plaintext": "jnXeyPfG1LDmXrdfExxrYu8+GIl3UZRjCZGWvn/+14I=",
-                            "rand": "PmTeTMFKe+RjE3UQ+AUlCGqlCuILE/uiHXIRv+BE4MQ=",
+                            "plaintext": "CgpKw8tHmqHwF4WhNMlIK6L3CpinQTbvSqGjzXi6w8A=",
+                            "rand": "JemGykcB7aI+4FVYOMJFMw8JJoflENE/olaUtyihMq4=",
                             "encrypt": 1,
                             "duration": "685.4865",
                             "rate": "398.606",
-                            "randInit": "d0EWHckA73GJcQHQ"
+                            "randInit": "SbE4w2iRPr6bZR8H"
                         },
                         {
                             "width": 1080,
@@ -537,12 +537,12 @@
                             "format": "m3u8",
                             "desc": "超清",
                             "encryptionType": 1,
-                            "plaintext": "k5Khqc+r9TLc4dH+hZghx/oSfI36z8eAISJdGk819A0=",
-                            "rand": "qTPoqgqPzxhSWUYWolUcwUUsj9XG5VQVyaFsymFJrLo=",
+                            "plaintext": "8hl/htI7DA+4pzwu/QblCw5ZFI2+fRldju6SZYuI4nM=",
+                            "rand": "UuXHDXABQKTXGJ6z7sqyOQLTYJ+nKDiYixM3MYTxN1E=",
                             "encrypt": 1,
                             "duration": "685.4865",
                             "rate": "414.212",
-                            "randInit": "d0EWHckA73GJcQHQ"
+                            "randInit": "SbE4w2iRPr6bZR8H"
                         }
                     ]
                 }
