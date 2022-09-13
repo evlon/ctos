@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
-#EXT-X-KEY:METHOD=AES-128-PES,URI="https://api-cto.go8.workers.dev/p/c1c69e635f824674f01342ce928e6ffb1c2326980f91ba37c407d5eea0499791ab41ff05d32ff252c5e9846a17e8f2a8085b9f6febb9c35c3906e33182b7153e"
+#EXT-X-KEY:METHOD=AES-128-PES,URI="https://api-cto.go8.workers.dev/p/d8d5dab7d4f1d34cbe207ac0a62d615772131a6d512333795e31acf4329a91afca40ef31c74096f1ce80c6a43b9ffc8e3dad05551c9ef515a74324600ecc9974"
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:6.000000
 https://v30.51cto.com/c7b9b352ac9b4ae2b494372ffe4f9ea3/d3d59bc5e29710d74d8ad9c1d7a1156c-ld-encrypt-stream-00001.ts?_ali_next_ts=d3d59bc5e29710d74d8ad9c1d7a1156c-ld-encrypt-stream-00002.ts%20d3d59bc5e29710d74d8ad9c1d7a1156c-ld-encrypt-stream-00003.ts&_ali_ts_dur=6&_ali_next_ts_m5=1cba4830a012bbae9fef87f8eebd4496
