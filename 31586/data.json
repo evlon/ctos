@@ -1,0 +1,393 @@
+{
+    "id": "31586",
+    "name": "OSCP红队专家训练营（0基础）—第六期",
+    "lecturer": "1、对网络安全、Web安全、渗透测试、红队演练有浓厚兴趣的同学；\r\n2、0基础即可入门，有计算机专业背景更佳；",
+    "descriptionText": "建立渗透测试体系和横向思考能力；通过实战，提升渗透测试、红蓝对抗演练能力。",
+    "chapters": [
+        {
+            "id": "105293",
+            "name": "靶机下载与安装",
+            "courseId": "31586",
+            "sections": [
+                {
+                    "id": "839045",
+                    "name": "靶机下载与安装",
+                    "courseId": "31586",
+                    "url": "/31586/0_0_839045_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/0_0_839045_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "U7eH+f0HIIt59tTuHpq49lx17QDIrFDG4doaOsGKbcg=",
+                            "rand": "RiB2lrc5UXXAZxKJTkWgs4hdu1w2RFM5iFrUdHXJN/M=",
+                            "encrypt": 1,
+                            "duration": "336.7664",
+                            "rate": "323.026",
+                            "randInit": "jAGfKkbMHWyYf2dt"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/0_0_839045_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "YbF1iHLmXnaiRkRB9XX0NJv1QE9nYox0GiKqChlZyAo=",
+                            "rand": "Aen/STAPm7khLZFH+CVi8hytWMFxyv+MTFC+Wq13/a0=",
+                            "encrypt": 1,
+                            "duration": "336.7664",
+                            "rate": "392.204",
+                            "randInit": "jAGfKkbMHWyYf2dt"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/0_0_839045_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "PQoSBcF2lkaFnOYbMaZ5PPFLV3rsZqO3DIugO+qCXQ4=",
+                            "rand": "K+P6qcLx0LEzSWvZvO8kTZK2h6f1dATm3AsFEZfXzyc=",
+                            "encrypt": 1,
+                            "duration": "336.7664",
+                            "rate": "421.38",
+                            "randInit": "jAGfKkbMHWyYf2dt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "105297",
+            "name": "中级靶机演练",
+            "courseId": "31586",
+            "sections": [
+                {
+                    "id": "839038",
+                    "name": "靶机1：Symfonos 1",
+                    "courseId": "31586",
+                    "url": "/31586/1_0_839038_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/1_0_839038_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "GhPpJGzcq67IxbVtAq0GIsYWK0gPyvYyBmlP1lXgDBo=",
+                            "rand": "OrjyyMn+rTeEU0X2kCGB2JXvhdOVzmSRCB73DYSCKfg=",
+                            "encrypt": 1,
+                            "duration": "1130.2465",
+                            "rate": "442.251",
+                            "randInit": "FwMBPwbjddnGMthK"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/1_0_839038_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "/wjKSBDhx761I5ahpkr77I7wnlwJBVGoLt21QXGefLU=",
+                            "rand": "3p+EuSMOHYK2AM2oNfgzb6N6G2MdTiaTeH9kNWeUxOU=",
+                            "encrypt": 1,
+                            "duration": "1130.2465",
+                            "rate": "649.793",
+                            "randInit": "FwMBPwbjddnGMthK"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/1_0_839038_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "SRHV9cnXmR+BvW/7W2Q3H8niDllXPAWPCclLqv/ucAo=",
+                            "rand": "OZ11sqje3Wc6+u/8d7+LlHbZy9FaMEzP+j4rEUsBVh8=",
+                            "encrypt": 1,
+                            "duration": "1130.2465",
+                            "rate": "696.025",
+                            "randInit": "FwMBPwbjddnGMthK"
+                        }
+                    ]
+                },
+                {
+                    "id": "839033",
+                    "name": "靶机2：Symfonos 2",
+                    "courseId": "31586",
+                    "url": "/31586/1_1_839033_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/1_1_839033_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "E880aT1N6i4oAm0geCYsZFcmuKut0ec3cpdgSRs3IBQ=",
+                            "rand": "GelukBbRl1nj+he0t0Wcxu9t2Ltcg7XRYcmK3VMLU8Y=",
+                            "encrypt": 1,
+                            "duration": "800.8563",
+                            "rate": "419.678",
+                            "randInit": "ZBWCcRapD0H7eM3W"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/1_1_839033_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "+eWX6KKxsMzt0zRCvnd8IZb1oQGVT8O5EAqQnoap/oU=",
+                            "rand": "+ekYBf2amwJ2DTRKLfMONkivsWkdSZ7m4dETRQ3k8HU=",
+                            "encrypt": 1,
+                            "duration": "800.8098",
+                            "rate": "513.472",
+                            "randInit": "ZBWCcRapD0H7eM3W"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/1_1_839033_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "FuJ4nkjobC7MYsveFInfXBfs1/l6zXnVVVjRTEyaWqw=",
+                            "rand": "gjdsGojf4ZfoTBvskXX+m3fzxPm+Y8/Ti2yX5kFtl0I=",
+                            "encrypt": 1,
+                            "duration": "800.8795",
+                            "rate": "545.245",
+                            "randInit": "ZBWCcRapD0H7eM3W"
+                        }
+                    ]
+                },
+                {
+                    "id": "839032",
+                    "name": "靶机3：symfonos3v2",
+                    "courseId": "31586",
+                    "url": "/31586/1_2_839032_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/1_2_839032_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "HnfENJN94kwZfdsHPJJPs7CCpozMT2JiAiC/evAUEuA=",
+                            "rand": "kyoLZRm0ofQMbg8LXrdGlIPWFqg94qm2FvScDwU/f0g=",
+                            "encrypt": 1,
+                            "duration": "958.4465",
+                            "rate": "437.226",
+                            "randInit": "TFe5xhQKMKzcdySx"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/1_2_839032_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "7kz1JoHP87xAhqzk4nfHhPtw4viVoFgpOiqeRcOplAA=",
+                            "rand": "nA/nJirDDVU9BsIDp+cLLqnUvwzcUvZvRzcmgQPZYUY=",
+                            "encrypt": 1,
+                            "duration": "958.4465",
+                            "rate": "613.878",
+                            "randInit": "TFe5xhQKMKzcdySx"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/1_2_839032_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "BzNsYse+ZHPW22sGgSP8HfzrG84HC72RwgUnQ4rVcy4=",
+                            "rand": "lfS6+VYFu7s6T4cxauHHvMgZMFEqeoL9U/YB99sm7MI=",
+                            "encrypt": 1,
+                            "duration": "958.4465",
+                            "rate": "646.468",
+                            "randInit": "TFe5xhQKMKzcdySx"
+                        }
+                    ]
+                },
+                {
+                    "id": "839031",
+                    "name": "靶机4：Symfonos 4",
+                    "courseId": "31586",
+                    "url": "/31586/1_3_839031_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/1_3_839031_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Cm3QSa6LYiMQEB+9bOhCEaoBSioYOPZ3CRJ3+xjeEeQ=",
+                            "rand": "GRx0TejP9pdb80sAmbKhDykexI4MdUDY5Y9o8P9HUqA=",
+                            "encrypt": 1,
+                            "duration": "968.9664",
+                            "rate": "396.857",
+                            "randInit": "dhHyxiD6yS99DYMF"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/1_3_839031_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "zMgjxLwrYSRtWTsyzUUDWoVqzp7oK2G/BaHWbBkjc4Y=",
+                            "rand": "ofJbWyK+eLp7sB74QSmh8iCQBGzxvuOLNb0Ipwh9C6s=",
+                            "encrypt": 1,
+                            "duration": "968.9664",
+                            "rate": "498.323",
+                            "randInit": "dhHyxiD6yS99DYMF"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/1_3_839031_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "eI9Arn8vSWsr2+REVj852rRXOPBPU33dkHhR80ok85I=",
+                            "rand": "mkgZhoD84MD55mpRN8ZETWtmLJOOAB/Yd1esbvedYvw=",
+                            "encrypt": 1,
+                            "duration": "968.9687",
+                            "rate": "529.732",
+                            "randInit": "dhHyxiD6yS99DYMF"
+                        }
+                    ]
+                },
+                {
+                    "id": "839030",
+                    "name": "靶机5：Symfonos 5",
+                    "courseId": "31586",
+                    "url": "/31586/1_4_839030_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/1_4_839030_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "/8iKcAiECIwRiTnQ3RGN3GOEGO+L5r3rAQcBakqB2IE=",
+                            "rand": "/he5/94dwquMeioZVZCI9z/p47JKi9ehoAaDj0FJr+4=",
+                            "encrypt": 1,
+                            "duration": "916.1664",
+                            "rate": "425.374",
+                            "randInit": "mG4DfKNDE63mS2Zb"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/1_4_839030_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "tkHMBVz5wks4387m2ZgsS06ooKptXgJUx/ZyoR5m6mI=",
+                            "rand": "1rHhKKuPIWOPXtGGk4ALSF3HvLChZmkaZls2Rg7Tkjg=",
+                            "encrypt": 1,
+                            "duration": "916.1664",
+                            "rate": "519.155",
+                            "randInit": "mG4DfKNDE63mS2Zb"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/1_4_839030_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "jFE/diowl3EU8ntRjWuncUv1XZreVFkSFAIka/4i/2o=",
+                            "rand": "SNgEI/tAvxfqVMehAucx+o2LyCOKcfPRTaObo3xFE9Q=",
+                            "encrypt": 1,
+                            "duration": "916.1664",
+                            "rate": "549.948",
+                            "randInit": "mG4DfKNDE63mS2Zb"
+                        }
+                    ]
+                },
+                {
+                    "id": "839025",
+                    "name": "靶机6：GlasgowSmile",
+                    "courseId": "31586",
+                    "url": "/31586/1_5_839025_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31586/1_5_839025_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "3R+bbYbquk4x9dag59cv0XuSuEMSg08WRnrjYbR/RTY=",
+                            "rand": "eybMrOm4DmAcpMAW4uNFl8ACmCpT5a2lO3VbUcNmU3A=",
+                            "encrypt": 1,
+                            "duration": "1547.3665",
+                            "rate": "426.583",
+                            "randInit": "7k0DJwNAPZQWBp0z"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31586/1_5_839025_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "5j8hFs0I7ALEbaAZCGLfkwlJ1+2Q1/z73Kbo8MiWoco=",
+                            "rand": "4t+1Tj2Q/zg5IP1aZPVfYPwnYLtdCJ1J6qPl03SjifE=",
+                            "encrypt": 1,
+                            "duration": "1547.3665",
+                            "rate": "561.106",
+                            "randInit": "7k0DJwNAPZQWBp0z"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31586/1_5_839025_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4gknQmgz4vhD+dnPfYF1YYyzog1akgeyZVCiJaIhZ/E=",
+                            "rand": "APofqNy/cbIdP/g9FaEvrggXNjMTwYWGzKuQ2TlnjaM=",
+                            "encrypt": 1,
+                            "duration": "1547.3665",
+                            "rate": "596.079",
+                            "randInit": "7k0DJwNAPZQWBp0z"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
