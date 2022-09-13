@@ -1,0 +1,605 @@
+{
+    "id": "31213",
+    "name": "OSCP红队专家训练营（0基础）—第二期",
+    "lecturer": "1、对网络安全、Web安全、渗透测试、红队演练有浓厚兴趣的同学；\r\n2、0基础即可入门，有计算机专业背景更佳；",
+    "descriptionText": "建立渗透测试体系和横向思考能力；通过实战，提升渗透测试、红蓝对抗演练能力。",
+    "chapters": [
+        {
+            "id": "103410",
+            "name": "靶机的下载与安装",
+            "courseId": "31213",
+            "sections": [
+                {
+                    "id": "827568",
+                    "name": "靶机的下载与安装",
+                    "courseId": "31213",
+                    "url": "/31213/0_0_827568_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/0_0_827568_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "V9oe6LYCucbd3YLaMn4pvpwkWGUZ+uyaBDIjpA8Lc6A=",
+                            "rand": "t17+dbI8WoW9JFSqOmjCtVEehKRtY4lrrEODjWMPkNI=",
+                            "encrypt": 1,
+                            "duration": "495.6864",
+                            "rate": "358.032",
+                            "randInit": "Prnr9iTFpE4EZZSN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/0_0_827568_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "/EHNqwsMu6Xcs3zPBO123d56V52QK3/6zwZ2WiV33k4=",
+                            "rand": "OcUsZ5DpL5M6ljd8irw8fe4MaFBSAnXMDRtkZqKYS14=",
+                            "encrypt": 1,
+                            "duration": "495.6864",
+                            "rate": "484.336",
+                            "randInit": "Prnr9iTFpE4EZZSN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/0_0_827568_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "xfauwgm5MNei6LDfiDQgETs+zk9bvjHcq+hWq9qY6Z8=",
+                            "rand": "mc3+7aCAz1twfm5iIQUSQHd+/dZt/vyrEah4V4WitUY=",
+                            "encrypt": 1,
+                            "duration": "495.6864",
+                            "rate": "555.851",
+                            "randInit": "Prnr9iTFpE4EZZSN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "103411",
+            "name": "初级靶机演练",
+            "courseId": "31213",
+            "sections": [
+                {
+                    "id": "827567",
+                    "name": "靶机1：DC-6",
+                    "courseId": "31213",
+                    "url": "/31213/1_0_827567_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_0_827567_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "G9vWXKLCx61U1cRQzkUm/ViZD9/fz9E/veFL39GtoCQ=",
+                            "rand": "EkpE6Bv860RNAzobSwJ+JrcE7PZZqSIpxAKiKAjZ/Gs=",
+                            "encrypt": 1,
+                            "duration": "1063.0864",
+                            "rate": "398.449",
+                            "randInit": "S3dWYxHemQFN8sji"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_0_827567_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "KiptdQJo84RrNBhfwZQwICuwNFIKr6KMITSBEjm8qC8=",
+                            "rand": "DXjckbs448wRb7260g1PS2e74AYj+CkBpjQbrs6VrBo=",
+                            "encrypt": 1,
+                            "duration": "1063.0864",
+                            "rate": "479.93",
+                            "randInit": "S3dWYxHemQFN8sji"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_0_827567_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "wZs/2cOznXYYuoGofBYOXNji0hT4gSeKGOksbp4Y480=",
+                            "rand": "ioihrNHQUZ/JEnr2fTkTxBj0JvpdFBKGom96VDRijW4=",
+                            "encrypt": 1,
+                            "duration": "1063.0864",
+                            "rate": "512.136",
+                            "randInit": "S3dWYxHemQFN8sji"
+                        }
+                    ]
+                },
+                {
+                    "id": "827566",
+                    "name": "靶机2：Hackme",
+                    "courseId": "31213",
+                    "url": "/31213/1_1_827566_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_1_827566_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "9px6YA/jXeos5dq3krYO81gfjNj9SsZl2y6lGY/vtYY=",
+                            "rand": "Wolmy29x3RbO+KS/od6ujQJQmWgxHd6DR4HFHs7mjlI=",
+                            "encrypt": 1,
+                            "duration": "942.4064",
+                            "rate": "395.312",
+                            "randInit": "XSP0XC3J33CzHpYC"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_1_827566_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "9QecfOufgv0MGf2UESRfN8HrjlLdMTr7NzoiQGL+LYM=",
+                            "rand": "4ZT3+HEdreB9kbXVwsteVcnUsYVD8pPVroA4fFOghOo=",
+                            "encrypt": 1,
+                            "duration": "942.4064",
+                            "rate": "466.774",
+                            "randInit": "XSP0XC3J33CzHpYC"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_1_827566_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "zjtPfxqre2/t0wdMvZ2tlWiDZSGZM36t81D0yLIqFGs=",
+                            "rand": "ooyntonbUiAfDEPIie668aDF4EcdIgmCMUNGQAMGYRM=",
+                            "encrypt": 1,
+                            "duration": "942.4064",
+                            "rate": "499.763",
+                            "randInit": "XSP0XC3J33CzHpYC"
+                        }
+                    ]
+                },
+                {
+                    "id": "827565",
+                    "name": "靶机3：Mr-Robot",
+                    "courseId": "31213",
+                    "url": "/31213/1_2_827565_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_2_827565_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "WhCv9D1QKTRv0EmAyuAWOLmRzP5mPOy3GFtcrav3ic8=",
+                            "rand": "OS33M0m/NkB2yZ0EJdM4bouwI0YgWv2SLmUMj0M7zsU=",
+                            "encrypt": 1,
+                            "duration": "1069.4865",
+                            "rate": "397.228",
+                            "randInit": "QTKXM8wYBTFpKpHc"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_2_827565_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "RDPKNF2UUIHaubkF36XQDcTSOO//U3ptVimTemchRuw=",
+                            "rand": "V2XUcNDMamwtUhWKWdxCjvq7E9ZS3BKVJJkKl2j4R/Y=",
+                            "encrypt": 1,
+                            "duration": "1069.4865",
+                            "rate": "482.075",
+                            "randInit": "QTKXM8wYBTFpKpHc"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_2_827565_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "nqv/bD+LBHBxkdT4Ba8JIvPJm76KFnGeO8QEwApmkg8=",
+                            "rand": "Y1FxMcHwom21QQw+S8wK6Lp14dae83LVmdEoaUZWj3w=",
+                            "encrypt": 1,
+                            "duration": "1069.4865",
+                            "rate": "516.528",
+                            "randInit": "QTKXM8wYBTFpKpHc"
+                        }
+                    ]
+                },
+                {
+                    "id": "827564",
+                    "name": "靶机4：zico2",
+                    "courseId": "31213",
+                    "url": "/31213/1_3_827564_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_3_827564_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "89wq37C+Zv+1YuNfQGZKoKl5tE4Q33QOcVNORjiFQIk=",
+                            "rand": "WgvlUSes+IjLdBsjpptqwkLMWcmgpylk1BeCIlVg/ig=",
+                            "encrypt": 1,
+                            "duration": "971.8065",
+                            "rate": "412.484",
+                            "randInit": "x0yBRHpZBbs6jrTx"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_3_827564_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "IX6xHZRLowhVcXDJM7oRmiexlKkhVT+JnvBJIZv27Zo=",
+                            "rand": "R7hNcY7W0dDiE7Wnm7MB2RVcZePH1allqxADg/HFuTk=",
+                            "encrypt": 1,
+                            "duration": "971.8248",
+                            "rate": "535.347",
+                            "randInit": "x0yBRHpZBbs6jrTx"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_3_827564_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "dtBk7mUkHjTnwjb/C22FOg2V6+4iHP6IZJ6unMJVFys=",
+                            "rand": "ZrN/YopzvjbbYDJPuTwDhMZsOrG4g+Am2T8RGvJSC2I=",
+                            "encrypt": 1,
+                            "duration": "971.8065",
+                            "rate": "568.894",
+                            "randInit": "x0yBRHpZBbs6jrTx"
+                        }
+                    ]
+                },
+                {
+                    "id": "827563",
+                    "name": "靶机5：Lin.Security",
+                    "courseId": "31213",
+                    "url": "/31213/1_4_827563_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_4_827563_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "XNlYvqUfUo2QU+GAgFtZ88WMsZ5HbYd2g6vFIkpOHWc=",
+                            "rand": "fNXhIJDx4rDOeyLrXO6UoVkNK3cLwgtC2RuHzVESoQo=",
+                            "encrypt": 1,
+                            "duration": "477.7664",
+                            "rate": "390.003",
+                            "randInit": "8AMYieC4hZGmSzyB"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_4_827563_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Y46RehDhISf1rkH35LWs8c1vQ+m19XxwGxdPOQRqtlg=",
+                            "rand": "znXvaKuj/FcKjw+bZdlGac1s8wDk0yiLsH7BN7jqYnQ=",
+                            "encrypt": 1,
+                            "duration": "477.7664",
+                            "rate": "442.026",
+                            "randInit": "8AMYieC4hZGmSzyB"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_4_827563_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "mj7opO76rNjIlGu0UvKo2jHeNQiEGrx60l+rmNaReTA=",
+                            "rand": "UWeeV/1tj6tzinuKc765gMUx0F8dqf5llKP/SKK+oJA=",
+                            "encrypt": 1,
+                            "duration": "477.7664",
+                            "rate": "470.418",
+                            "randInit": "8AMYieC4hZGmSzyB"
+                        }
+                    ]
+                },
+                {
+                    "id": "827558",
+                    "name": "靶机5：Lin.Security之定时任务提权",
+                    "courseId": "31213",
+                    "url": "/31213/1_5_827558_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_5_827558_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "jCbRfSj3A1HjsU7nOZKN5S+xmxNLXfokjsNCJjZCGOQ=",
+                            "rand": "GdOmfkKZzaCehnesk3tGp2RF2CfcJ2Vwve33+KFIohs=",
+                            "encrypt": 1,
+                            "duration": "288.8065",
+                            "rate": "373.965",
+                            "randInit": "4iDspRNtc9aWea6Y"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_5_827558_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Nl6NLf2GH39ybR8TAvQzvPRc0lSEXwhnWLNM/k1wC/8=",
+                            "rand": "8PmfuTCgMqIjWndTVKpLyvRilHHyUXsUcxxAsFAEFXE=",
+                            "encrypt": 1,
+                            "duration": "288.8065",
+                            "rate": "419.36",
+                            "randInit": "4iDspRNtc9aWea6Y"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_5_827558_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "qjf17r9OSCF7ay7hBQA7+GizVW5aPfWGbsNZlNxaFSs=",
+                            "rand": "iSqowDtCzdtJUTLxBiRF48goAn/hLZK6f1vvZzIZYPM=",
+                            "encrypt": 1,
+                            "duration": "288.8098",
+                            "rate": "447.804",
+                            "randInit": "4iDspRNtc9aWea6Y"
+                        }
+                    ]
+                },
+                {
+                    "id": "827562",
+                    "name": "靶机6：Escalate_Linux",
+                    "courseId": "31213",
+                    "url": "/31213/1_6_827562_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_6_827562_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "RZrwRyDnfqAQkPNeMl6CaZwFtuSo6i3TAMuBf8rBhug=",
+                            "rand": "/mDw38FZR5oul1xKzIngE/LWKHDcp7HPmZoMR/MDe7I=",
+                            "encrypt": 1,
+                            "duration": "559.8065",
+                            "rate": "387.311",
+                            "randInit": "KNkEZYF6iEyQEYsS"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_6_827562_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "uhOAlSQrOeCEQMAiJTGVgTeizxm+XXH6Qs+zNBgPsPA=",
+                            "rand": "ORM63wO+fW1v74npyS7vAbdAqOTB1d0MMlnl2RKiHPg=",
+                            "encrypt": 1,
+                            "duration": "559.8065",
+                            "rate": "482.641",
+                            "randInit": "KNkEZYF6iEyQEYsS"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_6_827562_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "N+OEaDJ65E08pfgbI6+kyYm2m/xInJGS+uowLaQAkmI=",
+                            "rand": "PQsJCNwBnW/SeluN02uwqtFS4lAT2rH3NE3bLPNx8nk=",
+                            "encrypt": 1,
+                            "duration": "559.8065",
+                            "rate": "513.992",
+                            "randInit": "KNkEZYF6iEyQEYsS"
+                        }
+                    ]
+                },
+                {
+                    "id": "827561",
+                    "name": "靶机6：Escalate_Linux之全局环境变量提权",
+                    "courseId": "31213",
+                    "url": "/31213/1_7_827561_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_7_827561_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "CJg0VYfYKUtU6imhtRSJBIuDg50/Lrk5cklS0n+cV3A=",
+                            "rand": "vX4bycK4s+J8Q7g+Y72T0mCvQr+JborqwOdgfGn5DvE=",
+                            "encrypt": 1,
+                            "duration": "301.6064",
+                            "rate": "390.463",
+                            "randInit": "tTK5yMAr2mtBGHjb"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_7_827561_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "8tjKrEcG87WCnIlaXzjq7iUWVKR/DjQPi17OUyvBcB4=",
+                            "rand": "7NHz1XZ+tb3TNtvYzHVAnwLp37vWiw3dKMwrHWojAko=",
+                            "encrypt": 1,
+                            "duration": "301.6272",
+                            "rate": "434.938",
+                            "randInit": "tTK5yMAr2mtBGHjb"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_7_827561_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "zyVLf0y4WKadfNLvqrW1RWhVeC8de31ZsHZpWvWokNA=",
+                            "rand": "/0LcnJpuO5Q6ZKF2z+iNzCAKKLRz/1uuxG4p74zxF1w=",
+                            "encrypt": 1,
+                            "duration": "301.6272",
+                            "rate": "464.173",
+                            "randInit": "tTK5yMAr2mtBGHjb"
+                        }
+                    ]
+                },
+                {
+                    "id": "827560",
+                    "name": "靶机6：Escalate_Linux之计划任务提权",
+                    "courseId": "31213",
+                    "url": "/31213/1_8_827560_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_8_827560_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Kg3Tpq+5fYAkvhy6Qfa/ZQTw9ppS2ctd61bwUx5t6No=",
+                            "rand": "rNDIaWliJxfzYebdLini3VYD+zQvMY0GGDTMBb2naaM=",
+                            "encrypt": 1,
+                            "duration": "379.1664",
+                            "rate": "384.283",
+                            "randInit": "QYtZCJ8HejsJGxWY"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_8_827560_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "P+3v3YKBkKNjV2/2mqfzgH45utDCC51k0eFVqnhpNfU=",
+                            "rand": "GpnHASVMar9v8OrySLJCu6YT+J6GPYQ+iRoiDmOZZVE=",
+                            "encrypt": 1,
+                            "duration": "379.1664",
+                            "rate": "461.517",
+                            "randInit": "QYtZCJ8HejsJGxWY"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_8_827560_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "x43T/vsYVhnJjNI7VTNcOg8VLuiqEiVkU4atdXqMlyE=",
+                            "rand": "Hla+5YOU257pfD1zzLPEhkKwpuyF3q3z7PswMnWn7Ys=",
+                            "encrypt": 1,
+                            "duration": "379.1664",
+                            "rate": "486.78",
+                            "randInit": "QYtZCJ8HejsJGxWY"
+                        }
+                    ]
+                },
+                {
+                    "id": "827559",
+                    "name": "靶机6：Escalate_Linux之vi写入提权",
+                    "courseId": "31213",
+                    "url": "/31213/1_9_827559_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31213/1_9_827559_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "THsNNDXLvuGIg76+VkOeu51Qo0DYFzjS3KVzir/DFxY=",
+                            "rand": "b1rRmrd4IJTo1pQKla3Q6IGfV7bJxue2f8XbIrtImpM=",
+                            "encrypt": 1,
+                            "duration": "252.3664",
+                            "rate": "386.544",
+                            "randInit": "pdMT44WrMyzB6tSa"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31213/1_9_827559_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "1FR6nLYB86A0/UVNGalz1eXHLmLvQ436Wmv/K9tFLIw=",
+                            "rand": "x+APWt9gPZF61NDLfYoqDzAZtL2i4thP+FliGuq3saI=",
+                            "encrypt": 1,
+                            "duration": "252.3664",
+                            "rate": "441.945",
+                            "randInit": "pdMT44WrMyzB6tSa"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31213/1_9_827559_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9/IkzbNs+Awps5EQl7FMCgiIlqiSiD95UKshKE1s2zA=",
+                            "rand": "+m5ubAkQulku2/z4Bc9MTRxNVCS0da/F71iP5U5Itwg=",
+                            "encrypt": 1,
+                            "duration": "252.3777",
+                            "rate": "469.582",
+                            "randInit": "pdMT44WrMyzB6tSa"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
