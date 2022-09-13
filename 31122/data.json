@@ -1,0 +1,552 @@
+{
+    "id": "31122",
+    "name": "OSCP红队专家训练营（0基础）—第一期",
+    "lecturer": "1、对网络安全、Web安全、渗透测试、红队演练有浓厚兴趣的同学；\r\n2、0基础即可入门，有计算机专业背景更佳；\r\n\r\n",
+    "descriptionText": "建立渗透测试体系和横向思考能力；通过实战，提升渗透测试、红蓝对抗演练能力。",
+    "chapters": [
+        {
+            "id": "102979",
+            "name": "靶机与工具安装",
+            "courseId": "31122",
+            "sections": [
+                {
+                    "id": "825645",
+                    "name": "课时1：Vmware虚拟机下载与安装",
+                    "courseId": "31122",
+                    "url": "/31122/0_0_825645_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/0_0_825645_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "v7T9kvsvvsLq7YBVX/LSsCPbGEl2IM3JWsrUD1vLL8g=",
+                            "rand": "MQvEgh+jvHzkjlVHDmm6qxL/ijKwY1VkxRKFIBFRX9Q=",
+                            "encrypt": 1,
+                            "duration": "377.1849",
+                            "rate": "366.764",
+                            "randInit": "dMwe0SAfsM49ii9Z"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/0_0_825645_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "blkjA6jkdPmAIJx81BpguC4UyR/YoUxpM+5R3qwAUxU=",
+                            "rand": "ocYgaOEd0M2q3nMrLCmD6qmdQzPbOFnYsu/Jynf/jkE=",
+                            "encrypt": 1,
+                            "duration": "377.1664",
+                            "rate": "419.458",
+                            "randInit": "dMwe0SAfsM49ii9Z"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/0_0_825645_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "S41pK17jJ0sBz8oJ8hnOTtPL7Lv9SZ2NnOa2+ipAWxA=",
+                            "rand": "+Vq6fwX5xJ75brD0uhg43XEDSjuZ2RFKOOd5bpWwMUU=",
+                            "encrypt": 1,
+                            "duration": "377.1664",
+                            "rate": "446.052",
+                            "randInit": "dMwe0SAfsM49ii9Z"
+                        }
+                    ]
+                },
+                {
+                    "id": "825644",
+                    "name": "课时2：Kali Linux系统下载与安装",
+                    "courseId": "31122",
+                    "url": "/31122/0_1_825644_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/0_1_825644_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "8DS56ChrNVcyXZ4TDhnCEXS5oSa/AzdVNHDxTPLPO6A=",
+                            "rand": "G8+1MmpwhhHoyTLo7s+rvExVnFABGCJ6g7QtYnjbngU=",
+                            "encrypt": 1,
+                            "duration": "685.4865",
+                            "rate": "310.527",
+                            "randInit": "iTcwm9eJcbfCWmRQ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/0_1_825644_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Q0kXuA2Qv9WdIQ5WKsh/jQwA5rp+E/3+dkxCXGiuMcI=",
+                            "rand": "W+pkuiXJ7+oCPwBiDRrkxduKEU3Qw087bLa6G59mGFw=",
+                            "encrypt": 1,
+                            "duration": "685.4865",
+                            "rate": "398.606",
+                            "randInit": "iTcwm9eJcbfCWmRQ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/0_1_825644_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "uf3Dovnt2ne9CMClTIJEKfJqmPxoyV532HwYWHVFQJ0=",
+                            "rand": "8hcSB7f68FsSLjaYN8hodzPNPiRtnWVsLbJOGcjAoTA=",
+                            "encrypt": 1,
+                            "duration": "685.4865",
+                            "rate": "414.212",
+                            "randInit": "iTcwm9eJcbfCWmRQ"
+                        }
+                    ]
+                },
+                {
+                    "id": "825643",
+                    "name": "课时3：靶机的下载与安装",
+                    "courseId": "31122",
+                    "url": "/31122/0_2_825643_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/0_2_825643_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "9G2dNhh+9Yfeam4c8k6Bp63JoOaxrm3zhn8itQQbC+k=",
+                            "rand": "TFu0istkAydsDM3Mg1QJ33kkWgT/cIXi/56jtfPLkEA=",
+                            "encrypt": 1,
+                            "duration": "255.2464",
+                            "rate": "305.942",
+                            "randInit": "nA8DdjDJnQcTMDRR"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/0_2_825643_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "boHb+ApuPRACI/ETRqvXIuDUzuALPaPZR4iNaDJfAH0=",
+                            "rand": "un1Ym0cO1mxgmZ0g8bprPn7uvCm9Sbvpdjy1gxvdpP4=",
+                            "encrypt": 1,
+                            "duration": "255.2464",
+                            "rate": "362.644",
+                            "randInit": "nA8DdjDJnQcTMDRR"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/0_2_825643_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "1h3eLW+s74VYcpf69JXSdyV2l7IF8r5mJVfgUm7sGGo=",
+                            "rand": "f2f3IsnbpWZ5xGsmbyKg5Fp8saAwdqDEbE0gWOVRZp4=",
+                            "encrypt": 1,
+                            "duration": "255.2570",
+                            "rate": "395.283",
+                            "randInit": "nA8DdjDJnQcTMDRR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "102980",
+            "name": "初级靶机演练",
+            "courseId": "31122",
+            "sections": [
+                {
+                    "id": "825642",
+                    "name": "课时4：靶机1：Kioptrix Level 1",
+                    "courseId": "31122",
+                    "url": "/31122/1_0_825642_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_0_825642_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "/cEvnrR+PAys9h2RteoWkGVTUxnFAVU00DtpR9y+FI4=",
+                            "rand": "E0+gn1m1Iq/2auunKOl8VZ6Z+7SzlZXMznSzCmylbpw=",
+                            "encrypt": 1,
+                            "duration": "747.4465",
+                            "rate": "393.241",
+                            "randInit": "QpmYzcRwMZ86abFY"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_0_825642_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "RrJRMTGCsnOErrUQhxD2pvxaNvoh51pYvST3fKw2JEI=",
+                            "rand": "bHWu+pBQ6JYznzFc82WtKT4worOc6UyLf8pTDamzpoM=",
+                            "encrypt": 1,
+                            "duration": "747.4465",
+                            "rate": "478.903",
+                            "randInit": "QpmYzcRwMZ86abFY"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_0_825642_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "c4fCJ7zOkT3wX08L4R0P2mer76Y46N4h0sU2cb6VWik=",
+                            "rand": "IUy3GHsdbqT2Ns/PnXQYNAtjQIJDaYWp7E7wgrsacgw=",
+                            "encrypt": 1,
+                            "duration": "747.4465",
+                            "rate": "512.189",
+                            "randInit": "QpmYzcRwMZ86abFY"
+                        }
+                    ]
+                },
+                {
+                    "id": "825641",
+                    "name": "课时5：靶机2：Kioptrix Level 2",
+                    "courseId": "31122",
+                    "url": "/31122/1_1_825641_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_1_825641_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "6LVKUYhIsqYYfqlpTausEU4LumvU3KwbNEF599DR6nA=",
+                            "rand": "Z2js2Aw4bBcrGHgQupAHYXzrDIDp76kOo+Jy9H6DhbM=",
+                            "encrypt": 1,
+                            "duration": "660.7264",
+                            "rate": "411.929",
+                            "randInit": "5JFGWzebPy9kYs0W"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_1_825641_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "+of3p6mD6E03rZPdilOHgWXTJN8KIDIK0yPlJ2gyq6s=",
+                            "rand": "bsPzR+DA0Ugo0E4YidH9Ko7zAoZ5xSSHVC2+EpzYOJ0=",
+                            "encrypt": 1,
+                            "duration": "660.7264",
+                            "rate": "531.316",
+                            "randInit": "5JFGWzebPy9kYs0W"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_1_825641_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "azvnSACx24UrofTPWBcZi96LOJzngzq/cHLiQagFnDA=",
+                            "rand": "7qkO6zKrxo/BGFWGTd5crb4aP6q2eP+Y5B5nZDcVwcs=",
+                            "encrypt": 1,
+                            "duration": "660.7470",
+                            "rate": "569.64",
+                            "randInit": "5JFGWzebPy9kYs0W"
+                        }
+                    ]
+                },
+                {
+                    "id": "825637",
+                    "name": "课时6：靶机3：KioptrixVM3",
+                    "courseId": "31122",
+                    "url": "/31122/1_2_825637_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_2_825637_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "VgITGQGtmUKZdhwPFEAyubzwRHMQNQ139CPgqxViiyU=",
+                            "rand": "eQbd78e1rcITCb+HSirKUczmpGFsSfyQD71HNzQ4rcs=",
+                            "encrypt": 1,
+                            "duration": "875.1664",
+                            "rate": "380.706",
+                            "randInit": "cYrMe8RENbmZTi7S"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_2_825637_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "oCj55MniPr9/9U9y84l+wzY05IwsIAzJy3S/aHqhNAk=",
+                            "rand": "G5kmWMMRfy1XWUm7at0dbsdP50V/LtyriSq/g+6T5oU=",
+                            "encrypt": 1,
+                            "duration": "875.1664",
+                            "rate": "487.954",
+                            "randInit": "cYrMe8RENbmZTi7S"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_2_825637_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "UBdY9ZZKS/+YWNFcG+MA4PCVhPppu/gSAThRL56NO48=",
+                            "rand": "y48o8ihYJ1SVcDn0xxIX8A178KfuOkXUrSpVBYz5g+Y=",
+                            "encrypt": 1,
+                            "duration": "875.1664",
+                            "rate": "523.455",
+                            "randInit": "cYrMe8RENbmZTi7S"
+                        }
+                    ]
+                },
+                {
+                    "id": "825640",
+                    "name": "课时7：靶机4：Kioptrix4_Hyper_v",
+                    "courseId": "31122",
+                    "url": "/31122/1_3_825640_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_3_825640_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "WLlX7PtUItmZqX/zeGoHBUPlEzzOphGjeQ9OsYVDYBE=",
+                            "rand": "U52nJ04+d0hqyRTq2dAY9oQ7gz0LGRscFo2djWdcU44=",
+                            "encrypt": 1,
+                            "duration": "710.3665",
+                            "rate": "373.599",
+                            "randInit": "7HPs9mf934Bj7Ek9"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_3_825640_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ubvQnS5MeRr1ZEfKaf0QeQlyvhBMgXpW8AUgYKrjQ/w=",
+                            "rand": "NNUOdSLCSFcMmtEf7NzP7cOHx/WbOJ67ujpQdIOdbSY=",
+                            "encrypt": 1,
+                            "duration": "710.3913",
+                            "rate": "476.463",
+                            "randInit": "7HPs9mf934Bj7Ek9"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_3_825640_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "BBpykx95enRxz67mG2S4kMHL9xBoW/RxXWxJOo7fMNs=",
+                            "rand": "qRpfk9qybvXl5JdxRCKvx30ldOqhpBGHz73lySuskog=",
+                            "encrypt": 1,
+                            "duration": "710.3665",
+                            "rate": "512.355",
+                            "randInit": "7HPs9mf934Bj7Ek9"
+                        }
+                    ]
+                },
+                {
+                    "id": "825639",
+                    "name": "课时8：靶机5：Toppo 1",
+                    "courseId": "31122",
+                    "url": "/31122/1_4_825639_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_4_825639_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Gd+gCnRiZcfh4WQaGvrL5w1n8LKujIVEjkSVS+khk0g=",
+                            "rand": "Z3BWKedhG9IX4BjsN4DveXNHKNfcQ68/ofNdUvsuacs=",
+                            "encrypt": 1,
+                            "duration": "479.7664",
+                            "rate": "374.026",
+                            "randInit": "43GrmSp8zm35n952"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_4_825639_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Pzh4m/NqJwv8lkPhHdTSVo6+py2tSGInXNccRK7pTLA=",
+                            "rand": "DAuiLu3cySM3a+CL8KINoRkzZNFeIl0fsoc9Ky0cFfU=",
+                            "encrypt": 1,
+                            "duration": "479.7664",
+                            "rate": "478.542",
+                            "randInit": "43GrmSp8zm35n952"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_4_825639_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "SyjRZ0dkUSQ0tJ3MYLb92S0iBgJKEsrDxDeL7Tssqq8=",
+                            "rand": "qzJ7u6dky+wzX7IdA8NFlt2T9kezwSDy/+HG9zx7/0g=",
+                            "encrypt": 1,
+                            "duration": "479.7664",
+                            "rate": "510.947",
+                            "randInit": "43GrmSp8zm35n952"
+                        }
+                    ]
+                },
+                {
+                    "id": "825638",
+                    "name": "课时9：靶机6：fristileaks-1-3",
+                    "courseId": "31122",
+                    "url": "/31122/1_5_825638_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_5_825638_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "8e5q6m+YqdcUUpDg+dn6xLcM2rUdXZWzTkTtpUS4C14=",
+                            "rand": "ntb+vWrWTPgAGLInimbHcCcaovo89GKXI5n7fjK/FRE=",
+                            "encrypt": 1,
+                            "duration": "1314.1665",
+                            "rate": "362.762",
+                            "randInit": "QscQWnfRYJd28aDQ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_5_825638_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "JfM/HiiNDQyczpKOuDksgsNgYyjt1DG5zKjl4s+vLpE=",
+                            "rand": "5Ld3AWmZrhp2PwWNr8T5umafSAkyA2zqvhzGS4FBzOo=",
+                            "encrypt": 1,
+                            "duration": "1314.1665",
+                            "rate": "531.197",
+                            "randInit": "QscQWnfRYJd28aDQ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_5_825638_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Cs9IVXh0uHqQwlMrp7cSmW5GH66VQZh9NWRJFfsrNLw=",
+                            "rand": "BWFCY+ZZeJwRZBgRR31lGx2pY4nuIpzeYedsCsqWfj0=",
+                            "encrypt": 1,
+                            "duration": "1314.1665",
+                            "rate": "620.019",
+                            "randInit": "QscQWnfRYJd28aDQ"
+                        }
+                    ]
+                },
+                {
+                    "id": "838857",
+                    "name": "Kali Linux系统镜像",
+                    "courseId": "31122",
+                    "url": "/31122/1_6_838857_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/31122/1_6_838857_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "or831+gXNI+K0c5BVs/+WttAh1323p4dPXQp5BzXnbw=",
+                            "rand": "f7rDMQh5gOgi0kugf9Ondd+qIMNCCWzbRBiEXuYWrY8=",
+                            "encrypt": 1,
+                            "duration": "685.4865",
+                            "rate": "310.527",
+                            "randInit": "TAZD3K9kmFZNxHdz"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/31122/1_6_838857_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "g382dCPeHYvYPtmBZGJN6WCL/BnVDkf1gEV99igKcD0=",
+                            "rand": "XdwWpoowgMwxBeNnEtrJHNG81r6YsDBqTAuwazJ4kac=",
+                            "encrypt": 1,
+                            "duration": "685.4865",
+                            "rate": "398.606",
+                            "randInit": "TAZD3K9kmFZNxHdz"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/31122/1_6_838857_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "+3e4nk2FipbNkMpNQ8QyTtiYbkR4r1/qNkRVblActvw=",
+                            "rand": "z6lbdTCUhmDtN4h4e1PgDr6dVFqRAlmE7hg/9NdH9fE=",
+                            "encrypt": 1,
+                            "duration": "685.4865",
+                            "rate": "414.212",
+                            "randInit": "TAZD3K9kmFZNxHdz"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
