@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
-#EXT-X-KEY:METHOD=AES-128-PES,URI="https://api-cto.go8.workers.dev/p/66f17ccd38788b8e83fb300b35b619a0f888c410dfdffc83fd9bcf9d6b46217951aff922888034f2cfeef1c9948a84c9f08e8776ef1d9fc12957ad8e3cd28527"
+#EXT-X-KEY:METHOD=AES-128-PES,URI="https://api-cto.go8.workers.dev/p/7bdfcdd207fcb4bae02127aae70f7f1eca6cbc81babb5a637d3cc1bbb7c4315cb82ab630fbacf206761d025ff36120336ea0c5ff159714776c64d5b550f26ca1d2812e118bde6253222428126581a1d16cd29694fb296f4a742ea31fd95d7204"
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:6.000000
 https://v30.51cto.com/60d99212e35442a588da9b3ed5d0e839/3f16f282ba8795ecb984a3a21fbea7eb-sd-encrypt-stream-00001.ts?_ali_next_ts=3f16f282ba8795ecb984a3a21fbea7eb-sd-encrypt-stream-00002.ts%203f16f282ba8795ecb984a3a21fbea7eb-sd-encrypt-stream-00003.ts&_ali_ts_dur=6&_ali_next_ts_m5=b8aa39d46e7b8fc30d55c6504ed977ab
