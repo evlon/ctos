@@ -1,0 +1,1216 @@
+{
+    "id": "28974",
+    "name": "AIOPS的崛起与实践",
+    "lecturer": "运维工程师\r\n机器学习工程师\r\n自动化运维工程师\r\n对智能运维感兴趣的工程师",
+    "descriptionText": "完成智能运维的入门工作，了解智能运维的工作流程与常用技术。",
+    "chapters": [
+        {
+            "id": "93695",
+            "name": "运维的本质：什么是运维？",
+            "courseId": "28974",
+            "sections": [
+                {
+                    "id": "762313",
+                    "name": "运维的本质1：什么是运维？",
+                    "courseId": "28974",
+                    "url": "/28974/0_0_762313_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/0_0_762313_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "gM8lt2q5gqNgSQt08OnKvPLf0DrBQXA/fw/Q3+gaJUE=",
+                            "rand": "DdMKAVbijlu+NvB/AyM0aVriM5KlwK7my+KmIjyXpz4=",
+                            "encrypt": 1,
+                            "duration": "234.0464",
+                            "rate": "257.235",
+                            "randInit": "4sNfHR0Snm89KY3R"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/0_0_762313_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "QuJC2PA6QbUgCZVCbhD796olQ2+BrSkjvTAkXeH8Huc=",
+                            "rand": "r0lteB6yLWAt8OplY0J19eyLAStTrAMUqJJLiHXpibk=",
+                            "encrypt": 1,
+                            "duration": "234.0464",
+                            "rate": "348.402",
+                            "randInit": "4sNfHR0Snm89KY3R"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/0_0_762313_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "uASttbBUltm1Rhog7qjTf0OsJIoDCmExvIFjVCG20kQ=",
+                            "rand": "8HyWIwhc2R33qGcX7ssDU4KgtC3cyxplKYUGI/Ow1lw=",
+                            "encrypt": 1,
+                            "duration": "234.0571",
+                            "rate": "452.079",
+                            "randInit": "4sNfHR0Snm89KY3R"
+                        }
+                    ]
+                },
+                {
+                    "id": "762312",
+                    "name": "运维的本质2：什么是运维？",
+                    "courseId": "28974",
+                    "url": "/28974/0_1_762312_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/0_1_762312_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "mbRR9x8nAsknOcG6AEXGRewclGyCDkHdg2NQWJJHLAI=",
+                            "rand": "DhOOcSyrB4TwiVPvrHN61BTWzUX3ye4IfCWss/dlaX4=",
+                            "encrypt": 1,
+                            "duration": "486.3264",
+                            "rate": "224.941",
+                            "randInit": "T9ejhKeyTf4BS5GJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/0_1_762312_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "1Jb8t3NIdLcOuROSiH2EBykcowpOaLHeUlIUXgcVghI=",
+                            "rand": "segFcDAz7iO9/LzNc7jWRPgYxH2WBsdK9SrxHxAwMh8=",
+                            "encrypt": 1,
+                            "duration": "486.3264",
+                            "rate": "295.637",
+                            "randInit": "T9ejhKeyTf4BS5GJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/0_1_762312_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "W1EQ5gntPNwQ1oh2KQnDhtNU87Mlq/YnfkaJAbzynk8=",
+                            "rand": "h/qTqwrE6kP2pV7/a4qdqc+BPMKBTXxKXoTgUOXWjfs=",
+                            "encrypt": 1,
+                            "duration": "486.3264",
+                            "rate": "389.416",
+                            "randInit": "T9ejhKeyTf4BS5GJ"
+                        }
+                    ]
+                },
+                {
+                    "id": "762311",
+                    "name": "运维的技术涵盖",
+                    "courseId": "28974",
+                    "url": "/28974/0_2_762311_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/0_2_762311_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "X8QgjTwCCM27rxbcPOpNuWqjjJovZG8qu2Rcj5G1TnU=",
+                            "rand": "K20VvSx15VW08ml/tBNfnWFWOB9vij4g87dJGLunFGs=",
+                            "encrypt": 1,
+                            "duration": "441.5664",
+                            "rate": "233.566",
+                            "randInit": "yiSQkwdHsjjx5FK2"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/0_2_762311_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "SjhMji8T8V9mbcffkEpwPRD0teZv1yilbJ1pkzGzbAY=",
+                            "rand": "GH0kYN/s4tW8YeL/ZzX/vV7MeDfE1V6Js4thdeKHU00=",
+                            "encrypt": 1,
+                            "duration": "441.5664",
+                            "rate": "312.468",
+                            "randInit": "yiSQkwdHsjjx5FK2"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/0_2_762311_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "CVWx/piUIGTOGXhBsKmDWtDubbJ7ccayaKBD4hM5SBs=",
+                            "rand": "FR0qlkSOZSVsmWWWA8SywIseDo37TULtJdoiOjYpIjE=",
+                            "encrypt": 1,
+                            "duration": "441.5664",
+                            "rate": "410.824",
+                            "randInit": "yiSQkwdHsjjx5FK2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "93697",
+            "name": "运维发展的关键阶段",
+            "courseId": "28974",
+            "sections": [
+                {
+                    "id": "762569",
+                    "name": "两个关键阶段——Devops",
+                    "courseId": "28974",
+                    "url": "/28974/1_0_762569_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/1_0_762569_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "j0pi1vm2+oVmg6u+HRHCyT17Upe0kQn8SxghsNAeFsk=",
+                            "rand": "RRbqnBhWVtqlvDcAZ/VgNNeVZNVeYcYV4MlIYFa5kfM=",
+                            "encrypt": 1,
+                            "duration": "495.2464",
+                            "rate": "290.968",
+                            "randInit": "Sr4GHPPPb72nY4xz"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/1_0_762569_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "NJ/G9D3hbWsUygtT8KceOUr9r2faCX/ku7pi2xwX+gM=",
+                            "rand": "kyUhhwWIxb7wO4OZIUoqe7RiDssM9GQGvBicmspSSNk=",
+                            "encrypt": 1,
+                            "duration": "495.2464",
+                            "rate": "418.772",
+                            "randInit": "Sr4GHPPPb72nY4xz"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/1_0_762569_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Bp02yf5Ic/3VUqW47TaS0JLdhA1fkYhyzu935VD6CRo=",
+                            "rand": "7N0MHPT81s6ufbWp95DanMvbvY6dLQIzVw0X7hVvUug=",
+                            "encrypt": 1,
+                            "duration": "495.2464",
+                            "rate": "595.208",
+                            "randInit": "Sr4GHPPPb72nY4xz"
+                        }
+                    ]
+                },
+                {
+                    "id": "762310",
+                    "name": "两个关键阶段1——DataOPS",
+                    "courseId": "28974",
+                    "url": "/28974/1_1_762310_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/1_1_762310_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "hobu2ro+eS4beTN+fdUmIqd+uAqtfPmPhaHdTYUcVT0=",
+                            "rand": "7wMH0nMCvyDzFGa8SeQ0BJeRz8LkSb0o9KAEZS4Kt+U=",
+                            "encrypt": 1,
+                            "duration": "150.4464",
+                            "rate": "296.868",
+                            "randInit": "ABGfHHRN6SZPsmPx"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/1_1_762310_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "lo6x/fBSCSakLHRfCY9ITkpHB7VXpf58GsdO4a8KLuo=",
+                            "rand": "m4mKQ6FBO4kxcU4epkySg/gkuoMsIh19UZRi09KWlyM=",
+                            "encrypt": 1,
+                            "duration": "150.4464",
+                            "rate": "411.772",
+                            "randInit": "ABGfHHRN6SZPsmPx"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/1_1_762310_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "DxD0PUApHVa9MQNU8tl2yZWi89O75ps848NKVUjgb70=",
+                            "rand": "V89Z375GJKT2GNIKLXLoL62GySadLas9Bej6xPKIguA=",
+                            "encrypt": 1,
+                            "duration": "150.4464",
+                            "rate": "539.303",
+                            "randInit": "ABGfHHRN6SZPsmPx"
+                        }
+                    ]
+                },
+                {
+                    "id": "762309",
+                    "name": "两个关键阶段2——DataOPS",
+                    "courseId": "28974",
+                    "url": "/28974/1_2_762309_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/1_2_762309_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "xzM5RQRl6i3V/bydaIpt8M1jO192c/tVwRv8MAibhWM=",
+                            "rand": "dnZeYuYBex3BXjetQbe++PGhhgVSjkYFAp8SLQ+FH60=",
+                            "encrypt": 1,
+                            "duration": "384.5921",
+                            "rate": "267.616",
+                            "randInit": "c75TCQXiH5G3DhAQ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/1_2_762309_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "zcCahKvxjKntduAVJxBHJt0Q6Ms3RFOmetTGDUoP5b0=",
+                            "rand": "tAA+QqdH8W5krOUSRfkR0/DHBnoQceXO82VBnCpCdBc=",
+                            "encrypt": 1,
+                            "duration": "384.5664",
+                            "rate": "373.541",
+                            "randInit": "c75TCQXiH5G3DhAQ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/1_2_762309_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "pauKaDxaLk4tt6o7PBwlEX7Vfbzddg81rluU80Mwjzs=",
+                            "rand": "xM8iuKzrJloih8ueikSw+Ef+EMuBC5hDHVp8aDNQj88=",
+                            "encrypt": 1,
+                            "duration": "384.5921",
+                            "rate": "529.367",
+                            "randInit": "c75TCQXiH5G3DhAQ"
+                        }
+                    ]
+                },
+                {
+                    "id": "762308",
+                    "name": "DataOPS 数据处理",
+                    "courseId": "28974",
+                    "url": "/28974/1_3_762308_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/1_3_762308_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "3Cq85lXGQnJWkXcKRn3Ut0NdvbJhh+Lqu23zNrnLumY=",
+                            "rand": "FPH40x9gBbxzzt5iV8CGAI57+xcUd5C2uewyH4AOjf8=",
+                            "encrypt": 1,
+                            "duration": "443.7664",
+                            "rate": "272.438",
+                            "randInit": "zEXfF2c0JaPynjX8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/1_3_762308_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "a0nXn4aL4mV7NyGs0sVq1XxHsi0qUYU7j8KiBwQO/Aw=",
+                            "rand": "y8HThUhXyfvLNesUjrIvkx70sZ2Y1mcajkbwZX/3HHM=",
+                            "encrypt": 1,
+                            "duration": "443.7798",
+                            "rate": "383.151",
+                            "randInit": "zEXfF2c0JaPynjX8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/1_3_762308_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "cmBgDnzfz43yhLqRa2KZUOOyCXYGsazj1w2iMrS0NAY=",
+                            "rand": "YLq3BI5nWq+aSIoPG/aN0s1pEy9KYdntDQBSHlaHU5o=",
+                            "encrypt": 1,
+                            "duration": "443.7664",
+                            "rate": "556.62",
+                            "randInit": "zEXfF2c0JaPynjX8"
+                        }
+                    ]
+                },
+                {
+                    "id": "762307",
+                    "name": "DataOPS设计原则",
+                    "courseId": "28974",
+                    "url": "/28974/1_4_762307_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/1_4_762307_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "c3cusyH5YTf+txAWbJvqY2TnwFIOEfDGsenj3xAzK04=",
+                            "rand": "mthj19vwsSQp9D3hpX2qo1DFQdHMEvi/GT2mgxWM3r8=",
+                            "encrypt": 1,
+                            "duration": "295.7264",
+                            "rate": "281.96",
+                            "randInit": "rTHBX92yRnAti9M9"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/1_4_762307_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "KjbBWzYOCQ2KNhR7vdH9sYbYiJEsWOoIeAxEx92nfA8=",
+                            "rand": "+JdQESAMWHotQXd4R3UJ4A11M7aC8mwtmtqc6k0JKi0=",
+                            "encrypt": 1,
+                            "duration": "295.7264",
+                            "rate": "395.897",
+                            "randInit": "rTHBX92yRnAti9M9"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/1_4_762307_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Ci7Zi2p6yeQqv7MjEW4x5RAlXeJ/QLELxXdO6A3Ptxk=",
+                            "rand": "8duTQxyNBHm9q5Gr8egbBB18R3OKu3rfYOrerttKWJU=",
+                            "encrypt": 1,
+                            "duration": "295.7264",
+                            "rate": "564.079",
+                            "randInit": "rTHBX92yRnAti9M9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "93698",
+            "name": "AIops产生背景",
+            "courseId": "28974",
+            "sections": [
+                {
+                    "id": "762306",
+                    "name": "AIOps产生发展",
+                    "courseId": "28974",
+                    "url": "/28974/2_0_762306_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/2_0_762306_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "0oc8gvxPstQjo5ai25yfpr7OpNSf/pDJbV2gfZLJe1o=",
+                            "rand": "vA6slnpeYrIFc2GKCbF31olThkmfhIggM5l55zLV31U=",
+                            "encrypt": 1,
+                            "duration": "414.1664",
+                            "rate": "263.711",
+                            "randInit": "by6dSK0E37rzyQxz"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/2_0_762306_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "UDXgqzmBAbPIxJAuzQ4iEzgCQny10UGCZLWH9qyttzc=",
+                            "rand": "SqzfObYEMBB1gMIduJEz7s3DmLNZiYHFYy6SOPHKvTQ=",
+                            "encrypt": 1,
+                            "duration": "414.1664",
+                            "rate": "365.168",
+                            "randInit": "by6dSK0E37rzyQxz"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/2_0_762306_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "oig1hA/bAiC1DCOxhCNpxwcKE1rp7ZALncjr2eZtpMw=",
+                            "rand": "PDCgtIebxPCPJm2X+0x+12hAxqnJY2cBCFRBMBd/VJE=",
+                            "encrypt": 1,
+                            "duration": "414.1664",
+                            "rate": "514.059",
+                            "randInit": "by6dSK0E37rzyQxz"
+                        }
+                    ]
+                },
+                {
+                    "id": "762305",
+                    "name": "AIops是什么？",
+                    "courseId": "28974",
+                    "url": "/28974/2_1_762305_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/2_1_762305_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AvbSg2oSnnbteKWYBGgUGAR1rR2w94sz0gfAa46go9Q=",
+                            "rand": "7TsJgTniXjAfj7IfxCXG4gRSup0yu5NCiHrurwMSpms=",
+                            "encrypt": 1,
+                            "duration": "226.9664",
+                            "rate": "312.533",
+                            "randInit": "0KPzryKa76GwwYnR"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/2_1_762305_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "az7eJcGkpUouO7cFJOHLkEQciSavZj+aUGTZv9jOkgQ=",
+                            "rand": "pBrn2SomOBMTmCfi4ikJ/rVh7kGHWS0gA/Chit7Ue08=",
+                            "encrypt": 1,
+                            "duration": "226.9664",
+                            "rate": "440.299",
+                            "randInit": "0KPzryKa76GwwYnR"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/2_1_762305_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "FpB/B/QGIZ6u38TFsv/MxRqJdxIiih/20CifwslNpRE=",
+                            "rand": "9REJPugKI9JorJZKfkjllOaG2jPQk6fJIRtDk7bCGWA=",
+                            "encrypt": 1,
+                            "duration": "226.9664",
+                            "rate": "630.858",
+                            "randInit": "0KPzryKa76GwwYnR"
+                        }
+                    ]
+                },
+                {
+                    "id": "762317",
+                    "name": "AIops解决的问题",
+                    "courseId": "28974",
+                    "url": "/28974/2_2_762317_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/2_2_762317_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "CFiFBjIPBflRwAEgpSMH3DAP1OJGsJcOS9SgUfzVdO4=",
+                            "rand": "Q4hqxQ+CWaozAJEZw6TBH3pfLw8JgQpE/r4BlBHitpQ=",
+                            "encrypt": 1,
+                            "duration": "538.6464",
+                            "rate": "274.178",
+                            "randInit": "KmfZCddFDMscMD0z"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/2_2_762317_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "zDqt0WIXkWw4eH2e4wytC+UPU31qBtb5PJ9fRClvhSg=",
+                            "rand": "FYvfQkTwbqaZRCPn38BWD4XEno5ofI03ZWfEgK6+Y7k=",
+                            "encrypt": 1,
+                            "duration": "538.6464",
+                            "rate": "383.551",
+                            "randInit": "KmfZCddFDMscMD0z"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/2_2_762317_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "eGAkQtskeOYefVUeG+cIfyCmKzyjYyvAytSpXyOhGto=",
+                            "rand": "9MjNRLPUu4rdFn4/Wdj2KfkU2PDenvvsd0bV0K8Anl4=",
+                            "encrypt": 1,
+                            "duration": "538.6464",
+                            "rate": "538.238",
+                            "randInit": "KmfZCddFDMscMD0z"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "93699",
+            "name": "详解AIops及技术",
+            "courseId": "28974",
+            "sections": [
+                {
+                    "id": "762304",
+                    "name": "AIops技术详解技术",
+                    "courseId": "28974",
+                    "url": "/28974/3_0_762304_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/3_0_762304_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "5gbAFjZjk7TBsPIdaWvqasKpDsWbU5bqEXrTw/grQMc=",
+                            "rand": "APbRZFNLIP7bj/zBkGPFIngrW9f6MZbJWh8Sb26LHbM=",
+                            "encrypt": 1,
+                            "duration": "66.8864",
+                            "rate": "381.989",
+                            "randInit": "Pcd7TjC6AizRRFC5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/3_0_762304_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "4iQuLnLx/1BEir1/grJ2AfNonr7Mp08Qu7UO01J8PH8=",
+                            "rand": "TP8j5AsyH4jsQZbf+O/JOO30mKk4naEAJSos/zKq9ps=",
+                            "encrypt": 1,
+                            "duration": "66.8864",
+                            "rate": "546.339",
+                            "randInit": "Pcd7TjC6AizRRFC5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/3_0_762304_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "CeeqDHIAVo7hS22FJwRPan2mpbHN8CH2Jkb5dzLQkMk=",
+                            "rand": "lZGljd4v6sBYV8L8kf/fAK1GFfiuIMXRllGyPd51jHA=",
+                            "encrypt": 1,
+                            "duration": "66.8864",
+                            "rate": "658.228",
+                            "randInit": "Pcd7TjC6AizRRFC5"
+                        }
+                    ]
+                },
+                {
+                    "id": "762303",
+                    "name": "AIops模型简介",
+                    "courseId": "28974",
+                    "url": "/28974/3_1_762303_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/3_1_762303_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "nU18jS7R4YkWbXirtf+3v2bqk60BuhHpnc+U7+ONpAk=",
+                            "rand": "aQkuwr/IrqFwa0sAYjQOeV94irYC/gxlcfXg5u7wRqs=",
+                            "encrypt": 1,
+                            "duration": "652.0464",
+                            "rate": "242.761",
+                            "randInit": "pZaXBYHZiiJdXbMi"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/3_1_762303_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "3gpSnwcAq4UVGcn6QubxlLzmYyrvHevd15yoTCujHYA=",
+                            "rand": "e1YTK40YdN8pOwF2GLJSaKbKKtWXSiCa5DCZrAKsx+w=",
+                            "encrypt": 1,
+                            "duration": "652.0464",
+                            "rate": "331.758",
+                            "randInit": "pZaXBYHZiiJdXbMi"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/3_1_762303_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "TDniL/blYIBIlY6uB81YFhHM6+9EYwsi5JiStHrutBA=",
+                            "rand": "2DpDMopaaeRlvKaqG2tosW9jRTlFXoBEke+OWFKwUK0=",
+                            "encrypt": 1,
+                            "duration": "652.0464",
+                            "rate": "446.93",
+                            "randInit": "pZaXBYHZiiJdXbMi"
+                        }
+                    ]
+                },
+                {
+                    "id": "762302",
+                    "name": "AIops的技术涵盖",
+                    "courseId": "28974",
+                    "url": "/28974/3_2_762302_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/3_2_762302_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "tonthwkVjgWehuWp4kBTRI3n68XuuRs7aN++tAZk8Ro=",
+                            "rand": "0+5bdx3ZNof8KCumYtzPPjCBqKVFWRP6Uk6yIQ2IMrA=",
+                            "encrypt": 1,
+                            "duration": "603.0065",
+                            "rate": "285.574",
+                            "randInit": "p7xG6t70PyyiSQPS"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/3_2_762302_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "9VQ3a1WazhFMUVs5C//1bm48pmtv4n7ddO4d+LqeCJs=",
+                            "rand": "LdGT23PHjC82DMJCWdr4Fx9d9mLZHlzJWTeJ+6+ws7E=",
+                            "encrypt": 1,
+                            "duration": "603.0065",
+                            "rate": "403.598",
+                            "randInit": "p7xG6t70PyyiSQPS"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/3_2_762302_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "CISb+8Pl2FWmQBF5sbXDJb/sf1vGrROjhg3NcUezH5A=",
+                            "rand": "7/fyZpEK2OzH+H3Tl9Ddm0YAHqnNLD9jQVrPBfU9sMU=",
+                            "encrypt": 1,
+                            "duration": "603.0065",
+                            "rate": "596.438",
+                            "randInit": "p7xG6t70PyyiSQPS"
+                        }
+                    ]
+                },
+                {
+                    "id": "762301",
+                    "name": "AIops的优势",
+                    "courseId": "28974",
+                    "url": "/28974/3_3_762301_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/3_3_762301_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "S8cvoboXSbaRoqL1prb1gzfFptRw0DOJktK4ekZoIg4=",
+                            "rand": "dqR8hFtCW1Vm2VZL1S1WhjiYcnGBa6gzmnhuZ5lHHaQ=",
+                            "encrypt": 1,
+                            "duration": "266.4464",
+                            "rate": "264.497",
+                            "randInit": "a7kB0EcmxYikYAnA"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/3_3_762301_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "x1siYWmYMxEKncDTeiKmev7m9tFvSvNndBHubJQTq3k=",
+                            "rand": "t2ps7oA7X15rGo/zJRkM79VZg26gabc9GY09TAdx/CM=",
+                            "encrypt": 1,
+                            "duration": "266.4464",
+                            "rate": "361.258",
+                            "randInit": "a7kB0EcmxYikYAnA"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/3_3_762301_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "C63QZn5ADs4jiVD45vasA+AcbGR/f524ASjxeVD6AC0=",
+                            "rand": "GLtxM60NYUMuJ/xX3YdLuOB0y9QKah/gM8kAM9E4qEI=",
+                            "encrypt": 1,
+                            "duration": "266.4464",
+                            "rate": "496.724",
+                            "randInit": "a7kB0EcmxYikYAnA"
+                        }
+                    ]
+                },
+                {
+                    "id": "762316",
+                    "name": "AIOps的优势2",
+                    "courseId": "28974",
+                    "url": "/28974/3_4_762316_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/3_4_762316_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ascJHmdO+dm29cMTL/DQ+fn0vH+QPEQv/7O6Eow58S8=",
+                            "rand": "0Ap09B9MjFDU7P4527uVuE/lw8teWMrRkiYuCj3exIA=",
+                            "encrypt": 1,
+                            "duration": "522.2864",
+                            "rate": "239.528",
+                            "randInit": "Nw942CnnmYC9Z6M0"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/3_4_762316_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "qejDlyoZFzpQwF6P5/gJBf882EF844U6cZL0mit7NNE=",
+                            "rand": "J4HidpIzjLHDkrTNrtdjRl4KvhrXVt3zRm7cxW05MsU=",
+                            "encrypt": 1,
+                            "duration": "522.2864",
+                            "rate": "322.845",
+                            "randInit": "Nw942CnnmYC9Z6M0"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/3_4_762316_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Er3q9n5XAKAO3zfdYKjIQLxkSkCG+SbhrzO9iTl1uFs=",
+                            "rand": "Se+BeUXIwrV6+j7fSbNzRgm40NN25lIe1Uc8axbpwZs=",
+                            "encrypt": 1,
+                            "duration": "522.2864",
+                            "rate": "425.994",
+                            "randInit": "Nw942CnnmYC9Z6M0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "93719",
+            "name": "AIOPS案例分享",
+            "courseId": "28974",
+            "sections": [
+                {
+                    "id": "762315",
+                    "name": "AIops落地实践方案思路",
+                    "courseId": "28974",
+                    "url": "/28974/4_0_762315_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/4_0_762315_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "1OtAjZ3FsDnEycW7Y+71LQaFy44pMrI3PXfK6ACex+Q=",
+                            "rand": "BKj33Z10ic3EJ5msFLZHORWDPzjwdTlUoWwJxHcCMc4=",
+                            "encrypt": 1,
+                            "duration": "330.4064",
+                            "rate": "263.335",
+                            "randInit": "ZCSQ7yzxCAfKi76k"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/4_0_762315_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "GtnetnHueS+ScxAq2Jbt+IQgNrZDvTlecx3W1SAlgjY=",
+                            "rand": "QX4rV64s46NSi8RPy84mTkViWFWLAtnczPwDFZVOfkQ=",
+                            "encrypt": 1,
+                            "duration": "330.4064",
+                            "rate": "363.183",
+                            "randInit": "ZCSQ7yzxCAfKi76k"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/4_0_762315_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "AUPhw9tU8wzwdcR2XTGXEwaMQMpWiQNl/a+HGKRa2y4=",
+                            "rand": "hLr6yr550/QMV50GDS7cvE/jrSNL2CCDd4sBDcJAa9k=",
+                            "encrypt": 1,
+                            "duration": "330.4064",
+                            "rate": "518.191",
+                            "randInit": "ZCSQ7yzxCAfKi76k"
+                        }
+                    ]
+                },
+                {
+                    "id": "762321",
+                    "name": "Web安防实践案例",
+                    "courseId": "28974",
+                    "url": "/28974/4_1_762321_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/4_1_762321_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "as0g/HPMnOALQ0NkZ8IJI9Emhc+yZIQSqZRx7dNlB8o=",
+                            "rand": "rLL1j3/t07EqZdINUHwTP73cZTidGkf2wkWu5miQS2k=",
+                            "encrypt": 1,
+                            "duration": "603.7264",
+                            "rate": "265.78",
+                            "randInit": "n7SRWJzJRHz97iGc"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/4_1_762321_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Ar5hSvzhX40R1YTlVfec+xIknm+0FY9sFm7n/RPsfhk=",
+                            "rand": "lOe/uv3Yi9g2SRp945IexCKQQvp+0KKSKkkE1Io1bxE=",
+                            "encrypt": 1,
+                            "duration": "603.7264",
+                            "rate": "366.043",
+                            "randInit": "n7SRWJzJRHz97iGc"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/4_1_762321_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "TXjyXZgYiXCEnfNHhiou5mNLxOGqXw45Ir2Sni2PIUM=",
+                            "rand": "UFWW0e5CxCPwafZPw9L7qRSISexed5v9AI6tpBciaOw=",
+                            "encrypt": 1,
+                            "duration": "603.7264",
+                            "rate": "536.884",
+                            "randInit": "n7SRWJzJRHz97iGc"
+                        }
+                    ]
+                },
+                {
+                    "id": "762320",
+                    "name": "Web安防实践案例分类模型",
+                    "courseId": "28974",
+                    "url": "/28974/4_2_762320_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/4_2_762320_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "dv2rJCrMjIN41EXc32goh8ojXIb0+dycFU/iDsGUuzE=",
+                            "rand": "I2iXTf4/1vRVW0eqv9kPyzohBicHbZwVGS35aOImohQ=",
+                            "encrypt": 1,
+                            "duration": "864.1664",
+                            "rate": "254.368",
+                            "randInit": "sBAW4mD2Mzzefpbm"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/4_2_762320_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "xLDSXCo6Vcr5grvzv10QCtgroYRjk/BQewjRfLvJ/48=",
+                            "rand": "i3USs+lv3D1+q3qN0tJGe43KCtCe1mB6idSQbrl5Nyo=",
+                            "encrypt": 1,
+                            "duration": "864.1664",
+                            "rate": "349.901",
+                            "randInit": "sBAW4mD2Mzzefpbm"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/4_2_762320_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "qzqzjfgiEJODkgORV6M45PoU+bGmIk/6tWgM5EqHPLI=",
+                            "rand": "ptU9XDUsoPLfOe+AOQ4C25/Be7nOUhZlhuYkGnI4YWk=",
+                            "encrypt": 1,
+                            "duration": "864.1664",
+                            "rate": "503.206",
+                            "randInit": "sBAW4mD2Mzzefpbm"
+                        }
+                    ]
+                },
+                {
+                    "id": "762314",
+                    "name": "Web安防实践案例模型验证",
+                    "courseId": "28974",
+                    "url": "/28974/4_3_762314_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/4_3_762314_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "4whh6SL/uEOnj+G7lXx/Fw8C0RFH17XbYFRizI/bAt8=",
+                            "rand": "CJGlWShjBCclQSjPyue0RFEVQc/kkTZg54suTkBLgH4=",
+                            "encrypt": 1,
+                            "duration": "426.7264",
+                            "rate": "250.225",
+                            "randInit": "9zGxJy665hYt7bpJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/4_3_762314_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "l8Mih8Ydlnw5UcA3xTf5tiHLwQL5hdTroOa8O7zPTnM=",
+                            "rand": "1X4BasifOPSzBU/OabDMLsKaYjxS+KPspczj/LuOJz4=",
+                            "encrypt": 1,
+                            "duration": "426.7264",
+                            "rate": "343.262",
+                            "randInit": "9zGxJy665hYt7bpJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/4_3_762314_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "SvPgGkL82y+Fy1EhUfLr+Juxjd4z6XNhHM39aqU7NEE=",
+                            "rand": "TOwZp/sgVpi3oH+wrxZ+o9OH7pBFBHa3hTko6zJEgeE=",
+                            "encrypt": 1,
+                            "duration": "426.7264",
+                            "rate": "477.651",
+                            "randInit": "9zGxJy665hYt7bpJ"
+                        }
+                    ]
+                },
+                {
+                    "id": "762319",
+                    "name": "Web安防实践案例——部署",
+                    "courseId": "28974",
+                    "url": "/28974/4_4_762319_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/4_4_762319_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AFBWqaX3bemoIHUW73popSm6zwhEf0gy1RaWY85WJw0=",
+                            "rand": "V2T6/Y6YxXCFRy+QoF7QqbUgTPkUmcP0cx/nvM2f+ZU=",
+                            "encrypt": 1,
+                            "duration": "545.7264",
+                            "rate": "233.065",
+                            "randInit": "Ha9wpcZDaGTpEXnS"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/4_4_762319_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "aQju50ZZ+bw6YGG/EgFYlp1qjghKIv8CNw4F3F12gTA=",
+                            "rand": "GF5lLjJrXF9p1S/e67gpMoI6fPwPYcefe+Hloc9T7wI=",
+                            "encrypt": 1,
+                            "duration": "545.7264",
+                            "rate": "292.561",
+                            "randInit": "Ha9wpcZDaGTpEXnS"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/4_4_762319_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "g1aKicykyeBM/yvou3XfsVIzwEOwc9NMC8Bfmkm/+YU=",
+                            "rand": "5tvXfqS5M1qgD91UXfP8teunwqKeV3k9tfbScynSJZ8=",
+                            "encrypt": 1,
+                            "duration": "545.7264",
+                            "rate": "358.23",
+                            "randInit": "Ha9wpcZDaGTpEXnS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "100143",
+            "name": "结课考试",
+            "courseId": "28974",
+            "sections": [
+                {
+                    "id": "809354",
+                    "name": "结课考试",
+                    "courseId": "28974",
+                    "url": "/28974/5_0_809354_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/28974/5_0_809354_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "PK2UQ9mpIpELlqqORB6KQT8BYq+irYe7u19ofLYzsOE=",
+                            "rand": "1E8r9ff7aGLlzaVg5mpS5lKV8TfHPRVp1ZaBddpHmrc=",
+                            "encrypt": 1,
+                            "duration": "360.2000",
+                            "rate": "347.736",
+                            "randInit": "0TW8s9MQ6wRSGFMZ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/28974/5_0_809354_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "arrBmJR0A0biG0h6z2oFXo2CZxJEwB4Fa76vPqITaW4=",
+                            "rand": "rd/+pAQJVFqelqDGuXCsN2l+oMsdpxDZ/EKhyU2BRLE=",
+                            "encrypt": 1,
+                            "duration": "360.2000",
+                            "rate": "415.783",
+                            "randInit": "0TW8s9MQ6wRSGFMZ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/28974/5_0_809354_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ZCqaqxdIWMEBLrcx/SEYRmyg81AR0bRf0xptlAJm2qY=",
+                            "rand": "IFATSC11W3glh32YBkOj6aRClJv3bGF/uK8YuN5P4lY=",
+                            "encrypt": 1,
+                            "duration": "360.2000",
+                            "rate": "449.262",
+                            "randInit": "0TW8s9MQ6wRSGFMZ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
