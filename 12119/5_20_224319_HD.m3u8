@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXT-X-KEY:METHOD=AES-128-PES,URI="https://hw.p0q.top/cto/p/1799bff2fd12d4608e7d2fa2173b5844aa04f94d7e9752ffd461796042c7424ccbfaea11a76c33b855acfe49279131a2c3bccbb86e5ff174ca7602b36791c00e"
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.000000
+https://v30.51cto.com/f66e74358f634cc597ec3c96abc650dc/b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00001.ts?_ali_next_ts=b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00002.ts%20b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00003.ts&_ali_ts_dur=6&_ali_next_ts_m5=0b5d279853cace2eb8ca1e7d1444d471
+#EXTINF:6.000000
+https://v30.51cto.com/f66e74358f634cc597ec3c96abc650dc/b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00002.ts
+#EXTINF:6.000000
+https://v30.51cto.com/f66e74358f634cc597ec3c96abc650dc/b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00003.ts?_ali_next_ts=b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00004.ts%20b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00005.ts&_ali_ts_dur=6&_ali_next_ts_m5=a6e9c2f734ecee81bf817ab04e37a1de
+#EXTINF:6.000000
+https://v30.51cto.com/f66e74358f634cc597ec3c96abc650dc/b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00004.ts
+#EXTINF:2.280000
+https://v30.51cto.com/f66e74358f634cc597ec3c96abc650dc/b3912bfeffb897139dafc855f8f0c10e-hd-encrypt-stream-00005.ts
+#EXT-X-ENDLIST
