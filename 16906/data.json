@@ -1,0 +1,877 @@
+{
+    "id": "16906",
+    "name": "疯狂的互联网（第1季）- 深度点评.产品创新.运营.盈利模式",
+    "lecturer": "产品经理；互联网创业者；企业高管；项目经理",
+    "descriptionText": "学习互联网产品创新思维；学习互联网经典案例商业模式与盈利模式。 ",
+    "chapters": [
+        {
+            "id": "39615",
+            "name": "产品与创新",
+            "courseId": "16906",
+            "sections": [
+                {
+                    "id": "359871",
+                    "name": "互联网创新是不是很难？",
+                    "courseId": "16906",
+                    "url": "/16906/0_0_359871_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/0_0_359871_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "x0Gsa0/bA2fBt+6A5B5hxySXkmUaHdRnjcQ35qJ/soA=",
+                            "rand": "QLRexK5sOjiQREL/cuspBlJF5xcZY+DV4JTiAi3QXZQ=",
+                            "encrypt": 1,
+                            "duration": "634.9017",
+                            "rate": "438.783",
+                            "randInit": "MNhKkAyhXMZRYasQ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/0_0_359871_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "WODE+X2wJtthEAJVSu53yuVeOXK7SXlJr3Pr1Eys7qM=",
+                            "rand": "h95kbWQMQKFeTCvbfJuhPf557gsEbpBxquWVfDCmDDQ=",
+                            "encrypt": 1,
+                            "duration": "634.8864",
+                            "rate": "565.301",
+                            "randInit": "MNhKkAyhXMZRYasQ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/0_0_359871_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "b1pLUXma2FpjQBRCYnQ394j/mAQhjXNS99WBoiiUCmo=",
+                            "rand": "9Xc9ZaOsdwE/wV+Ja8DlXrjySIAeOlJkynK9gWi9SVg=",
+                            "encrypt": 1,
+                            "duration": "634.8864",
+                            "rate": "596.429",
+                            "randInit": "MNhKkAyhXMZRYasQ"
+                        }
+                    ]
+                },
+                {
+                    "id": "359870",
+                    "name": "iPhone8还是iPhoneX？- FaceID的应用前景",
+                    "courseId": "16906",
+                    "url": "/16906/0_1_359870_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/0_1_359870_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "xONk/hPOezW0T5l8Rizew2ILXfBjHludR8y/InkfUf4=",
+                            "rand": "5C/OCG8+/7md+8eDqgnuXmwm1njZC0yKeRFr6HJWnMc=",
+                            "encrypt": 1,
+                            "duration": "503.9879",
+                            "rate": "448.93",
+                            "randInit": "xTTMjb2Scjaef7AK"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/0_1_359870_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "FVq+EMuZtcuLJqNWN7NH05oH8SJP5Ij+jjWvxXEBU9U=",
+                            "rand": "I09A1FpyA7yRHJJhWZvy+6IR9Lwvg/zqz/TCC3EOd+Q=",
+                            "encrypt": 1,
+                            "duration": "503.9664",
+                            "rate": "575.509",
+                            "randInit": "xTTMjb2Scjaef7AK"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/0_1_359870_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "X2Hv8fWSpYSq1Y2ymIcydPFHzK4Jemrc9cRA/UTmWa0=",
+                            "rand": "9crnef0JhiqGywn8x4e/R0+0vJHT8+x9msr6ZV3tnPY=",
+                            "encrypt": 1,
+                            "duration": "503.9664",
+                            "rate": "612.723",
+                            "randInit": "xTTMjb2Scjaef7AK"
+                        }
+                    ]
+                },
+                {
+                    "id": "359868",
+                    "name": "新浪的黑猫投诉平台 - 新浪想干什么？",
+                    "courseId": "16906",
+                    "url": "/16906/0_2_359868_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/0_2_359868_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "PCNp8eWKAZ6Tyxjrf/fycbX7466x4C2uGm6pJNjo8mA=",
+                            "rand": "JTyl0xa37id8S+khcVbm+2JLhb4ZDaXSrCiefANYJbA=",
+                            "encrypt": 1,
+                            "duration": "613.1664",
+                            "rate": "443.103",
+                            "randInit": "zzSCEXG3PYYxfXtQ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/0_2_359868_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "UaxCwD9QC5xBT1jXLoEp/WvekTi4/bAvTkBs89Pgxtw=",
+                            "rand": "h2cphMzPI7ZCnO60SQIFRGr0U5IbWJ//XXjZfk9SybU=",
+                            "encrypt": 1,
+                            "duration": "613.2144",
+                            "rate": "546.327",
+                            "randInit": "zzSCEXG3PYYxfXtQ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/0_2_359868_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "R+cf5aCZvvhf7lImbwuEgr/+WW5xF9w6R/fLCM4Qi9A=",
+                            "rand": "N/auUacI0fpTM4mnDkna1BV9kyfHhBZw5hL/pqni8mA=",
+                            "encrypt": 1,
+                            "duration": "613.1664",
+                            "rate": "578.343",
+                            "randInit": "zzSCEXG3PYYxfXtQ"
+                        }
+                    ]
+                },
+                {
+                    "id": "359867",
+                    "name": "多面屏时代来了！- 什么时候再对手机来一次革命？",
+                    "courseId": "16906",
+                    "url": "/16906/0_3_359867_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/0_3_359867_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "FKfLRp2NqV7b9xNBHMYvT/T9WQ5n9OHYguHRfTJssrY=",
+                            "rand": "Z+t8+XceOJ2jkaJ4GHy5v9VkZuH5JPPF9XGbT/oUv/I=",
+                            "encrypt": 1,
+                            "duration": "566.0864",
+                            "rate": "450.49",
+                            "randInit": "x9WkMs9GeWckjjfG"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/0_3_359867_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "OX7aQLnrT32X1i0Ll3DLMUY+z6jdzWeA1MOU/UaDbV0=",
+                            "rand": "Y5zB5N06XhRYT8RB4Bk/E1yujHlGKhFl94v5PMIXfVI=",
+                            "encrypt": 1,
+                            "duration": "566.0864",
+                            "rate": "565.882",
+                            "randInit": "x9WkMs9GeWckjjfG"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/0_3_359867_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "6uehBbyN4AEtqDtQ9c4sYMzDYqhJRctmJrn5qE4CyNE=",
+                            "rand": "XVkc/wl/Nb7DTHNgytUdZ9uJEgvyFXzSMXBZXvuKNA4=",
+                            "encrypt": 1,
+                            "duration": "566.0864",
+                            "rate": "603.806",
+                            "randInit": "x9WkMs9GeWckjjfG"
+                        }
+                    ]
+                },
+                {
+                    "id": "359866",
+                    "name": "中国新四大发明",
+                    "courseId": "16906",
+                    "url": "/16906/0_4_359866_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/0_4_359866_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "oXNqIpFguvZCieMq3oHI5KEbcBi4mx5GnuLgQr2ZfJ8=",
+                            "rand": "MHOj10Ur8SCYYfZeA09+9WwmUcPVreEeun4ibhf+eME=",
+                            "encrypt": 1,
+                            "duration": "456.9265",
+                            "rate": "443.659",
+                            "randInit": "akpJz3YWSDEdKnQ8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/0_4_359866_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "4iaxWv5yaa8L3mk44i8MOeRsvmeA+sz+yMb3dJJjEB4=",
+                            "rand": "tNs5BonU1uSDqFMBDZF3XYzOUf6vTkgJQZSBq42C5PI=",
+                            "encrypt": 1,
+                            "duration": "456.9265",
+                            "rate": "529.891",
+                            "randInit": "akpJz3YWSDEdKnQ8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/0_4_359866_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "TDxe8Ly1zRklrAXzDof7QG4efla3Un+fi5mih2jn1SA=",
+                            "rand": "2sogSFRv0PL/rf7vTlmuP3GkQEF+9veq69JW/s7Ge6g=",
+                            "encrypt": 1,
+                            "duration": "456.9265",
+                            "rate": "563.261",
+                            "randInit": "akpJz3YWSDEdKnQ8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "39616",
+            "name": "机遇与变革",
+            "courseId": "16906",
+            "sections": [
+                {
+                    "id": "359865",
+                    "name": "贾跃亭是庞氏骗局吗？- 老贾引发了中国的正版浪潮",
+                    "courseId": "16906",
+                    "url": "/16906/1_0_359865_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/1_0_359865_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "6VGFeBWedPyWGrpQtzjA20/u9puyRDr5cONn+tYFpPU=",
+                            "rand": "qfmqnb8eqBPN3uGCvRm5nggG+qV2RXPZtdIxeg46Afc=",
+                            "encrypt": 1,
+                            "duration": "451.1395",
+                            "rate": "454.554",
+                            "randInit": "56PBHPt70WnHQWwS"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/1_0_359865_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "EhXRl/YXeU/282tDxl3GYFzxOnMcEe6DmqElvfEGpd0=",
+                            "rand": "wCWtrTQxnFGxWI1BXy5g9Mc424q1j2J6Bk5HtVIu/IM=",
+                            "encrypt": 1,
+                            "duration": "451.1264",
+                            "rate": "568.692",
+                            "randInit": "56PBHPt70WnHQWwS"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/1_0_359865_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "rrKE7zTBMIKuhmnt/MXq759h+HcblF8f/TXsw82e0EE=",
+                            "rand": "7zp+wzXXE+yl1AOM2V+2P3QoiJxChJsxE+g++10avaw=",
+                            "encrypt": 1,
+                            "duration": "451.1264",
+                            "rate": "605.131",
+                            "randInit": "56PBHPt70WnHQWwS"
+                        }
+                    ]
+                },
+                {
+                    "id": "359864",
+                    "name": "春晚将会再次上演“核爆”吗？- 春晚营销大商机",
+                    "courseId": "16906",
+                    "url": "/16906/1_1_359864_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/1_1_359864_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Cb7U2u25ue4j7aTJr0VXlyvkAoEK8GSKL4jEmC70yBQ=",
+                            "rand": "U0NRKbTZ//1CZzqj++6cCKbTDUG7n4Rto6wE56iXbz8=",
+                            "encrypt": 1,
+                            "duration": "387.7664",
+                            "rate": "358.605",
+                            "randInit": "ffwk0RYz0PBRfMJi"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/1_1_359864_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "v1xumkdgYCqw255lUQnpwtGZbxgrBNMycOBDt/XjCPU=",
+                            "rand": "hOa6Hkqs7jmF4gqvKsBOO/C/oGQbatDWeRx+k1hRqWw=",
+                            "encrypt": 1,
+                            "duration": "387.8188",
+                            "rate": "400.336",
+                            "randInit": "ffwk0RYz0PBRfMJi"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/1_1_359864_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "5GWtOzDF2hPmTgndFh9m1pufzzMrGaKEwLkn7QS6unw=",
+                            "rand": "fiMvY3tlMCfWp3BYECpfWqFfTkyHObtYCcsT/tGHmFA=",
+                            "encrypt": 1,
+                            "duration": "387.7664",
+                            "rate": "425.291",
+                            "randInit": "ffwk0RYz0PBRfMJi"
+                        }
+                    ]
+                },
+                {
+                    "id": "359863",
+                    "name": "12306技术团队为自己打90分以上",
+                    "courseId": "16906",
+                    "url": "/16906/1_2_359863_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/1_2_359863_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+R64UMWhhXlJqxjY5QjidANAveBCAqy9GmDoGLN80rw=",
+                            "rand": "hnnarSI0ZR6h/+hSDU+B6fYS5ffU38t1Y+nVx1epYtg=",
+                            "encrypt": 1,
+                            "duration": "531.7125",
+                            "rate": "440.488",
+                            "randInit": "BdtAYn6N7QH5yxfB"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/1_2_359863_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "DmIIN4tFBvJtLKKgfaITWlOMw4hp28o1Abb++bbizA0=",
+                            "rand": "6X98e2nEERxNOZkCd9Oy16FwonPsteS8JBkcBw0LQtA=",
+                            "encrypt": 1,
+                            "duration": "531.6893",
+                            "rate": "627.367",
+                            "randInit": "BdtAYn6N7QH5yxfB"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/1_2_359863_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9HSwKJVQPsz1GtDmaqJZiLMnLiG/I7gC1PXq8BbAxsI=",
+                            "rand": "HBmPMtBCz7evE2tI66mMg3atjWcfy3rp5MkscR+aRwE=",
+                            "encrypt": 1,
+                            "duration": "531.6893",
+                            "rate": "673.965",
+                            "randInit": "BdtAYn6N7QH5yxfB"
+                        }
+                    ]
+                },
+                {
+                    "id": "359862",
+                    "name": "传统电视台会被颠覆掉吗？- 互联网给带来的机遇与挑战",
+                    "courseId": "16906",
+                    "url": "/16906/1_3_359862_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/1_3_359862_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "UGgeeVc7nB6H9F7ghP8UMN7LCmvR3HAaE1U82RbcK0w=",
+                            "rand": "PIIQgew/vUGbGxHsqhB/RngQO46lPu+5bwJGAlXoDI8=",
+                            "encrypt": 1,
+                            "duration": "456.6064",
+                            "rate": "446.203",
+                            "randInit": "xzhisPKzzceiYHYr"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/1_3_359862_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "K66HxVQ3iTwP8+vnURVoJWUV21mHF3K40c6t7wx1GRw=",
+                            "rand": "+DPYYATRYtJifYb1KtRW0fP6XB9JHqaFnSezQHTIgeY=",
+                            "encrypt": 1,
+                            "duration": "456.6064",
+                            "rate": "586.031",
+                            "randInit": "xzhisPKzzceiYHYr"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/1_3_359862_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "k/bg2jH+HgN/pd+ip1qp8nhwIN/wDIZJXmEB7dYoMxc=",
+                            "rand": "Gx/D5LczlHLAOPdUxA/faX5m7aq7e+WZf9flYrAOYHs=",
+                            "encrypt": 1,
+                            "duration": "456.6064",
+                            "rate": "622.777",
+                            "randInit": "xzhisPKzzceiYHYr"
+                        }
+                    ]
+                },
+                {
+                    "id": "359861",
+                    "name": "电视招聘节目是真的吗？- 利用互联网风口，引发职场风暴",
+                    "courseId": "16906",
+                    "url": "/16906/1_4_359861_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/1_4_359861_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "MCNUeMkgWSuL4OxokV8Nn3aB/LgppsEEj6ChHCgh358=",
+                            "rand": "9Gpa7eeYTbmQA78Hp2Iqp3gQv7LZnWelN9RN9wdUKws=",
+                            "encrypt": 1,
+                            "duration": "480.7264",
+                            "rate": "443.741",
+                            "randInit": "Af4ccb9Ztxrn4raM"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/1_4_359861_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "fAo4IHnPQFs7v2tUPKgCeG1M935pbbkwFyxHY5yq0rU=",
+                            "rand": "Cj1Qnh9hwUDVgFzASJ990v1OGEaQZxJ+1XG/uHDAo6Q=",
+                            "encrypt": 1,
+                            "duration": "480.7264",
+                            "rate": "534.999",
+                            "randInit": "Af4ccb9Ztxrn4raM"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/1_4_359861_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "smqY3rO+EVBjLBbzlBGbzB+tae91W8K30aOogNeuYBw=",
+                            "rand": "/T9oeRd1/w6gWnhG8ZaT3Kdrg5Hy21aUpo4dnt3mddU=",
+                            "encrypt": 1,
+                            "duration": "480.7264",
+                            "rate": "566.717",
+                            "randInit": "Af4ccb9Ztxrn4raM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "39617",
+            "name": "盈利模式",
+            "courseId": "16906",
+            "sections": [
+                {
+                    "id": "359860",
+                    "name": "吃鸡游戏的商业逻辑",
+                    "courseId": "16906",
+                    "url": "/16906/2_0_359860_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/2_0_359860_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "WNa1/I0+5sqo6smsHO4rjAk6zjEUuNwbXn/78CIeJgk=",
+                            "rand": "1bQa1WO3NygOHhwS3nwsnuzq4zU80tNzZVglmOHh2pM=",
+                            "encrypt": 1,
+                            "duration": "469.6465",
+                            "rate": "444.779",
+                            "randInit": "yTQaaEx5nSj0QxeM"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/2_0_359860_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "pqYID4FqONmxL1QfWyCijo0Hhu091+Uj5taScM3HYgo=",
+                            "rand": "IH687pR+f0ixmkNK8IUyGzaD498FIwDGVbORRwZmnBk=",
+                            "encrypt": 1,
+                            "duration": "469.6465",
+                            "rate": "596.522",
+                            "randInit": "yTQaaEx5nSj0QxeM"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/2_0_359860_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HERYpjUqqL4y163K7kj9Jx6qqWddC6mLyy+oNzlj4HM=",
+                            "rand": "oXUUWsPltsUiToSjfi/r2xR5o3BBnjjvZXVRc+4Zjbw=",
+                            "encrypt": 1,
+                            "duration": "469.6465",
+                            "rate": "641.679",
+                            "randInit": "yTQaaEx5nSj0QxeM"
+                        }
+                    ]
+                },
+                {
+                    "id": "359859",
+                    "name": "京东是怎样做起来的？- 京东的崛起与商业逻辑",
+                    "courseId": "16906",
+                    "url": "/16906/2_1_359859_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/2_1_359859_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "d2KuPYGMJtNTUbmNZOv/oabsALVvgApF9qxCfhhHV8Q=",
+                            "rand": "QDUruiVygMjLnBJscsHyajB42/HcBbK+JD61KjLp4QA=",
+                            "encrypt": 1,
+                            "duration": "413.0464",
+                            "rate": "448.578",
+                            "randInit": "Ea6X5fRC9AaCh2ZX"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/2_1_359859_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ERokW8Q0nXFAxQKuRUExNZbXhaIlNAFrtrSlvHdJgVE=",
+                            "rand": "WuFFJx+bGMirH+PqanAa8MgvDdlZ3TnJeIOoRQxJSg4=",
+                            "encrypt": 1,
+                            "duration": "413.0464",
+                            "rate": "561.609",
+                            "randInit": "Ea6X5fRC9AaCh2ZX"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/2_1_359859_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "7zqhqeeWoMRINHVNqjTsow0k84gFHFNmFDHhykEX8Pc=",
+                            "rand": "8M5CBWa0KcgZxstp97uoUQ==",
+                            "encrypt": 1,
+                            "duration": "413.0820",
+                            "rate": "603.144",
+                            "randInit": "Ea6X5fRC9AaCh2ZX"
+                        }
+                    ]
+                },
+                {
+                    "id": "359858",
+                    "name": "小米是如何做风口上的猪的？",
+                    "courseId": "16906",
+                    "url": "/16906/2_2_359858_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/2_2_359858_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "2FmutFKLeUMnrTNimxnLYr+24xSIqOrUYC07q6zUIXM=",
+                            "rand": "0fahc1OFgckl9DA2QBD1bozFIlgU3UGhblOAjM4VRL0=",
+                            "encrypt": 1,
+                            "duration": "337.0865",
+                            "rate": "451.976",
+                            "randInit": "D4T5nA5F325i8yHA"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/2_2_359858_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "bPmxgUThwR0NbFVWatWjDc2TwLrkQ0NQXcrnJ5Egs+c=",
+                            "rand": "gPOug0qxTYWpBVc2x4dB23wk5+ev9fVcvLe/wvGjkZ4=",
+                            "encrypt": 1,
+                            "duration": "337.1065",
+                            "rate": "650.633",
+                            "randInit": "D4T5nA5F325i8yHA"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/2_2_359858_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "pdJ5VXIQQ+CM62aw7oUBPcOysUzNtfRIvwkgeITMm60=",
+                            "rand": "cH6LU9nL+1n3FIccl8m/aEC8t0wy+Mw0acl4mQHJeZY=",
+                            "encrypt": 1,
+                            "duration": "337.0865",
+                            "rate": "696.16",
+                            "randInit": "D4T5nA5F325i8yHA"
+                        }
+                    ]
+                },
+                {
+                    "id": "359857",
+                    "name": "王者荣耀是在毒害青少年吗？- 免费游戏的赚钱模式",
+                    "courseId": "16906",
+                    "url": "/16906/2_3_359857_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/2_3_359857_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "7Y9YbePRrb/PPvE6brs3cls7Pzjqjy70sUhGUWpvwS0=",
+                            "rand": "I9NTOeniVdA+BLTA5GPc8+y8Ks9h8hPf8pQ8dqDG4Tk=",
+                            "encrypt": 1,
+                            "duration": "466.0931",
+                            "rate": "450.732",
+                            "randInit": "K8hMz6KSstZaRYCe"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/2_3_359857_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ZdJz6U1+1fzhwRIJPDxmU/FyZ0ExINxNwPFybbG7Uv4=",
+                            "rand": "8DWP8ypKbrwQZ17L7Fpq/71TCuZoGmh9+QoJJS+vtAw=",
+                            "encrypt": 1,
+                            "duration": "466.0865",
+                            "rate": "609.074",
+                            "randInit": "K8hMz6KSstZaRYCe"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/2_3_359857_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "QzDPBqaf0XQw78Tkn6koyO8WjLV9tSOHAfP2Yrz7kyE=",
+                            "rand": "wH9nX3frNdrFU3tKr19XU1HjFNkCRqesgww2mvu+M7w=",
+                            "encrypt": 1,
+                            "duration": "466.0865",
+                            "rate": "649.846",
+                            "randInit": "K8hMz6KSstZaRYCe"
+                        }
+                    ]
+                },
+                {
+                    "id": "359856",
+                    "name": "滴滴是怎样坑出租车公司的？- 滴滴的起家办法和盈利模式",
+                    "courseId": "16906",
+                    "url": "/16906/2_4_359856_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/2_4_359856_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ZW/b2wGGP2IS9FDll3xDE8V7KQvNZ6s7Lq29mVC7kcE=",
+                            "rand": "jpYq5J0E7NHOmybglsuf6Q1UImcMRTlRALkflb0feyk=",
+                            "encrypt": 1,
+                            "duration": "623.1664",
+                            "rate": "439.808",
+                            "randInit": "me39TB5M7fw7zp05"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/2_4_359856_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Rp7o6PCjP3sU5CtcNpvjegCiJxYq2hw2iaXNckzIPpE=",
+                            "rand": "w1mN6+pXNR5IrWmpDmAiJYxqXNUSu9L99hP6mqYyznE=",
+                            "encrypt": 1,
+                            "duration": "623.1664",
+                            "rate": "536.47",
+                            "randInit": "me39TB5M7fw7zp05"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/2_4_359856_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "XuBM9Pdbu1gHJQX3KezEK9ASBvSRbTqeZA5AxdELUz8=",
+                            "rand": "n+dpCfSkM0JVKA/4/NOADRJdfd8UIvb5zXOESrKod2s=",
+                            "encrypt": 1,
+                            "duration": "623.1664",
+                            "rate": "567.836",
+                            "randInit": "me39TB5M7fw7zp05"
+                        }
+                    ]
+                },
+                {
+                    "id": "359855",
+                    "name": "用百度会死吗？- 百度顾着赚黑心钱，浪费了改变世界的机会",
+                    "courseId": "16906",
+                    "url": "/16906/2_5_359855_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/16906/2_5_359855_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "kGtPMSWzHign8HWIbV61bX1Yn0N3meEsRkAQ7fmOy0U=",
+                            "rand": "E+jHhS1yXYX4bf5QPmmZCa5fljjV1fc0BCJOm5P5YJY=",
+                            "encrypt": 1,
+                            "duration": "411.2709",
+                            "rate": "426.101",
+                            "randInit": "Ew80wEHwaCDeiJSy"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/16906/2_5_359855_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "kjUXn0K+Z6TxxV1mI36r+/2GTo79nbYD3VzGFA4ULec=",
+                            "rand": "jnVdj4xUL8Oa7yB+zxee9nLKvng7f3zXkgKcfu+ZS9c=",
+                            "encrypt": 1,
+                            "duration": "411.2709",
+                            "rate": "475.375",
+                            "randInit": "Ew80wEHwaCDeiJSy"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/16906/2_5_359855_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "bBDrWGTohi0/YGi9a1dWXo64g4vWh9CS9F/2amLb0mQ=",
+                            "rand": "gjCr76O8iH6+4B2gDY0u0VeKGhUIhW2SSaWyfUbM4XM=",
+                            "encrypt": 1,
+                            "duration": "411.2464",
+                            "rate": "506.917",
+                            "randInit": "Ew80wEHwaCDeiJSy"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
