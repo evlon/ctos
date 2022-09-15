@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
-#EXT-X-KEY:METHOD=AES-128-PES,URI="https://hw.p0q.top/cto/p/fdfc61c61a9cec49d7fd153c5f8886c8cdab9ed3fa45ffbc6c00c8feb6ef867902a254918fabc66f500323f4571e6eaa759903f20d463bb3e57f442e898cef47"
+#EXT-X-KEY:METHOD=AES-128-PES,URI="https://hw.p0q.top/cto/p/fdfc61c61a9cec49d7fd153c5f8886c8cdab9ed3fa45ffbc6c00c8feb6ef867902a254918fabc66f500323f4571e6eaa5941f568e5e99f1acfda1f0d6613f9d4"
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:6.000000
 https://v30.51cto.com/ee1299e175b549f4b1e4b3f53be24cdf/4ec52fc88cff98d81e6caa935f7894b3-sd-encrypt-stream-00001.ts?_ali_next_ts=4ec52fc88cff98d81e6caa935f7894b3-sd-encrypt-stream-00002.ts%204ec52fc88cff98d81e6caa935f7894b3-sd-encrypt-stream-00003.ts&_ali_ts_dur=6&_ali_next_ts_m5=3d685505c9d91b7b42b76bf3d8ae4459
