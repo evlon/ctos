@@ -1,0 +1,628 @@
+{
+    "id": "31734",
+    "name": "没想到你是这样的前端 - 第二季",
+    "lecturer": "未知",
+    "descriptionText": "未知",
+    "chapters": [
+        {
+            "id": 105613,
+            "name": "QQ音乐居然可以白嫖下载？",
+            "sorted": 1,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842629,
+                    "name": "QQ音乐居然可以白嫖下载？",
+                    "chapterId": 105613,
+                    "courseId": "31734",
+                    "url": "e31734/1-1_105613_842629_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/1-1_105613_842629_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "vJhCNXgCUo2LmQ0iQPFUYqpV6jUMR90S4nUB6gqrodI=",
+                            "rand": "ocsTFKZ6ysOzgAVnUq29w37DYv3B+39wMTtDK1l9kL4=",
+                            "encrypt": 1,
+                            "duration": "138.2864",
+                            "rate": "413.123",
+                            "randInit": "E22fMjy9XaKPPKds"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/1-1_105613_842629_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "u/6ZcaI3a/GA3Rma/5J9w8dG13hwvHBtvidq4F1ZHfM=",
+                            "rand": "p8XcrSI4dkd27ogMoz3sSSe+apWHkpvQ47xaGKdaHfg=",
+                            "encrypt": 1,
+                            "duration": "138.2864",
+                            "rate": "619.027",
+                            "randInit": "E22fMjy9XaKPPKds"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/1-1_105613_842629_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "TpWIqYoWWpWusoTQgf78VYteznlycOeKqcAytE9Btd8=",
+                            "rand": "BvRgzf6afZLszNoTALxuV1GOfIsX6O2ugrfaBv+Kde0=",
+                            "encrypt": 1,
+                            "duration": "138.2864",
+                            "rate": "804.561",
+                            "randInit": "E22fMjy9XaKPPKds"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105614,
+            "name": "谷歌浏览器默认的搜索引擎打不开是怎么回事？",
+            "sorted": 2,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842628,
+                    "name": "谷歌浏览器默认的搜索引擎打不开是怎么回事？",
+                    "chapterId": 105614,
+                    "courseId": "31734",
+                    "url": "e31734/2-1_105614_842628_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/2-1_105614_842628_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ChN4rjuzOO9l5IUke7fr3bFK7FxKgD5ioUSyp6rdeEQ=",
+                            "rand": "vp/ayvicTYPUyHHLb1WvLC2X7818jq3PHvfnoM9LwuQ=",
+                            "encrypt": 1,
+                            "duration": "125.7264",
+                            "rate": "350.081",
+                            "randInit": "9p0Y2ijZHNrK5wD4"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/2-1_105614_842628_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "tmM67gJIXUiTcTY9RqVAPDujR3nraMHtwonWkiIzFvE=",
+                            "rand": "AhfRd6jnu/k+0q8j0rNukV71+zILfzkBtdte/tui50c=",
+                            "encrypt": 1,
+                            "duration": "125.7264",
+                            "rate": "517.413",
+                            "randInit": "9p0Y2ijZHNrK5wD4"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/2-1_105614_842628_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "vOujIbNs5LHLNh58gg1t7aCO1VyT9r6e2dOHglwT3ks=",
+                            "rand": "b1x6TPGuZ21TBSSmmqt31c9mntwkPfrp9QWpS9uqtgQ=",
+                            "encrypt": 1,
+                            "duration": "125.7264",
+                            "rate": "693.476",
+                            "randInit": "9p0Y2ijZHNrK5wD4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105615,
+            "name": "B站首页导航图到底隐藏着什么彩蛋？",
+            "sorted": 3,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842627,
+                    "name": "B站首页导航图到底隐藏着什么彩蛋？",
+                    "chapterId": 105615,
+                    "courseId": "31734",
+                    "url": "e31734/3-1_105615_842627_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/3-1_105615_842627_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "jVr//Ndo/aOqrWNam68jZhKZ+FuUwOikg9ibbA6Jhgo=",
+                            "rand": "oMZ6pZWqJ1c73o8qvF3TjdH0+WSNcDeyGvMoHnMlkq8=",
+                            "encrypt": 1,
+                            "duration": "350.7264",
+                            "rate": "443.305",
+                            "randInit": "eyGnfDdZcj2ikzW6"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/3-1_105615_842627_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "tsa5VmpTRWRrs8K3vFL9vZARbrmRSSaYbgLCIaUO4j0=",
+                            "rand": "cJVxgZ+ghb6Q0FVTFzP4di7B23Ox7ORM5r4DQFm8gSQ=",
+                            "encrypt": 1,
+                            "duration": "350.7264",
+                            "rate": "678.52",
+                            "randInit": "eyGnfDdZcj2ikzW6"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/3-1_105615_842627_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "DUqi1e0bi6WVW6YgRgxU40kptoVZtBTqWquufRUnt0I=",
+                            "rand": "dzN6HDe1QmRxdVu0TmdEYTfvYoxY5dRF6ZnQmho+sNc=",
+                            "encrypt": 1,
+                            "duration": "350.7264",
+                            "rate": "881.748",
+                            "randInit": "eyGnfDdZcj2ikzW6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105616,
+            "name": "三分钟秒懂 - 网页制作一张3d版三国杀卡牌竟然如此简单？",
+            "sorted": 4,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842626,
+                    "name": "三分钟秒懂 - 网页制作一张3d版三国杀卡牌竟然如此简单？",
+                    "chapterId": 105616,
+                    "courseId": "31734",
+                    "url": "e31734/4-1_105616_842626_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/4-1_105616_842626_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "g4bMEj/0UZCe9gagPJhQK4WnUTkHQyenSS6ADT6bHD8=",
+                            "rand": "bgBpmxcZDQXFwqOafPPP2nNykmRu6gCjSFnZjsGzea4=",
+                            "encrypt": 1,
+                            "duration": "195.2065",
+                            "rate": "436.962",
+                            "randInit": "6cHSwDcpsbxW5bPj"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/4-1_105616_842626_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "roK+6Ziwb0bTTXc+fphiJflntLZQmjQuxdEWDrMOrIY=",
+                            "rand": "HP+PUHCrdh4xUZrOVPcwh+ZJerR+aEBy0hkI2lhkRhQ=",
+                            "encrypt": 1,
+                            "duration": "195.2065",
+                            "rate": "661.938",
+                            "randInit": "6cHSwDcpsbxW5bPj"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/4-1_105616_842626_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "rFJ37VlDlBZHY0jK9tn+NU6o2We2+ZjnOkMTfCBTqj4=",
+                            "rand": "wU8OJUSSvH27wF4ChUnf+8RZmTunpCuWfprbz9o+4QQ=",
+                            "encrypt": 1,
+                            "duration": "195.2065",
+                            "rate": "857.536",
+                            "randInit": "6cHSwDcpsbxW5bPj"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105617,
+            "name": "网页中选中内容的背景颜色只能是淡蓝色么？",
+            "sorted": 5,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842625,
+                    "name": "网页中选中内容的背景颜色只能是淡蓝色么？",
+                    "chapterId": 105617,
+                    "courseId": "31734",
+                    "url": "e31734/5-1_105617_842625_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/5-1_105617_842625_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "O39Xtiu5w64lPQ3cbsygHRnnLGblZkODOFg+qBUhVjE=",
+                            "rand": "tAQNGfFI/iOY+GRDpUAvs1QQnWAuQws/5L0WimoDLoA=",
+                            "encrypt": 1,
+                            "duration": "96.3664",
+                            "rate": "407.423",
+                            "randInit": "N5ENX4y3E2ASw8bN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/5-1_105617_842625_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "bOBmolSE60FqRA7HsJ5bs4pFhhsqB7WMhr09SvKPBho=",
+                            "rand": "kfMDn111nANiLIfjWtq89xoLlGSsQjM4XJNX8C8yidE=",
+                            "encrypt": 1,
+                            "duration": "96.3664",
+                            "rate": "612.952",
+                            "randInit": "N5ENX4y3E2ASw8bN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/5-1_105617_842625_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4pWE8KCGTZOaErIwBgqbvkKJw+RtLjmxwyxV2p9yaZE=",
+                            "rand": "XVzU9i1FWY6rwy9ycMPXtdMFploMxY3qoC3BTunl5Hg=",
+                            "encrypt": 1,
+                            "duration": "96.3664",
+                            "rate": "792.137",
+                            "randInit": "N5ENX4y3E2ASw8bN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105618,
+            "name": "三分钟秒懂 - 如何写一段网页自动点击的脚本",
+            "sorted": 6,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842620,
+                    "name": "三分钟秒懂 - 如何写一段网页自动点击的脚本",
+                    "chapterId": 105618,
+                    "courseId": "31734",
+                    "url": "e31734/6-1_105618_842620_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/6-1_105618_842620_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "4pTyNPuoJsZL7uk9CtyPKAa/LcRcTL9O61mNYGisUCk=",
+                            "rand": "KJ/FVUBFrNoupQ3c0dD+xHcpZJEyoXbZwgLyZt7I+QY=",
+                            "encrypt": 1,
+                            "duration": "199.4464",
+                            "rate": "413.481",
+                            "randInit": "hH5MCPAXJY3bW652"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/6-1_105618_842620_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "HFepG9JsOSBQ30ekIWsKHd5JxYOFINNXnLx+eJeM1UY=",
+                            "rand": "SgSl8R/fFycvTM9fn9yKSk6peSaOqo+RrwVDXc73wxw=",
+                            "encrypt": 1,
+                            "duration": "199.4464",
+                            "rate": "627.958",
+                            "randInit": "hH5MCPAXJY3bW652"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/6-1_105618_842620_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ea9HKB38FX754HlP/w5PS41UzbfeUqlIg3/b5k08Ml0=",
+                            "rand": "SkVE2nQgLYLCDliW+2JHwGb0kQm45rUwJWWoZPt9IQI=",
+                            "encrypt": 1,
+                            "duration": "199.4464",
+                            "rate": "808.109",
+                            "randInit": "hH5MCPAXJY3bW652"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105619,
+            "name": "如何制作反向镜像的B站",
+            "sorted": 7,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842624,
+                    "name": "如何制作反向镜像的B站",
+                    "chapterId": 105619,
+                    "courseId": "31734",
+                    "url": "e31734/7-1_105619_842624_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/7-1_105619_842624_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "bk8TCM48EpKnusOJEEQXmR5VUIG4k9A922fmdI/WmC0=",
+                            "rand": "/5pfeZioq0TITkNGhjlAbvT0JW2CFvrE4yFhk0iBsAI=",
+                            "encrypt": 1,
+                            "duration": "153.9664",
+                            "rate": "425.881",
+                            "randInit": "5E8a80Ecn6xNM6KH"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/7-1_105619_842624_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "lpvn5cnA5Bf+eqv+XD7CJcXDHLZnGBE7+8JeDMj2fpQ=",
+                            "rand": "+sxnHaZCCJW7KJcqWAM3sUPjq/yAJs0GDf4IiYOkSWw=",
+                            "encrypt": 1,
+                            "duration": "153.9664",
+                            "rate": "650.055",
+                            "randInit": "5E8a80Ecn6xNM6KH"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/7-1_105619_842624_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "MmyN/7dwvQPqCHxt6UyQ4mdNoN92Xy0a28JBDu6+F3M=",
+                            "rand": "qYsb/BwZ9esnJiGo+drBiOwoA3tM6loHVSD2tyGCCvk=",
+                            "encrypt": 1,
+                            "duration": "153.9664",
+                            "rate": "835.341",
+                            "randInit": "5E8a80Ecn6xNM6KH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105620,
+            "name": "三分钟学会 - 如何用网页正确的表白",
+            "sorted": 8,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842623,
+                    "name": "三分钟学会 - 如何用网页正确的表白",
+                    "chapterId": 105620,
+                    "courseId": "31734",
+                    "url": "e31734/8-1_105620_842623_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/8-1_105620_842623_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "3AtZuNvCjkkwwbnYDsPrJZcdMcOxjRFXw7PE3tldZSg=",
+                            "rand": "XfMcc435w587o2Nohc2eQqYr3Wksh7jShD+rRZqZWiI=",
+                            "encrypt": 1,
+                            "duration": "184.1664",
+                            "rate": "366.897",
+                            "randInit": "Tsi6EFn35zYZfXCN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/8-1_105620_842623_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "lPViZMZ2sURChrrUo7E0qA+BBtPn5H4S/HgjivpYhaQ=",
+                            "rand": "COMR8M+gGIXyY1G4dx44E1aYHG1jSdcSstDKnbIHqEk=",
+                            "encrypt": 1,
+                            "duration": "184.1664",
+                            "rate": "537.978",
+                            "randInit": "Tsi6EFn35zYZfXCN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/8-1_105620_842623_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ulqCJbwyLwTTO4iihPRQ1Wko8rjhrWiV21feMjwj9v8=",
+                            "rand": "DDY90XgbLu6VoOogOIgYrxeud82zb2Z2a3rxy2uh6X8=",
+                            "encrypt": 1,
+                            "duration": "184.1664",
+                            "rate": "699.871",
+                            "randInit": "Tsi6EFn35zYZfXCN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105621,
+            "name": "两分钟秒懂 - 如何用浏览器技术下载网页视频",
+            "sorted": 9,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842622,
+                    "name": "两分钟秒懂 - 如何用浏览器技术下载网页视频",
+                    "chapterId": 105621,
+                    "courseId": "31734",
+                    "url": "e31734/9-1_105621_842622_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/9-1_105621_842622_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "w6X/x1Pt7n8GTxq7fpgtjSbgfBr4OUUraZHymfFOh9g=",
+                            "rand": "VqvC39Yq9zVauAyzBDxTRDw/SP/9MJmG90z+dtGxAj0=",
+                            "encrypt": 1,
+                            "duration": "118.2064",
+                            "rate": "442.307",
+                            "randInit": "5NTRa0pArByckmWH"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/9-1_105621_842622_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "9KQ7Bg1XRvaBMh90eE8Btcxj6/lLFrWjOEwAhH4QX+U=",
+                            "rand": "KTPgGCAA41sxDcVtKtnoIxQk67Skx31syXyx06fP2a0=",
+                            "encrypt": 1,
+                            "duration": "118.2064",
+                            "rate": "677.857",
+                            "randInit": "5NTRa0pArByckmWH"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/9-1_105621_842622_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HA68GvBDdhzUgsB4FhWAYfzL64LZhD14yGz5ErGvtI8=",
+                            "rand": "kH5D+gwRqOGFpCOdigVSP7qEUMb+WzoUvtN2InRyaKE=",
+                            "encrypt": 1,
+                            "duration": "118.2064",
+                            "rate": "879.842",
+                            "randInit": "5NTRa0pArByckmWH"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105622,
+            "name": "网页模糊效果是如何实现的？",
+            "sorted": 10,
+            "courseId": "31734",
+            "sections": [
+                {
+                    "id": 842621,
+                    "name": "网页模糊效果是如何实现的？",
+                    "chapterId": 105622,
+                    "courseId": "31734",
+                    "url": "e31734/10-1_105622_842621_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e31734/10-1_105622_842621_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "/qC8o8wwYHIgYQdyumpE3I+aZOtDTQKhsIJ0xv7Bf00=",
+                            "rand": "feO6E0B7wKBYQzVRU0Zx5MwYEZzMyrWIPRmVTUgHpKs=",
+                            "encrypt": 1,
+                            "duration": "81.6864",
+                            "rate": "427.541",
+                            "randInit": "3ymAFS6XssSPSdhf"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e31734/10-1_105622_842621_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "IQUHSypXxTGb+32nkM3HyEmt7nNuuL+r/+B3WThbVMQ=",
+                            "rand": "ZD+tEfu8oKL+89j8s0Jefdm/CSYUkDDwayZDhkx2XFU=",
+                            "encrypt": 1,
+                            "duration": "81.6864",
+                            "rate": "659.439",
+                            "randInit": "3ymAFS6XssSPSdhf"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e31734/10-1_105622_842621_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "MTWE4Axnm7vr8+5fK3YBOHDmYRnuj5BVAlQtA48IHS4=",
+                            "rand": "sLIMxaV+pvxcwfcxahpLxHBeI8QTEh/WA3WYVg2k3h4=",
+                            "encrypt": 1,
+                            "duration": "81.6864",
+                            "rate": "853.831",
+                            "randInit": "3ymAFS6XssSPSdhf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
