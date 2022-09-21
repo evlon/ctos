@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXT-X-KEY:METHOD=AES-128-PES,URI="https://hw.p0q.top/cto/p/0529ea0375acdc94924cd248ba31d5e3f1071f3e1b1fb708d0a451d3e8282654a0f6856babd65a305d44273779c8b5c75f2c2bcf7aefda9bfb14465fd77f78b3"
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:6.000000
+https://v30.51cto.com/7373af5da5c24de190b8b63de5bbb78d/ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00001.ts?_ali_next_ts=ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00002.ts%20ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00003.ts&_ali_ts_dur=6&_ali_next_ts_m5=9867a0d8828296155ffeba1a0ba345c4
+#EXTINF:6.000000
+https://v30.51cto.com/7373af5da5c24de190b8b63de5bbb78d/ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00002.ts
+#EXTINF:6.000000
+https://v30.51cto.com/7373af5da5c24de190b8b63de5bbb78d/ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00003.ts?_ali_next_ts=ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00004.ts%20ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00005.ts&_ali_ts_dur=6&_ali_next_ts_m5=8c09a9766b134c668dc6814b0c3aa47e
+#EXTINF:6.000000
+https://v30.51cto.com/7373af5da5c24de190b8b63de5bbb78d/ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00004.ts
+#EXTINF:3.720000
+https://v30.51cto.com/7373af5da5c24de190b8b63de5bbb78d/ad9fbd6af303fcadf7f1bc85f12f3c7c-sd-encrypt-stream-00005.ts
+#EXT-X-ENDLIST
