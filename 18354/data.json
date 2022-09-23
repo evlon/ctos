@@ -1,0 +1,1328 @@
+{
+    "id": "18354",
+    "name": "敏捷项目管理之SCRUM",
+    "lecturer": "敏捷教练、项目经理、SCRUM MASTER、产品负责人、研发团队以及任何对敏捷感兴趣的朋友",
+    "descriptionText": "通过敏捷课程学习，全视角认识敏捷，学习敏捷精髓，熟悉**的敏捷方法。",
+    "chapters": [
+        {
+            "id": "399752",
+            "name": "第1章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399752",
+                    "name": "01传统项目管理的特点",
+                    "courseId": "18354",
+                    "url": "/18354/0_0_399752_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/0_0_399752_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AdjCqCOL366Nqf4ihKC4zB6Jet0qZFh1y26QCsSj/Dk=",
+                            "rand": "Bwu+eaBxpOH5Ix/9eqeGM4ulxCyC7gOsJY2aINSVB0U=",
+                            "encrypt": 1,
+                            "duration": "784.1664",
+                            "rate": "326.08",
+                            "randInit": "YRT67Wt24FNkRK2i"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/0_0_399752_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "za3t0K8JSZ4wuF6eAqhdPdc9jfeFI6sgh6qXhZ8y6h4=",
+                            "rand": "XMheo1OpHcHnHhNY16EbwqAGBp9HW6neWM2NtcJq23w=",
+                            "encrypt": 1,
+                            "duration": "784.1664",
+                            "rate": "431.663",
+                            "randInit": "YRT67Wt24FNkRK2i"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/0_0_399752_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "qbnQKYnwwXV+tMi95WaUEzR0aMC6/20ubw0jxskdr24=",
+                            "rand": "Yg7NjFcIhtxrQda63EP7YqrsmlCut3lmzStbr8D1mpc=",
+                            "encrypt": 1,
+                            "duration": "784.1664",
+                            "rate": "475.259",
+                            "randInit": "YRT67Wt24FNkRK2i"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399751",
+            "name": "第2章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399751",
+                    "name": "02什么是敏捷？",
+                    "courseId": "18354",
+                    "url": "/18354/1_0_399751_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/1_0_399751_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AI49viKci5cYHF2jBfL2HwYRXKt5zvMhtrTbgyLjM74=",
+                            "rand": "hGD/Gs+WR2dCPOjjRBf2NHBXxKWJl7arKeJZgqpq3iI=",
+                            "encrypt": 1,
+                            "duration": "527.1664",
+                            "rate": "373.319",
+                            "randInit": "R52Re3wQDnai6hnJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/1_0_399751_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "6sQCPV/36KloHl0cewgXk9La/YR0Hd6mV+doUxQx07A=",
+                            "rand": "0IRoC01CSzaMfXkqLrfeHdztwxeqq9WYnWSQ+CA+C04=",
+                            "encrypt": 1,
+                            "duration": "527.1664",
+                            "rate": "493.763",
+                            "randInit": "R52Re3wQDnai6hnJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/1_0_399751_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "V9+vyjX0NB87bNy2FSdkzdxJ3lli+ssaKDnSzAO9LCQ=",
+                            "rand": "n1cWdGEzl4h9T7ghGErP52ZvPljLG6hhO1iFSXusO18=",
+                            "encrypt": 1,
+                            "duration": "527.1664",
+                            "rate": "546.415",
+                            "randInit": "R52Re3wQDnai6hnJ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399750",
+            "name": "第3章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399750",
+                    "name": "03敏捷宣言",
+                    "courseId": "18354",
+                    "url": "/18354/2_0_399750_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/2_0_399750_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "p8YB9BXD0OSITTsWdJxqQUt924waP1KHR55kD1qzCiI=",
+                            "rand": "y+biDGGpqAHtHB7h909teCi9d1Y7c9iVXF/lJvGbqa8=",
+                            "encrypt": 1,
+                            "duration": "1218.8865",
+                            "rate": "416.644",
+                            "randInit": "ZpXYEE3j2T2eN8Pa"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/2_0_399750_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "0xpWb9Fv4UTIiAeo/ZTcTjA8buYQ2hxyrkqPgEDtMFw=",
+                            "rand": "3B3qGwwNGkE4i4prC7IEOG+JhjC6JcN/cFmmKU2MlYI=",
+                            "encrypt": 1,
+                            "duration": "1218.8865",
+                            "rate": "617.183",
+                            "randInit": "ZpXYEE3j2T2eN8Pa"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/2_0_399750_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "AKZlznJ3rgHHjtSxyKTo+Nbrf5oJyZnygSpm7y8Ptmg=",
+                            "rand": "ytG/aRcyWE92Q2QzsTvNEw6adWid7Wo63+WM7qKCf/8=",
+                            "encrypt": 1,
+                            "duration": "1218.8865",
+                            "rate": "720.997",
+                            "randInit": "ZpXYEE3j2T2eN8Pa"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399749",
+            "name": "第4章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399749",
+                    "name": "04敏捷应用和cynefin框架",
+                    "courseId": "18354",
+                    "url": "/18354/3_0_399749_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/3_0_399749_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "airOeHWGy7G04YQPoB4TKL0EgLxXzTUn9tpnQdKgnJc=",
+                            "rand": "Q4Q3Xe9l3wStFxwCTjvD7JB6W6SDdT0BQ4v4UXZTBK8=",
+                            "encrypt": 1,
+                            "duration": "634.9664",
+                            "rate": "326.757",
+                            "randInit": "2jhAE5ess3J7dx3B"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/3_0_399749_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "5KJZ2+UWKeUVf46eQaPIn4HMZQqxFPQoFkyXUyjSLzo=",
+                            "rand": "LC/Z3lYqM13bBIMrATK5let1yn+gTDuuLCo1ekbbMHo=",
+                            "encrypt": 1,
+                            "duration": "634.9664",
+                            "rate": "456.193",
+                            "randInit": "2jhAE5ess3J7dx3B"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/3_0_399749_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "PlrmoEMTPLcKRCXBIQXRMXLDAYDGW/EciJv2t/5kFP4=",
+                            "rand": "XNWCa/QijTQobATeHLSqL44y1n/3Y+OxESEbKDFnLoc=",
+                            "encrypt": 1,
+                            "duration": "634.9664",
+                            "rate": "547.892",
+                            "randInit": "2jhAE5ess3J7dx3B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399747",
+            "name": "第5章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399747",
+                    "name": "06SCRUM起源和核心价值观",
+                    "courseId": "18354",
+                    "url": "/18354/4_0_399747_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/4_0_399747_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "X3bMPoMxfnmkJVtQNnqaPYUODmDuJRWkcEuPUUcoiUo=",
+                            "rand": "ez8V8AOLC1lPUBTaz8qAo+VL9vSr6w27hG6FGnjZQ/o=",
+                            "encrypt": 1,
+                            "duration": "619.2465",
+                            "rate": "385.949",
+                            "randInit": "jyFKxTQ2ACp9WS6G"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/4_0_399747_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ssaj9ovIHfmmLzSi/bNRB1X33xrc4GMuDMxBhqop+mo=",
+                            "rand": "DmG1lu/CJ0nE4GjGzO0JB9arLNC84ZelyPG0ECf0Po0=",
+                            "encrypt": 1,
+                            "duration": "619.2465",
+                            "rate": "443.909",
+                            "randInit": "jyFKxTQ2ACp9WS6G"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/4_0_399747_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "km+oLNjaHeP3sM8cug6Bx3FHf2ThQtS9yk9ABKeRpoQ=",
+                            "rand": "Be0oOqaZt74gSrqIh4EtonYRv411PKx33hAhKHhk4QE=",
+                            "encrypt": 1,
+                            "duration": "619.2465",
+                            "rate": "476.745",
+                            "randInit": "jyFKxTQ2ACp9WS6G"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399748",
+            "name": "第6章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399748",
+                    "name": "05SCRUM是个啥",
+                    "courseId": "18354",
+                    "url": "/18354/5_0_399748_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/5_0_399748_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "wlB9oAtQNp6HKF7xug6JvS9/wgM4J3jwkt2h0nXJnUg=",
+                            "rand": "XT3w7d8yNkdk84ggLHDhDCpvaiBxYzrDXZQll2uib+g=",
+                            "encrypt": 1,
+                            "duration": "938.0464",
+                            "rate": "381.506",
+                            "randInit": "sF6iCA82SJr7WGzh"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/5_0_399748_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "HNAlTV8uzrc5fnUPLT/TPYuQRpzqWIcUsVkaRG3qfyw=",
+                            "rand": "5kpVo0sQkI6JbFMYTy2vQ56wzk1PdRoqUvSCULMU8S4=",
+                            "encrypt": 1,
+                            "duration": "938.0679",
+                            "rate": "459.19",
+                            "randInit": "sF6iCA82SJr7WGzh"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/5_0_399748_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "yuKmVKsLeXJQofuXrbgs47o0di4Rj3tSjXBJKMW8B2U=",
+                            "rand": "VdROyOV8mTEe+fgGlHS8IRwJ1K1jVxM9xmf5hvdHsCc=",
+                            "encrypt": 1,
+                            "duration": "938.0464",
+                            "rate": "492.309",
+                            "randInit": "sF6iCA82SJr7WGzh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399746",
+            "name": "第7章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399746",
+                    "name": "07SCRUM的三个角色之产品负责人",
+                    "courseId": "18354",
+                    "url": "/18354/6_0_399746_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/6_0_399746_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "8PVAF3WRChfMZRQZ3qn10uKEeeVSknMcJ5Kxk8xdF60=",
+                            "rand": "/7zWAf9e4DORaBguB8txxl80KGEJJswHB/Mag/yTJmE=",
+                            "encrypt": 1,
+                            "duration": "655.0464",
+                            "rate": "345.179",
+                            "randInit": "FZdS68cAF3Hnntny"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/6_0_399746_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "NJ7SWWE5yoaFAU0c8MGv6Cj5XnhO8I99zG2aFDoXWz8=",
+                            "rand": "/KQBIi/UTPgHyqrLvyPPIjhsjENXO0vlRkh9ztF6yfA=",
+                            "encrypt": 1,
+                            "duration": "655.0464",
+                            "rate": "430.738",
+                            "randInit": "FZdS68cAF3Hnntny"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/6_0_399746_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "NqkG5cd+/n9hvdCfm+VEy6aiPav0w1tm8UYlIHPxcM4=",
+                            "rand": "uSjeTsxNMCCgbqxDsEdyKyUtNjXc7uqOPA0YzhCqGNY=",
+                            "encrypt": 1,
+                            "duration": "655.0464",
+                            "rate": "491.215",
+                            "randInit": "FZdS68cAF3Hnntny"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399745",
+            "name": "第8章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399745",
+                    "name": "08SCRUM的三个角色之团队",
+                    "courseId": "18354",
+                    "url": "/18354/7_0_399745_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/7_0_399745_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "C8EODJb7dcYH2XjL6zN9F4+DxvcpLHKD6ednkdAzsvA=",
+                            "rand": "k2epH7OFcpdIVnhcwakd3c88qqM1tQ+6VdS84MAop/0=",
+                            "encrypt": 1,
+                            "duration": "510.3264",
+                            "rate": "367.398",
+                            "randInit": "sw8MYdGScpCacNwi"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/7_0_399745_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "F4lozVz7eEEpTvXRB2CB7e8iJmj46dz5KarIiFExa9Q=",
+                            "rand": "gCeY6GsEzdaovywqGSi7jsaLkKT+kC8aiK1Bq5m2Y9I=",
+                            "encrypt": 1,
+                            "duration": "510.3264",
+                            "rate": "478.022",
+                            "randInit": "sw8MYdGScpCacNwi"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/7_0_399745_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4o9e/kNz35nYF/yfM3xaAfPUhcR+8ShJh4OApmse99M=",
+                            "rand": "RhSgBlKgDU3KC/2EpKqjSR8LKdgN50gxuqdo7imfZfc=",
+                            "encrypt": 1,
+                            "duration": "510.3264",
+                            "rate": "536.239",
+                            "randInit": "sw8MYdGScpCacNwi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399744",
+            "name": "第9章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399744",
+                    "name": "09SCRUM的三个角色之scrum master",
+                    "courseId": "18354",
+                    "url": "/18354/8_0_399744_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/8_0_399744_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Qm0USDyO7UiBxxJwqlkc2/ESXEjppAHSQxTIUG2oJh4=",
+                            "rand": "W60WXX2DC1vndE7TIAdP/BrC0L1muVlH7XN0SLYfrYQ=",
+                            "encrypt": 1,
+                            "duration": "890.0864",
+                            "rate": "368.557",
+                            "randInit": "N5FCANCAKw7xCAHm"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/8_0_399744_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "p3v78XOLWqa5ZNeq/qAequfnSfe2hHmN/0/xagL3c68=",
+                            "rand": "K+/Eme6banpbGJa/VzJJO51dQT1HcvN5XVJ7uJyFcUQ=",
+                            "encrypt": 1,
+                            "duration": "890.0864",
+                            "rate": "421.491",
+                            "randInit": "N5FCANCAKw7xCAHm"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/8_0_399744_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ZIfr05blVoYYQRVgCtYmmjb6zPHGPZV9T+lTeE4HVDE=",
+                            "rand": "tlE/Ke2fesDIGoh+ShOkUMHJFomegpCQCd/faNXUh7c=",
+                            "encrypt": 1,
+                            "duration": "890.0864",
+                            "rate": "461.803",
+                            "randInit": "N5FCANCAKw7xCAHm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399743",
+            "name": "第10章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399743",
+                    "name": "10聊一聊敏捷教练",
+                    "courseId": "18354",
+                    "url": "/18354/9_0_399743_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/9_0_399743_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "N8lMIv4MCVrpcrO7Lu4p6MzWtSGSjgz5lzSa0JRoT3Q=",
+                            "rand": "9LhwsaXxz8+Lqb6AigiUcDqhYr4kns46bSJh7/OHCeI=",
+                            "encrypt": 1,
+                            "duration": "680.0464",
+                            "rate": "303.236",
+                            "randInit": "Dfx7xWspDHjdMGe5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/9_0_399743_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Tx8DGXAnpiCuxMjJ87dPFtebbRT4yiCxY+EchM/Jm+g=",
+                            "rand": "mxzErh4kI2PD8g0gj1SifS0WtuoQfHq27nA3LAXOB1U=",
+                            "encrypt": 1,
+                            "duration": "680.0660",
+                            "rate": "422.452",
+                            "randInit": "Dfx7xWspDHjdMGe5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/9_0_399743_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "fYLIaFtsnTxShzSQt0H71eY5I33oc6+ekq3ixSR/Vqo=",
+                            "rand": "pnpJGgctTS2y5+GN2V31oWZSqLNVoq2LxZYBxtOAi/w=",
+                            "encrypt": 1,
+                            "duration": "680.0660",
+                            "rate": "547.462",
+                            "randInit": "Dfx7xWspDHjdMGe5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399742",
+            "name": "第11章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399742",
+                    "name": "11SCRUM三个工件之product backlog",
+                    "courseId": "18354",
+                    "url": "/18354/10_0_399742_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/10_0_399742_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "pN5mi6NydHOpE3u0F+cLryw2saq5Ab34kv+Eeq9Yavs=",
+                            "rand": "EQNWJXYEwthw/iJ9eT5dH1+gFgShoyJnK6pCN7FRzbI=",
+                            "encrypt": 1,
+                            "duration": "400.0865",
+                            "rate": "375.039",
+                            "randInit": "icp38tnCMmWddsk7"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/10_0_399742_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "WieCBVn9cQww0TM9eM0aXUO8V+kogKqUyqHeGbC+HcA=",
+                            "rand": "PWoH15A3EWYSpIc17k+7xw0nEM2dv6JUKR//9UDZFTo=",
+                            "encrypt": 1,
+                            "duration": "400.0865",
+                            "rate": "483.322",
+                            "randInit": "icp38tnCMmWddsk7"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/10_0_399742_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "27sPF5LVwIspyLRZjAQXNHz8ZcvrcL0fNp8E54f1w5o=",
+                            "rand": "xpXm1s9OtuccLJ6QrDVB+8+vqBA3H4tCzjoo6Lf7AkY=",
+                            "encrypt": 1,
+                            "duration": "400.0865",
+                            "rate": "544.104",
+                            "randInit": "icp38tnCMmWddsk7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399741",
+            "name": "第12章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399741",
+                    "name": "12SCRUM工件之sprint backlog和 Burn",
+                    "courseId": "18354",
+                    "url": "/18354/11_0_399741_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/11_0_399741_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ib318H4/ppEGuFJzYfA5vU/wbxqcy518RFmb9dgj+cM=",
+                            "rand": "I8wbU1Jgi9kEbSJHNdnxDYJjLGB5VIRpT7wNRutpjQ8=",
+                            "encrypt": 1,
+                            "duration": "703.8065",
+                            "rate": "277.542",
+                            "randInit": "bcJYN6maBaWeEb7K"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/11_0_399741_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "h7sLM/rGxkTomDOO3rW8g6YSUIWPKyVngxksfAdWgHQ=",
+                            "rand": "N+4vVvAkwoViQYOYmOVN7Y3TmCsCKu3oIoe/8kzU3UI=",
+                            "encrypt": 1,
+                            "duration": "703.8065",
+                            "rate": "368.822",
+                            "randInit": "bcJYN6maBaWeEb7K"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/11_0_399741_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "VuxjRp7fdcXYF8nq2L2uuLShL+UKq6QtaFRI4K1zCTA=",
+                            "rand": "gt6Lozj5r6xJscF7sYvOyJh/cY3gP0a4/Zh/JbGYs8I=",
+                            "encrypt": 1,
+                            "duration": "703.8065",
+                            "rate": "442.87",
+                            "randInit": "bcJYN6maBaWeEb7K"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399740",
+            "name": "第13章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399740",
+                    "name": "13SCRUM四个活动简介",
+                    "courseId": "18354",
+                    "url": "/18354/12_0_399740_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/12_0_399740_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "H9pwcX6WVRDu3y2Q3qCnB38i/wGB5zXQ8detEetpnVE=",
+                            "rand": "zPiqqRA5sVsb9xEPRceSY47cJNkfskyPuQypt9BYiSo=",
+                            "encrypt": 1,
+                            "duration": "599.0864",
+                            "rate": "306.663",
+                            "randInit": "HSY0RxCWNXYAGrDT"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/12_0_399740_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "YnCx6vaxqeffXs9jR/K1jEAPECZTFMq02vhUuyEBs4o=",
+                            "rand": "stfFSYd1HvOOvy72M0rGQGnjRDohCl0eXgh4crsJYbE=",
+                            "encrypt": 1,
+                            "duration": "599.0864",
+                            "rate": "402.592",
+                            "randInit": "HSY0RxCWNXYAGrDT"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/12_0_399740_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "f5uonWS7jBtIMPlPQHtimIzXz2u3I6ts6cDLsgBtP84=",
+                            "rand": "DTEpU1FZSrTgwyySTSkgtTzOtN1WvLq4bB9KdiYDXCg=",
+                            "encrypt": 1,
+                            "duration": "599.0864",
+                            "rate": "470.598",
+                            "randInit": "HSY0RxCWNXYAGrDT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399739",
+            "name": "第14章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399739",
+                    "name": "14SCRUM迭代计划会议",
+                    "courseId": "18354",
+                    "url": "/18354/13_0_399739_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/13_0_399739_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Skve5SpfL4WN9cfk4KRGdJs1BCDiRTRjzivOmysARH4=",
+                            "rand": "CzzfYe4J4v7ls+mFv3kB4tjf1mDmsRAqs0QggoxojJA=",
+                            "encrypt": 1,
+                            "duration": "377.0464",
+                            "rate": "200.601",
+                            "randInit": "P2WhFmkkNDZ4tEWG"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/13_0_399739_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "p4YPIe4vvzMePBJPHVuAb8CafnReFW2FD6JbchB5EAM=",
+                            "rand": "FckJwxoJDgXLm5Y7pd1+OiZ4oBec2TO4VIVmQscnuxk=",
+                            "encrypt": 1,
+                            "duration": "377.0464",
+                            "rate": "257.806",
+                            "randInit": "P2WhFmkkNDZ4tEWG"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/13_0_399739_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "dHRRy1EIJqCC/poMiDac4ZZ1pXI6RmVsxzoj0YdPoKQ=",
+                            "rand": "i8u9d6r3HPPerpVXLJjqFffGbRo3mlBIr0Y+zTJ+YT0=",
+                            "encrypt": 1,
+                            "duration": "377.0464",
+                            "rate": "291.608",
+                            "randInit": "P2WhFmkkNDZ4tEWG"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399738",
+            "name": "第15章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399738",
+                    "name": "15SCRUM每日站立会议",
+                    "courseId": "18354",
+                    "url": "/18354/14_0_399738_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/14_0_399738_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "0ubM1nTlG2CSh1Mmj6C6KA5NKKV1KBkdOPtZVuf4AhI=",
+                            "rand": "EElN5/+500X3qP4ynsCizHGYm3MKDmMjL4JlUEpfCso=",
+                            "encrypt": 1,
+                            "duration": "369.1264",
+                            "rate": "304.404",
+                            "randInit": "tEWWtdTXXT0D4bNm"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/14_0_399738_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Y/JuVogfLHsl5ojtTU2ZCkNLmWPmguZri2f+FZb9vMo=",
+                            "rand": "e7Fi935sXqpuK9x7hyXpri1AI/K6c1bykXBY9UJOst0=",
+                            "encrypt": 1,
+                            "duration": "369.1264",
+                            "rate": "369.453",
+                            "randInit": "tEWWtdTXXT0D4bNm"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/14_0_399738_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "/6JLXbTw7aDxECfz/kzF4ZrHP5CPNZjDeCJP32MqZzY=",
+                            "rand": "9zE4Ae8dqpQjcroDSi7Rua6rJNir8yFSDxPUljcQJq8=",
+                            "encrypt": 1,
+                            "duration": "369.1264",
+                            "rate": "401.198",
+                            "randInit": "tEWWtdTXXT0D4bNm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399737",
+            "name": "第16章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399737",
+                    "name": "16SCRUM评审和回顾会议",
+                    "courseId": "18354",
+                    "url": "/18354/15_0_399737_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/15_0_399737_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "pKfh02Yx2U6FLxVqYNzO39qmLuZ4cVRCyA03MsFe95c=",
+                            "rand": "A7QetYN4/wjaMn9iAZ8cwTEi8BfMZ7YL2RDCUgxYeMM=",
+                            "encrypt": 1,
+                            "duration": "806.1265",
+                            "rate": "327.872",
+                            "randInit": "K4TMBT8eMyaEx9py"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/15_0_399737_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Q382JkccfG/h9V+C3uxPAV5AEt8y4wE8HXv/owMPdJw=",
+                            "rand": "TXIUvewuPKfWivwW95rHrwLs9Vm56IxPLkNYC8X6MQM=",
+                            "encrypt": 1,
+                            "duration": "806.1265",
+                            "rate": "425.824",
+                            "randInit": "K4TMBT8eMyaEx9py"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/15_0_399737_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "xHJF8XJRaq5fkQ2KVycWaMaFINokYtmozkaEX2FM8/w=",
+                            "rand": "id4svYrvRyBJF4IPWhgbnaSDz3JS/47GH414R2Wh89k=",
+                            "encrypt": 1,
+                            "duration": "806.1265",
+                            "rate": "473.713",
+                            "randInit": "K4TMBT8eMyaEx9py"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399736",
+            "name": "第17章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399736",
+                    "name": "17什么是用户故事",
+                    "courseId": "18354",
+                    "url": "/18354/16_0_399736_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/16_0_399736_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "RkDYLuYrc5/yNxp2XQt1u4geL+b5vjb/SiEXeltLydk=",
+                            "rand": "OWCyek1HhylhtlrcmeCyJs495t4bEScdSVZXT+I1kTg=",
+                            "encrypt": 1,
+                            "duration": "554.0464",
+                            "rate": "378.837",
+                            "randInit": "dbHJ05zwC7GkabG8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/16_0_399736_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "JU87vvKPpw+6O9/ukrD6IuuAPUOl+nTLXwAyxHAQLvg=",
+                            "rand": "Hu+m33R/hwY9ja0/LFa4hrq3+ZrShHPRj5VgNKKQmJ8=",
+                            "encrypt": 1,
+                            "duration": "554.0464",
+                            "rate": "488.365",
+                            "randInit": "dbHJ05zwC7GkabG8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/16_0_399736_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "iBBOZpiMc/0HwZeP/cLk1hOHX3siZYcBGLtaiinCSqU=",
+                            "rand": "BVfAVkLrLBcY83VcgZZaXyvy50jcRqDd/tBPqMrjBP8=",
+                            "encrypt": 1,
+                            "duration": "554.0464",
+                            "rate": "543.987",
+                            "randInit": "dbHJ05zwC7GkabG8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399735",
+            "name": "第18章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399735",
+                    "name": "18用户故事的分割和合并",
+                    "courseId": "18354",
+                    "url": "/18354/17_0_399735_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/17_0_399735_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Q6Fka+nFeDXnmTnYO2nL5LQhYCppuiiarMT/mZ7MaMA=",
+                            "rand": "q+sjWUCfMu1+5wChgiA0TtbN1t+P4wAc+K0NcWiD+Uc=",
+                            "encrypt": 1,
+                            "duration": "617.0464",
+                            "rate": "307.653",
+                            "randInit": "cHN460jiE7Kt9x9K"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/17_0_399735_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "R6TR9VJVVzn60UAz83fKqGEUXdE5VtzsblTQiJlXCE0=",
+                            "rand": "JTaf/Y9sxiD+0YL7/FON/C5a96Q5cZQYUOVmbAHr65E=",
+                            "encrypt": 1,
+                            "duration": "617.0464",
+                            "rate": "406.6",
+                            "randInit": "cHN460jiE7Kt9x9K"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/17_0_399735_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "YlZapEOkHoPNncAJZBrs0nzV6M5wdpCa4/54J1eqvqg=",
+                            "rand": "rJpXdeUl6YgPREPnv/SI4wcNJ0xAsY6xdkXwEeO6crA=",
+                            "encrypt": 1,
+                            "duration": "617.0464",
+                            "rate": "486.408",
+                            "randInit": "cHN460jiE7Kt9x9K"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399734",
+            "name": "第19章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399734",
+                    "name": "19故事编写工作坊",
+                    "courseId": "18354",
+                    "url": "/18354/18_0_399734_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/18_0_399734_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "oTgdXY/D1c8wuxKpCbI65hHhk2+blDPZiu2pDiEi+T4=",
+                            "rand": "PjxisPam+0mAMpBUYWm8ypXcf7oVI/h8BjQ+qXu0xuc=",
+                            "encrypt": 1,
+                            "duration": "424.0865",
+                            "rate": "287.198",
+                            "randInit": "pxhRDycpmKjKJG3y"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/18_0_399734_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "xSAJ31pHsmgou5SbXa6pMLKQ/PxYXPUSN1UzOXGS++4=",
+                            "rand": "kUDhy9R9yzramGN4zQsCuyUxQwCdyxFsmzlKaOMsjdM=",
+                            "encrypt": 1,
+                            "duration": "424.0865",
+                            "rate": "374.614",
+                            "randInit": "pxhRDycpmKjKJG3y"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/18_0_399734_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9MwGNhPxU8k2i3NpT+qkDVADNAPiOwT5y+7O7wDIMYI=",
+                            "rand": "g5LywM7EhmddnDJAKK3ucb9PxzUGwx+d30VrRbNW8mg=",
+                            "encrypt": 1,
+                            "duration": "424.0865",
+                            "rate": "421.718",
+                            "randInit": "pxhRDycpmKjKJG3y"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399733",
+            "name": "第20章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399733",
+                    "name": "20估算用户故事",
+                    "courseId": "18354",
+                    "url": "/18354/19_0_399733_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/19_0_399733_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "K8bWQYxCXcmLHiuo9hiXwRiKGQioMyrR0iVXS/hDbKQ=",
+                            "rand": "IBFfQ6ljZEsIikt1nkcwvO97s8vKAQE4fUe7IXVFe/A=",
+                            "encrypt": 1,
+                            "duration": "772.6865",
+                            "rate": "297.237",
+                            "randInit": "7i5yk5MjPQNcNjiS"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/19_0_399733_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "QZlwlnEJJxn316OGP6O8/FbgRG7f8DtzJAw7iNxdfhM=",
+                            "rand": "XSHTtjxxiYsmY/kGvYCL1ckLDoaelWnFK+JdaKTFWLY=",
+                            "encrypt": 1,
+                            "duration": "772.6865",
+                            "rate": "394.276",
+                            "randInit": "7i5yk5MjPQNcNjiS"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/19_0_399733_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "uNGoFTJT633l7Tuz+G1Pl904qKrF1Ewv7GLZffqeyAE=",
+                            "rand": "qKnbFqrl4qtnuMrBv94Ojqp0Y0AMOcuGIHdaqdkdsoc=",
+                            "encrypt": 1,
+                            "duration": "772.6865",
+                            "rate": "455.385",
+                            "randInit": "7i5yk5MjPQNcNjiS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399732",
+            "name": "第21章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399732",
+                    "name": "21用户故事优先级排序方法",
+                    "courseId": "18354",
+                    "url": "/18354/20_0_399732_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/20_0_399732_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "s1pVa3U4jDTjfZZfmvhVB8GM013hn7EWIpnyzDw18hs=",
+                            "rand": "E4iQgHq9tBxWVpRhVBdJFDPryHSWjZoQIWdOEMzyoKs=",
+                            "encrypt": 1,
+                            "duration": "563.8464",
+                            "rate": "276.648",
+                            "randInit": "8fRJszGKGG7YdDQ0"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/20_0_399732_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Y/CRTD54yozkfeezV2pKQVrr42QpM0c9rXtWKGaVBsA=",
+                            "rand": "RFqs9vSd0rqxy38A9K2q2IUUiQd7ZWOVyoTPJ2YeCaI=",
+                            "encrypt": 1,
+                            "duration": "563.8464",
+                            "rate": "345.987",
+                            "randInit": "8fRJszGKGG7YdDQ0"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/20_0_399732_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9tBmFGoYBzOBaqIkqImTKyKb9S8Qdo0A8WxZEevdSnY=",
+                            "rand": "/PmlexX7YiF2RLMLTOloH8rq0LMdGrdWbW3fBR/fV4E=",
+                            "encrypt": 1,
+                            "duration": "563.8464",
+                            "rate": "382.944",
+                            "randInit": "8fRJszGKGG7YdDQ0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "399731",
+            "name": "第22章节",
+            "courseId": "18354",
+            "sections": [
+                {
+                    "id": "399731",
+                    "name": "22用户故事地图",
+                    "courseId": "18354",
+                    "url": "/18354/21_0_399731_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/18354/21_0_399731_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "RCbplqVq+r3oZCHabEDNXwAWe+DWSuE+XRj9LBH/z6Q=",
+                            "rand": "OpXsk3kI5ZPyXAoAKTNti1HSNN2vSRPEbURkiUkVPvU=",
+                            "encrypt": 1,
+                            "duration": "603.0864",
+                            "rate": "400.655",
+                            "randInit": "AxKH4tSE98PMja7y"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/18354/21_0_399731_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "8Ci5YGr2ljEctk0MWS3R4lXJWvb0N+tc0ClgN3wrvuQ=",
+                            "rand": "Y2ltwXipWJ0/9JAb443UuWADMbMsrKkeHNZUMMq/X3k=",
+                            "encrypt": 1,
+                            "duration": "603.0864",
+                            "rate": "542.162",
+                            "randInit": "AxKH4tSE98PMja7y"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/18354/21_0_399731_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "MakXu6m9KGe8GHOaJ5in9koCnNo8X/ImwyuoWhAC/xg=",
+                            "rand": "b9h96apfXWrvjwAmSUp0KrGDbaJKkha7uXvuhiR3IDo=",
+                            "encrypt": 1,
+                            "duration": "603.0864",
+                            "rate": "605.189",
+                            "randInit": "AxKH4tSE98PMja7y"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
