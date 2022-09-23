@@ -1,0 +1,1368 @@
+{
+    "id": "21744",
+    "name": "图解Python（5）（高级强化篇）虚拟环境",
+    "lecturer": "未知",
+    "descriptionText": "文不如图，一图胜千言！通俗易懂的Python视频教程！！《图解Python》学习路径：https://edu.51cto.com/topic/1559.html，包括所有课程，更划算！！！",
+    "chapters": [
+        {
+            "id": 61740,
+            "name": "说在前面的话",
+            "sorted": 1,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 517908,
+                    "name": "说在前面的话",
+                    "chapterId": 61740,
+                    "courseId": "21744",
+                    "url": "e21744/1-1_61740_517908_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/1-1_61740_517908_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "abStPLdGylCKVpZtMzZQRVUVysAVkhe/f32xoVPVA3k=",
+                            "rand": "rYgjEQ9sog1j6LkPn3m64SbtU+a2oF67BBqlMyAh2yk=",
+                            "encrypt": 1,
+                            "duration": "172.0464",
+                            "rate": "455.798",
+                            "randInit": "Zw2HfN6TKMn5R0jk"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/1-1_61740_517908_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "hSaLK9k6UfMDvnQDTKQSSp3rWosUOAC5iueO9EOofEw=",
+                            "rand": "JHJoREElXPDL93vEZdZSVguOdLtWqJgO7Y6AUFFvg4o=",
+                            "encrypt": 1,
+                            "duration": "172.0464",
+                            "rate": "673.924",
+                            "randInit": "Zw2HfN6TKMn5R0jk"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/1-1_61740_517908_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "MbiExYAEOUx0ph5uBaRZ8xj8QNnyhH/X0uSfyAGkjXk=",
+                            "rand": "m6qe8XPnbwfcFI6ylD/jdM6QUiQ8d3RNSX6MIhYGXfc=",
+                            "encrypt": 1,
+                            "duration": "172.0464",
+                            "rate": "910.443",
+                            "randInit": "Zw2HfN6TKMn5R0jk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 61852,
+            "name": "虚拟环境的概述",
+            "sorted": 2,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 517907,
+                    "name": "为什么需要虚拟环境",
+                    "chapterId": 61852,
+                    "courseId": "21744",
+                    "url": "e21744/2-1_61852_517907_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/2-1_61852_517907_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "MvEk4vywcbLhLhCwxHDVaFxtim1c/cUi2sH1JDjhNPI=",
+                            "rand": "j3h1ozZZjiuQJNWuRcBM9s149fm2O85eVPw5ep2eAuE=",
+                            "encrypt": 1,
+                            "duration": "469.4865",
+                            "rate": "365.996",
+                            "randInit": "w7Y57GcMBD8fCBY8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/2-1_61852_517907_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "cFDIJPNvsGX7/zdt8iogkeR3xT7XLTfGSywc7ojHkcA=",
+                            "rand": "iuH0TJG61AaeO3oaEzPNomEWCqt/Gj7X9keEoTi10Mc=",
+                            "encrypt": 1,
+                            "duration": "469.4865",
+                            "rate": "509.974",
+                            "randInit": "w7Y57GcMBD8fCBY8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/2-1_61852_517907_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "1DjlUgMF9GmNfqnVLzvGR3EBjKd5KYwQgrn9/Tu6pys=",
+                            "rand": "HKaiEry5JWJyw8rRoz/Jkz4nML3d/YWPC6iPPvxIOk0=",
+                            "encrypt": 1,
+                            "duration": "469.4865",
+                            "rate": "735.61",
+                            "randInit": "w7Y57GcMBD8fCBY8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 61975,
+            "name": "预备知识",
+            "sorted": 3,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 517906,
+                    "name": "确定当前Python解释器对应的Python安装目录",
+                    "chapterId": 61975,
+                    "courseId": "21744",
+                    "url": "e21744/3-1_61975_517906_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/3-1_61975_517906_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "gZSV5qCoKK1gJjxRRSgE/VR7ZcXPsaj2/0Ob5UqfWC4=",
+                            "rand": "AwFDuDGAtqdSTaeC2+BOAKDr01HR/+U7CT7rARwGc34=",
+                            "encrypt": 1,
+                            "duration": "315.1664",
+                            "rate": "311.626",
+                            "randInit": "KSctxtNTr6rFRZtn"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/3-1_61975_517906_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "VkIf1J29dbrcWpSiRzSgQxjoFzrq92JQCVH0jZdbFMs=",
+                            "rand": "xqeMB0rbUmDCm0BN5Y4I7VIM5bl930Klz+AjPlFEceI=",
+                            "encrypt": 1,
+                            "duration": "315.1664",
+                            "rate": "430.441",
+                            "randInit": "KSctxtNTr6rFRZtn"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/3-1_61975_517906_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "miFQh6oD66HAurEylWrOZsOnCBuNp128KQl/5tXrRpA=",
+                            "rand": "fFdY9lnSLHFPSRdDiWMlMTkVvMmH234Ye2ycEDl2LA0=",
+                            "encrypt": 1,
+                            "duration": "315.1664",
+                            "rate": "618.733",
+                            "randInit": "KSctxtNTr6rFRZtn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62024,
+            "name": "virtualenv",
+            "sorted": 4,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 517905,
+                    "name": "安装virtualenv",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-1_62024_517905_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-1_62024_517905_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "6WXYr5Dp251I8AirMoCenzl3q8WxqL+rkP+888tuulI=",
+                            "rand": "ZLf7iTjLt3zrLSQ2l4B+RlAS1kqyT4KskT20w0puHjM=",
+                            "encrypt": 1,
+                            "duration": "118.6864",
+                            "rate": "396.635",
+                            "randInit": "EC2aE7tkH5b7Emhk"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-1_62024_517905_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "kBjdiSDKeQjn0Ljr3yPSfXfNR+up0a9bggquSJz/y0Y=",
+                            "rand": "MrwUmK5SbiYY8gowE3NuNRCZgS0kgMVmJig0+iUBJqM=",
+                            "encrypt": 1,
+                            "duration": "118.6864",
+                            "rate": "555.96",
+                            "randInit": "EC2aE7tkH5b7Emhk"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-1_62024_517905_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "0m27h/k5BcxJ56diQjaSIt5GXV4Yp3K/YdA5rUenRNY=",
+                            "rand": "uDzwi3bfZSBz0knVdvUPMZeKtsuBrXEq+Abqi8H3H2w=",
+                            "encrypt": 1,
+                            "duration": "118.6864",
+                            "rate": "781.687",
+                            "randInit": "EC2aE7tkH5b7Emhk"
+                        }
+                    ]
+                },
+                {
+                    "id": 517904,
+                    "name": "使用virtualenv的第1步：创建虚拟环境",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-2_62024_517904_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-2_62024_517904_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "VtNyLMVAo5wOURtnhUv5TekQYGbbCCxPM0NtwSBeQ9g=",
+                            "rand": "RbmGB/NLduWfLHXkqhkagP5eSA+ug7Pm7bH/A5R1Xgs=",
+                            "encrypt": 1,
+                            "duration": "523.0864",
+                            "rate": "412.191",
+                            "randInit": "048FEiTweQ0fztQN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-2_62024_517904_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "a6RHZXUYWxydrAae7t72TPfBRIRItV525HaXGNkhyy8=",
+                            "rand": "/uvN2OVn705hURJIUV+Nal0b4ltA5ttwZhKPTPCvA4E=",
+                            "encrypt": 1,
+                            "duration": "523.0864",
+                            "rate": "587.503",
+                            "randInit": "048FEiTweQ0fztQN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-2_62024_517904_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "YXeEGhNFrbMaCGHCA6jORj6DO7JqC0CemeMPOOOkuJU=",
+                            "rand": "rONseN3iaqBRF3mofpgT4R0SBejDHVIBv2/MDis/4+Q=",
+                            "encrypt": 1,
+                            "duration": "523.0864",
+                            "rate": "842.658",
+                            "randInit": "048FEiTweQ0fztQN"
+                        }
+                    ]
+                },
+                {
+                    "id": 517903,
+                    "name": "使用virtualenv的第2步：激活虚拟环境",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-3_62024_517903_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-3_62024_517903_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ep28OwsBKaJDCRaGU97gE6sLCgXrs+goujMU55u9NK0=",
+                            "rand": "vI4XEPp1bacmXZbqmFnsGq33tF0E6UvcWMbn3CWtXO8=",
+                            "encrypt": 1,
+                            "duration": "261.1664",
+                            "rate": "419.204",
+                            "randInit": "dBX32PhRtEFtCcSa"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-3_62024_517903_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Te8YpjyTTy8WNIrsFC+nrDymYv8XETFQrVDMujUYu08=",
+                            "rand": "G+KFwN7GjvW8UF4PpbsCVjFbTtY/9GG4593Y/0cy68U=",
+                            "encrypt": 1,
+                            "duration": "261.1664",
+                            "rate": "598.602",
+                            "randInit": "dBX32PhRtEFtCcSa"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-3_62024_517903_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "OMZyOVQrVfoMbOy5lKfC+tAe2jB7m6E2fhON/HQZiOI=",
+                            "rand": "DzHtRiU4HYZ395ZMbU+gzjmy2rhfX9TO4wfQ4jzodfw=",
+                            "encrypt": 1,
+                            "duration": "261.1664",
+                            "rate": "843.891",
+                            "randInit": "dBX32PhRtEFtCcSa"
+                        }
+                    ]
+                },
+                {
+                    "id": 517902,
+                    "name": "使用virtualenv的第3步：在虚拟环境中进行操作",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-4_62024_517902_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-4_62024_517902_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "rU8AWChMic66uyH+MqFaXbNrMNrhV8y7W3hB5vAwyOs=",
+                            "rand": "6BEvBpkI7HeLdQbnbk0kxrUGfgq0eG4RQvdzcDlztN8=",
+                            "encrypt": 1,
+                            "duration": "300.7664",
+                            "rate": "378.657",
+                            "randInit": "fcXAps7RrFjd9PK5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-4_62024_517902_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "GM2lE2w2KEchIwxiEU5rfWTjItt03MgHHfRkpiRETA4=",
+                            "rand": "59Yfb9uKQwV2D7m+RlUe/QjFHfDvZxCDpesEkm7tD0g=",
+                            "encrypt": 1,
+                            "duration": "300.7664",
+                            "rate": "536.999",
+                            "randInit": "fcXAps7RrFjd9PK5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-4_62024_517902_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "CX9zFy15+QaA8jrEUmY9NXLp3YKq5vqoPqBkICIEzvY=",
+                            "rand": "pT5PHkIXmXj3pAZr9qzByZyvCO58AlGCJmmxIYntzyU=",
+                            "encrypt": 1,
+                            "duration": "300.7664",
+                            "rate": "764.57",
+                            "randInit": "fcXAps7RrFjd9PK5"
+                        }
+                    ]
+                },
+                {
+                    "id": 517901,
+                    "name": "使用virtualenv的第4步：反激活虚拟环境",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-5_62024_517901_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-5_62024_517901_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "J12T8Sldz7QEoxt+uxyvcYxxsBS4jmmN+nCXzpICR9Y=",
+                            "rand": "6pMLCSIsoOiJ8uZ6OcVykpKZ1U/Y4lwej+46IVpolaw=",
+                            "encrypt": 1,
+                            "duration": "195.8864",
+                            "rate": "384.494",
+                            "randInit": "Q7R5D7T8305DH2F6"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-5_62024_517901_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "V4TDA0u8XNH8vyilogK9NPBBZ+iAgRoF8CfZ73MlVds=",
+                            "rand": "gal3Eb8KXw6jO1cEvpi4BmmXTRig7W9EJZ1Q/4L7v34=",
+                            "encrypt": 1,
+                            "duration": "195.8864",
+                            "rate": "551.013",
+                            "randInit": "Q7R5D7T8305DH2F6"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-5_62024_517901_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "m4EsLz5QAFSXd5/wyygGcG8BFY8g5vSvgRpRxnnx560=",
+                            "rand": "lcK3znE0wMTqlAsv7AEOTv45DpuvrqbSqlOQp1nQZ9Y=",
+                            "encrypt": 1,
+                            "duration": "195.8864",
+                            "rate": "772.429",
+                            "randInit": "Q7R5D7T8305DH2F6"
+                        }
+                    ]
+                },
+                {
+                    "id": 517900,
+                    "name": "使用virtualenv创建虚拟环境时指定可选参数1",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-6_62024_517900_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-6_62024_517900_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "PdjOcyxHgTfqmSWmks6A7qmNjuOp8y7lHmCljXBPUgU=",
+                            "rand": "8XXS24GlCiIPaNNtK1ihr6UWizmSp2l8AF8Dk7I2Vu8=",
+                            "encrypt": 1,
+                            "duration": "160.4064",
+                            "rate": "341.864",
+                            "randInit": "6JWJWZPDGRNr7GEz"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-6_62024_517900_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "e3RnS44nBYE7u8a6wEp+N4F/vM/nUxWOa6fB/IqYFro=",
+                            "rand": "o8KZtK5psBIDazvwS2YZgu5AKBUsbRn06p0MOUELlTU=",
+                            "encrypt": 1,
+                            "duration": "160.4064",
+                            "rate": "485.92",
+                            "randInit": "6JWJWZPDGRNr7GEz"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-6_62024_517900_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "b8/s2HnJjgNN0Rz9Mw9A/Vz6NTZIiOxumjYyKjnC0Ds=",
+                            "rand": "ngy8oYdP58Kxc9eVDeTlYFnpksvGvWeBGaH94vRjfoc=",
+                            "encrypt": 1,
+                            "duration": "160.4064",
+                            "rate": "720.409",
+                            "randInit": "6JWJWZPDGRNr7GEz"
+                        }
+                    ]
+                },
+                {
+                    "id": 517899,
+                    "name": "使用virtualenv创建虚拟环境时指定可选参数2",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-7_62024_517899_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-7_62024_517899_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "sAuwLlYTNOfwZ2pXSH6Gpqh6p5shDbxnbO8sFf24AIo=",
+                            "rand": "8Z2VRWTOVdKI2vXHcEShhfUzMAe8BjxRLiXhoyKAGhE=",
+                            "encrypt": 1,
+                            "duration": "214.2065",
+                            "rate": "334.935",
+                            "randInit": "70bxbayyYG5a8GpZ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-7_62024_517899_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "nAaGSXoL/9xGyh6lLQYnMAWf9u0T63nXKhkLV6oevsw=",
+                            "rand": "i01UDoSsqdO0iCfQDPuVTDCu9NIJmcjK/rwXemrWSjk=",
+                            "encrypt": 1,
+                            "duration": "214.2065",
+                            "rate": "471.442",
+                            "randInit": "70bxbayyYG5a8GpZ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-7_62024_517899_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ou2xTuUfRLx+QjgeEGDLHrN2W/4phttldmZJJnX1DV0=",
+                            "rand": "83DjLs5VCGeoq79hW0UKlPYLhUNfmjAZC1+glXDmo4I=",
+                            "encrypt": 1,
+                            "duration": "214.2065",
+                            "rate": "694.438",
+                            "randInit": "70bxbayyYG5a8GpZ"
+                        }
+                    ]
+                },
+                {
+                    "id": 517898,
+                    "name": "使用virtualenv时的项目交接",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-8_62024_517898_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-8_62024_517898_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "6NcKHRmgCFXbTJXbhRjNSWWQq6LqdqrNCQwYZbfEbGw=",
+                            "rand": "7yraw8hZZl9pMM0/2jxmuglzjNDDeBxbhZ/jadwk1f4=",
+                            "encrypt": 1,
+                            "duration": "222.2464",
+                            "rate": "353.866",
+                            "randInit": "JiEiRB6X775xW9wx"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-8_62024_517898_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "q4eIwybSV2IIXsLgiM3MxEKZffY3So7ULEWs0/IO46A=",
+                            "rand": "NWS4NFX8QgN9NKroJQDXCni4JaudLM9Zz3ZKuoyuUqk=",
+                            "encrypt": 1,
+                            "duration": "222.2464",
+                            "rate": "500.811",
+                            "randInit": "JiEiRB6X775xW9wx"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-8_62024_517898_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Nxpu/wxgMpeeQ4Y/WGrlqPCsBtAVRODDM+TQspwKF74=",
+                            "rand": "NTsnF9qv5GH9fg/o8m0l7Vy0A7NR38Aft2xe65/WYyE=",
+                            "encrypt": 1,
+                            "duration": "222.2464",
+                            "rate": "731.074",
+                            "randInit": "JiEiRB6X775xW9wx"
+                        }
+                    ]
+                },
+                {
+                    "id": 517897,
+                    "name": "在PyCharm中使用virtualenv",
+                    "chapterId": 62024,
+                    "courseId": "21744",
+                    "url": "e21744/4-9_62024_517897_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/4-9_62024_517897_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+qfaD0CBQm9q5aVOuGnQrbZoVKJVvoSHOuFynfk5rXM=",
+                            "rand": "wl/XqqPMG17mvXB4C+ZQYRUUkkcxyenfVO/3U4DXYIA=",
+                            "encrypt": 1,
+                            "duration": "301.8065",
+                            "rate": "312.26",
+                            "randInit": "PZyZ6myYwbHTRrrt"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/4-9_62024_517897_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "r/EXQSKJ+m457kpUg2RiUJ8ABfyWAS/ecltPr3U+Y0c=",
+                            "rand": "hmNWpIVszSpYPJFcLUfLblo8RZhgGDgHWuY74MAlhpI=",
+                            "encrypt": 1,
+                            "duration": "301.8065",
+                            "rate": "427.973",
+                            "randInit": "PZyZ6myYwbHTRrrt"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/4-9_62024_517897_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "EI3yUIK4lDwKLXp8Cso8kyJ1w0jDPws5XQftxbpnoug=",
+                            "rand": "1r33u3y3Aqb2vydzhyITLkNHNVePVELmTMhSdP9NS1E=",
+                            "encrypt": 1,
+                            "duration": "301.8065",
+                            "rate": "606.59",
+                            "randInit": "PZyZ6myYwbHTRrrt"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62171,
+            "name": "virtualenvwrapper",
+            "sorted": 5,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 517896,
+                    "name": "virtualenvwrapper的概述",
+                    "chapterId": 62171,
+                    "courseId": "21744",
+                    "url": "e21744/5-1_62171_517896_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/5-1_62171_517896_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "PoMW24CKWgZe8PN9XIW3NPJYXZdnFvt3G/Y49tbphSI=",
+                            "rand": "SWmU6QseCeLYPMUZw4+G2SB7ppA1T07rtivOiLBh2ow=",
+                            "encrypt": 1,
+                            "duration": "195.0064",
+                            "rate": "358.433",
+                            "randInit": "ziPJH0TtFkWk9TFr"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/5-1_62171_517896_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "IyxyTXLtdlgRU6syR9fF5xAc3HYyB52yJF0HpZOBJI0=",
+                            "rand": "sPhSm0mIy2mFxWh1TbdQfvCwXnrS9cYnuhAbj5uzXL8=",
+                            "encrypt": 1,
+                            "duration": "195.0064",
+                            "rate": "510.679",
+                            "randInit": "ziPJH0TtFkWk9TFr"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/5-1_62171_517896_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "bG7o7zc5+918JT8/XqJNmbJosftzlGkjFaGzMKZOUNg=",
+                            "rand": "esirlsV+fejf6ciouRJAUa4aH4T6dW0rtdjqWhU1DkU=",
+                            "encrypt": 1,
+                            "duration": "195.0064",
+                            "rate": "698.018",
+                            "randInit": "ziPJH0TtFkWk9TFr"
+                        }
+                    ]
+                },
+                {
+                    "id": 517895,
+                    "name": "安装virtualenvwrapper",
+                    "chapterId": 62171,
+                    "courseId": "21744",
+                    "url": "e21744/5-2_62171_517895_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/5-2_62171_517895_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+Cbbc31h4ZtrY0VFohBJJ66KqIg2/6HUpeZCitbmVSI=",
+                            "rand": "rMOPMV024H62fTnW7QSliaH0agsEOL6MdEEgE5CD5VY=",
+                            "encrypt": 1,
+                            "duration": "96.1664",
+                            "rate": "357.05",
+                            "randInit": "rfepA6prDhDePcew"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/5-2_62171_517895_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Ez2Frj0qPR9RC37BEqCVal00TdnYU07T9i1YAWn6LO4=",
+                            "rand": "I6qukImvWOtN2ezo3P1bvhHRylJFZO0s93s1iFJXagM=",
+                            "encrypt": 1,
+                            "duration": "96.1664",
+                            "rate": "496.79",
+                            "randInit": "rfepA6prDhDePcew"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/5-2_62171_517895_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "XEiCI4kXS3aqLN5NT/lcaRnpR/aviye3Ea0zXNOm4xo=",
+                            "rand": "0iNnmeGhGAI8QunCmn5IQd/5owY8vCW8AtlU8US3FNw=",
+                            "encrypt": 1,
+                            "duration": "96.1664",
+                            "rate": "699.119",
+                            "randInit": "rfepA6prDhDePcew"
+                        }
+                    ]
+                },
+                {
+                    "id": 517894,
+                    "name": "使用virtualenvwrapper的第1步：创建虚拟环境",
+                    "chapterId": 62171,
+                    "courseId": "21744",
+                    "url": "e21744/5-3_62171_517894_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/5-3_62171_517894_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Bz8CFR6fjdpX8he4ovkiQulFIm2zZq734TNxCWndwoc=",
+                            "rand": "F4kkGTLYlYOpak8wiADd5TjJK2xPmZkNEVOXHHZ4us4=",
+                            "encrypt": 1,
+                            "duration": "230.3264",
+                            "rate": "349.798",
+                            "randInit": "fz20xAPfyZ27w25i"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/5-3_62171_517894_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "U+yTW586XpZtqQvG9PQaAU2cgPdxxlnRM4R3d4V2sxw=",
+                            "rand": "X4MQLHE7/r7EZU1IEFpDSGRQ+WFugq99FTIY3e0LFNw=",
+                            "encrypt": 1,
+                            "duration": "230.3264",
+                            "rate": "497.151",
+                            "randInit": "fz20xAPfyZ27w25i"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/5-3_62171_517894_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "EC8kBbcw48mHSqRhHhSNtVc2176wBZr4UDn54P8mTqI=",
+                            "rand": "lgTN0psmiTwgEMPKjwmC0xo6OdV6Od5ojcVju49gWac=",
+                            "encrypt": 1,
+                            "duration": "230.3264",
+                            "rate": "717.573",
+                            "randInit": "fz20xAPfyZ27w25i"
+                        }
+                    ]
+                },
+                {
+                    "id": 517893,
+                    "name": "使用virtualenvwrapper的第2步：激活或切换",
+                    "chapterId": 62171,
+                    "courseId": "21744",
+                    "url": "e21744/5-4_62171_517893_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/5-4_62171_517893_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "f7ZxpabzIdIu2JpbNc2zhetVTn29EvXzFVY/GwfOHPU=",
+                            "rand": "FsnNNQ4N2rcZFdbq+kIbM0uBZtGpkV60Ie2/Bytqfik=",
+                            "encrypt": 1,
+                            "duration": "159.3264",
+                            "rate": "329.569",
+                            "randInit": "bWFh2MYwh5pYK3cp"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/5-4_62171_517893_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "j0S9etOG3vcuFO9OMjAN0rIpFQepWGiOqYkPLrSXCnI=",
+                            "rand": "UwhA2Y0QsWqOe72lb5hX2A1x8euRoy+MLA4qB3snux4=",
+                            "encrypt": 1,
+                            "duration": "159.3264",
+                            "rate": "463.528",
+                            "randInit": "bWFh2MYwh5pYK3cp"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/5-4_62171_517893_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "R+Uyl+P9OHNV2SoGDvOGC8yo73kBwfNPQPoGeRurzwU=",
+                            "rand": "4fWQ7MT4aNllMJMpq8GBX0zMG8uJCP/WqExU2dQfWzE=",
+                            "encrypt": 1,
+                            "duration": "159.3264",
+                            "rate": "686.892",
+                            "randInit": "bWFh2MYwh5pYK3cp"
+                        }
+                    ]
+                },
+                {
+                    "id": 517892,
+                    "name": "使用virtualenvwrapper的第3步：操作",
+                    "chapterId": 62171,
+                    "courseId": "21744",
+                    "url": "e21744/5-5_62171_517892_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/5-5_62171_517892_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "jN/9Cpd5Z6mFce/g91mwLFbmZ37cseddAELaqROt5jE=",
+                            "rand": "bVRoiC+N5jdBJaYsf6dz1b8oaD6RPoovgBwfCLVmVKQ=",
+                            "encrypt": 1,
+                            "duration": "189.1664",
+                            "rate": "383.246",
+                            "randInit": "GfzkkStGpdyNyDCA"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/5-5_62171_517892_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "71/rNIjtfLWYN8IBGvz6CkBDTq6mnlL5yyGhnHLo+Yc=",
+                            "rand": "UElmoui9m5//rLQcRWjZWTdNTE+cLZpU96yBo7lEZBU=",
+                            "encrypt": 1,
+                            "duration": "189.1664",
+                            "rate": "542.132",
+                            "randInit": "GfzkkStGpdyNyDCA"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/5-5_62171_517892_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "fJ3COj3aQAXG1qmQqhsprnlEjBcGLoj6vm0E8X+plW8=",
+                            "rand": "kBf9a9y4Vh6pAAlmLt4Pmh4oJqsaFBKNLPqzCwoqi5o=",
+                            "encrypt": 1,
+                            "duration": "189.1664",
+                            "rate": "792.681",
+                            "randInit": "GfzkkStGpdyNyDCA"
+                        }
+                    ]
+                },
+                {
+                    "id": 517891,
+                    "name": "使用virtualenvwrapper的第4步：反激活虚拟环",
+                    "chapterId": 62171,
+                    "courseId": "21744",
+                    "url": "e21744/5-6_62171_517891_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/5-6_62171_517891_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AapmD8kRi6yTrwgJc7epGDJjaZmtDjFrrrI7kTgC2lc=",
+                            "rand": "o/ytco9zuHgeBEPKgHV35pDOmzafmf1EBV68CHTn+7g=",
+                            "encrypt": 1,
+                            "duration": "123.2864",
+                            "rate": "303.102",
+                            "randInit": "xpb5xbjjN28s39s7"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/5-6_62171_517891_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "v08AGyDEljtpcp5mcmiXb0EoC/6l68Mc9Wrz6w76zGc=",
+                            "rand": "U3djDhb7Dg8H3YKJOyjESSV/goutYOgnoll1KQSiMSw=",
+                            "encrypt": 1,
+                            "duration": "123.2864",
+                            "rate": "420.592",
+                            "randInit": "xpb5xbjjN28s39s7"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/5-6_62171_517891_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "FvRT3N0vKpQ1aW/IdG38cegKkavbw9cC2mfHEtCGiTI=",
+                            "rand": "Be0m7mlesPP4ilQsSflYCwvJlQ8Na5vLILcOpRH1M94=",
+                            "encrypt": 1,
+                            "duration": "123.2864",
+                            "rate": "611.498",
+                            "randInit": "xpb5xbjjN28s39s7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62219,
+            "name": "pipenv",
+            "sorted": 6,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 517890,
+                    "name": "pipenv的概述和安装",
+                    "chapterId": 62219,
+                    "courseId": "21744",
+                    "url": "e21744/6-1_62219_517890_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/6-1_62219_517890_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ZeEOm3p5qV3T7pQpucLNy1CHy/QPanlQ212R93G+Kn4=",
+                            "rand": "6dV/LWfLDcijZNTS44MWC019dJoLjLFlKsynpS7kadc=",
+                            "encrypt": 1,
+                            "duration": "271.0464",
+                            "rate": "359.416",
+                            "randInit": "zQRiMfQ0RZSyjQNp"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/6-1_62219_517890_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "WTNON0EsBQagQxo7N/wDnPKNdHUNvSgMjhZKYwFMUoA=",
+                            "rand": "3Hlj+UBncZqbM6wepG35LbN2BqOAcnOTWiYXJ6gDAD8=",
+                            "encrypt": 1,
+                            "duration": "271.0464",
+                            "rate": "501.217",
+                            "randInit": "zQRiMfQ0RZSyjQNp"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/6-1_62219_517890_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "gOCD5nXZaPF81v3s+0rZ/7WVpDBiILTm7eAZwLk6oEc=",
+                            "rand": "mOhk4io3K17KeTAmiz5bcxFSL4+MO3gvQOuk9bkfh0o=",
+                            "encrypt": 1,
+                            "duration": "271.0464",
+                            "rate": "713.201",
+                            "randInit": "zQRiMfQ0RZSyjQNp"
+                        }
+                    ]
+                },
+                {
+                    "id": 517889,
+                    "name": "使用pipenv的第1步：创建虚拟环境",
+                    "chapterId": 62219,
+                    "courseId": "21744",
+                    "url": "e21744/6-2_62219_517889_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/6-2_62219_517889_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "4BCEJMlXelrntF7qAmZNGkT88nggTyNObqU4b4Uj6cg=",
+                            "rand": "vmLIBIyFJkkmmh0kADwxM4wWdSQMWPckjA7W6EAO1dM=",
+                            "encrypt": 1,
+                            "duration": "176.8864",
+                            "rate": "389.148",
+                            "randInit": "7XxWfdezk7zYW4Cc"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/6-2_62219_517889_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "emH0V2ZWUkgD3J+e7xZpghxXkj0FHUapANjDiVf4Ibo=",
+                            "rand": "6YT6pYPYL+aKZeCRHtNpsnGwpMbC1lWYXpS3OfXu7AA=",
+                            "encrypt": 1,
+                            "duration": "176.8864",
+                            "rate": "558.673",
+                            "randInit": "7XxWfdezk7zYW4Cc"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/6-2_62219_517889_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "FlAsFBsE0JtLSLrcOkLX08PppIcord4G+ZhFZrGIMXI=",
+                            "rand": "wxONARMCT+5LjQKob+CJp3c/bvJAz8XRqaGxVcWibKs=",
+                            "encrypt": 1,
+                            "duration": "176.8864",
+                            "rate": "797.223",
+                            "randInit": "7XxWfdezk7zYW4Cc"
+                        }
+                    ]
+                },
+                {
+                    "id": 517888,
+                    "name": "使用pipenv的第2步：激活虚拟环境",
+                    "chapterId": 62219,
+                    "courseId": "21744",
+                    "url": "e21744/6-3_62219_517888_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/6-3_62219_517888_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+YAxW6IaVve5gGQjFUfXZrCypj1bvz6QRuE2iaEmJVI=",
+                            "rand": "v/Y3/SpGAnY35djS5m8Cv7kIrgb6Ukb4FsnrF0nB4MA=",
+                            "encrypt": 1,
+                            "duration": "81.8064",
+                            "rate": "310.115",
+                            "randInit": "t59mDNszmzTcyGN5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/6-3_62219_517888_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Ek5rPKnIrKTJWYk29fAQvGbr+rTW6ULf76+DK39RS00=",
+                            "rand": "6vq82ywxOihMDCr6CJKdkpC5kog7s6XZxx8LzSZ5wZ0=",
+                            "encrypt": 1,
+                            "duration": "81.8064",
+                            "rate": "434.121",
+                            "randInit": "t59mDNszmzTcyGN5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/6-3_62219_517888_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9jHrfM5Txpq98qVqFCMEk6D/fm9oHnBRnqX/R7Ma6A8=",
+                            "rand": "+o40WWdxcTbq7Ud3VKgq48eYa30a5/q/Nd6N/rwFcTk=",
+                            "encrypt": 1,
+                            "duration": "81.8064",
+                            "rate": "621.206",
+                            "randInit": "t59mDNszmzTcyGN5"
+                        }
+                    ]
+                },
+                {
+                    "id": 517887,
+                    "name": "使用pipenv的第3步：在虚拟环境中进行操作",
+                    "chapterId": 62219,
+                    "courseId": "21744",
+                    "url": "e21744/6-4_62219_517887_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/6-4_62219_517887_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "bCl6p3L8bKZpNvZbrsGx7iX03O1BD/WkPXaDk/ITc5s=",
+                            "rand": "6I5JqtLeD1PlGzrGOdoi7IkGWu1lymcFfvKXLhWZrWE=",
+                            "encrypt": 1,
+                            "duration": "428.5664",
+                            "rate": "429.319",
+                            "randInit": "tY3Q5z9awypM9N73"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/6-4_62219_517887_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "jeSJrrlFRIEE5ecQK0EMOOuhIjC+qdxtRblL3ZXBLs0=",
+                            "rand": "AAkLJUzeKaHY2iwRbSxPFZiPOEMe9HE+VK1vkjhgwmU=",
+                            "encrypt": 1,
+                            "duration": "428.5664",
+                            "rate": "614.694",
+                            "randInit": "tY3Q5z9awypM9N73"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/6-4_62219_517887_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "C4HyZCNDYH6o2YBu0aiApBVs85pXXBD+Z9S1eWC/rCQ=",
+                            "rand": "vJcYOiQdudAyzL8b2rE4/yJnwr04g9gX/nAelrom8A4=",
+                            "encrypt": 1,
+                            "duration": "428.5664",
+                            "rate": "893.556",
+                            "randInit": "tY3Q5z9awypM9N73"
+                        }
+                    ]
+                },
+                {
+                    "id": 517886,
+                    "name": "使用pipenv的第4步：反激活虚拟环境",
+                    "chapterId": 62219,
+                    "courseId": "21744",
+                    "url": "e21744/6-5_62219_517886_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/6-5_62219_517886_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "h1Q7XRktKavWWY2tbrpgZnRUHagEUGWp5oPHwTHn254=",
+                            "rand": "tbuzugBxmdasqpp5WzU55hKFVRN6ShOkzTLS5a6EvLE=",
+                            "encrypt": 1,
+                            "duration": "114.0864",
+                            "rate": "339.369",
+                            "randInit": "BYQzhsACbJdyF7aF"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/6-5_62219_517886_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "GYMJQwN6ri7495KtUGL5gt/o0apQDt54+hLq6klDHsQ=",
+                            "rand": "janHHHm4yF4sCXaR/sVEd6/udeT647aKefnJjD+D7u4=",
+                            "encrypt": 1,
+                            "duration": "114.0864",
+                            "rate": "478.858",
+                            "randInit": "BYQzhsACbJdyF7aF"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/6-5_62219_517886_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "nlN/Z4c8LI3QPMrbz9UH8HKzmLYDebOibBMaXqco/Iw=",
+                            "rand": "flHc5azhEhKs+27xOdCcOoItcWt5TA1+tBd37/LF93s=",
+                            "encrypt": 1,
+                            "duration": "114.0864",
+                            "rate": "697.485",
+                            "randInit": "BYQzhsACbJdyF7aF"
+                        }
+                    ]
+                },
+                {
+                    "id": 517885,
+                    "name": "使用pipenv时的项目交接",
+                    "chapterId": 62219,
+                    "courseId": "21744",
+                    "url": "e21744/6-6_62219_517885_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e21744/6-6_62219_517885_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "m5fmsOD0rASeEHkvEt2CLNEqmx49CiuZVqpBSWTijTg=",
+                            "rand": "BYISqunZy9BWCFjKxzq3wmrjTUjAs//fmk2Kt7RmtwM=",
+                            "encrypt": 1,
+                            "duration": "127.5664",
+                            "rate": "352.66",
+                            "randInit": "crHYRnAc42r295y9"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e21744/6-6_62219_517885_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "4J1tLammGIOkC+xdJfWhJ7d144ebYS6be0xLssWuPO8=",
+                            "rand": "b4hyj76sTE+L7TUF/Fs9mY115JxTKGLEOHHRpuikhoM=",
+                            "encrypt": 1,
+                            "duration": "127.5664",
+                            "rate": "492.889",
+                            "randInit": "crHYRnAc42r295y9"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e21744/6-6_62219_517885_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "wAtt4dlPiQiUk8N1EkIz0m4ALR7NaRvAz6otf9CyEko=",
+                            "rand": "RVzh/+IPTNKk/G93KFZX+96EIlsj9niC9R8Gu8Ek97c=",
+                            "encrypt": 1,
+                            "duration": "127.5664",
+                            "rate": "714.929",
+                            "randInit": "crHYRnAc42r295y9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 99939,
+            "name": "结课测试",
+            "sorted": 7,
+            "courseId": "21744",
+            "sections": [
+                {
+                    "id": 808775,
+                    "name": "结课测试",
+                    "chapterId": 99939,
+                    "courseId": "21744",
+                    "url": "e21744/7-1_99939_808775",
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
