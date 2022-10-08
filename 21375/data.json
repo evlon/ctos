@@ -1,0 +1,439 @@
+{
+    "id": "21375",
+    "name": "Buffer overflow 缓冲区原理与实验课",
+    "lecturer": "计算机类专业学生、网络爱好者、CTF选手、Web安全爱好者",
+    "descriptionText": "帮助学员学习内存安全中 缓冲区溢出问题原理",
+    "chapters": [
+        {
+            "id": "60938",
+            "name": "Buffer overflow 原理与实验",
+            "courseId": "21375",
+            "sections": [
+                {
+                    "id": "509007",
+                    "name": "基础知识与实验环境",
+                    "courseId": "21375",
+                    "url": "/21375/0_0_509007_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_0_509007_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "nTqvULi3U8oz4oJ3yuHS98RgZq67ELJJzK7mLPAsVQw=",
+                            "rand": "WL/eUlgJ6eBvZXWXzXel/PfHh7hQ2onxABG4+R4lGb8=",
+                            "encrypt": 1,
+                            "duration": "734.0756",
+                            "rate": "446.658",
+                            "randInit": "pQAPtbCwdxZPMRXs"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_0_509007_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "zXNGT7mdwKWZdJTlARreuXiIhtbsWrCyNKdN6jXLF5Q=",
+                            "rand": "FxwRV3Ap7XPsX6FHV+ZlawoyktEhqQ5axIXnnhJ7cQA=",
+                            "encrypt": 1,
+                            "duration": "734.0464",
+                            "rate": "630.242",
+                            "randInit": "pQAPtbCwdxZPMRXs"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_0_509007_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "BIatP50XAETPSvl71U0ZzWNDbfmcFeDghZuG0GL6qLw=",
+                            "rand": "gyM9PW1FsVaI/Wc438G3kgOUxn4F1o2f1Rih0VNyGsY=",
+                            "encrypt": 1,
+                            "duration": "734.0464",
+                            "rate": "766.372",
+                            "randInit": "pQAPtbCwdxZPMRXs"
+                        }
+                    ]
+                },
+                {
+                    "id": "509006",
+                    "name": "缓冲区溢出利用-Spiking技术",
+                    "courseId": "21375",
+                    "url": "/21375/0_1_509006_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_1_509006_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "/0ZWrMSKkBUKTbexdAvGdB3VvMPJpFX9vWwN0xyv4OA=",
+                            "rand": "DB1cgtSu4GtlQg79A/s49xbsNRDSgDtaG2jfxcaeglw=",
+                            "encrypt": 1,
+                            "duration": "625.5665",
+                            "rate": "441.044",
+                            "randInit": "dKyPZYY76KyMbB8Y"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_1_509006_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "2sYHztX+S3MAthQd9EEOcyHvHPylRLmtJLNhigrVP0k=",
+                            "rand": "3RsSQ6I5euPIiweZzIoZf/bP2yftfXXJWruFjeZmnrU=",
+                            "encrypt": 1,
+                            "duration": "625.5688",
+                            "rate": "656.241",
+                            "randInit": "dKyPZYY76KyMbB8Y"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_1_509006_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "fEqhxnErHwTHu5JxnjWlJpv2gXUNRMrGz/978ITp8BU=",
+                            "rand": "7PWgragfujNyBluENLdZIJLfHwdKyJ3luemrmHF5UAg=",
+                            "encrypt": 1,
+                            "duration": "625.6152",
+                            "rate": "811.435",
+                            "randInit": "dKyPZYY76KyMbB8Y"
+                        }
+                    ]
+                },
+                {
+                    "id": "509005",
+                    "name": "缓冲区溢出利用 - Fuzzing模糊测试技术",
+                    "courseId": "21375",
+                    "url": "/21375/0_2_509005_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_2_509005_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+LVnj+V2bx4YYk4p6uHsaIFLT3W70yzndbHG5T7Sh2A=",
+                            "rand": "jk23JQfU+hvidOtu8/QJFKP5ifpF29qKwMC3CvMQ9Og=",
+                            "encrypt": 1,
+                            "duration": "347.2464",
+                            "rate": "434.91",
+                            "randInit": "ih3CT8ENENfsHz2h"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_2_509005_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "m7u03OS0C2wpXCnI3Z8FewEMGOj4PA5421FHMydGLyY=",
+                            "rand": "MBt/7QvMNkD6OQWKRrJ8o9bt5xMfOArv0udxmas/PLE=",
+                            "encrypt": 1,
+                            "duration": "347.2464",
+                            "rate": "610.952",
+                            "randInit": "ih3CT8ENENfsHz2h"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_2_509005_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "itnS39Q+ZUGsqp/ccF/TY3Zqh38oLjxaWHHfK9mX+RE=",
+                            "rand": "ct4nNf7ODdPAdnlMrf7kBArlyL0wN+KwU6ljqqI3aMc=",
+                            "encrypt": 1,
+                            "duration": "347.2464",
+                            "rate": "765.005",
+                            "randInit": "ih3CT8ENENfsHz2h"
+                        }
+                    ]
+                },
+                {
+                    "id": "509004",
+                    "name": "缓冲区溢出利用 - Offset地址查找",
+                    "courseId": "21375",
+                    "url": "/21375/0_3_509004_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_3_509004_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "F4ma9ibbAX+9tdT2W5lxFKDYmPAkD7+JBHy8SgHzWXA=",
+                            "rand": "2G1jjAQB6XMdI1Y5hqWMbieCIbOR1vduucTcvOA2mEA=",
+                            "encrypt": 1,
+                            "duration": "378.0865",
+                            "rate": "444.843",
+                            "randInit": "05aszyJEH2CHRWMr"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_3_509004_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "oTc7flGJDJlOzuYKPUrh2+c7oOZ8qkAOL95Jo+jxLAQ=",
+                            "rand": "TPW4q+hWsyDJXmz8HK2ZjDp2dA+ur459U11nXjlT+Gs=",
+                            "encrypt": 1,
+                            "duration": "378.1137",
+                            "rate": "687.884",
+                            "randInit": "05aszyJEH2CHRWMr"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_3_509004_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "693MhDYvEXzWNEyVHwMpT/xMHPaFIovsAMEg9WIYNxk=",
+                            "rand": "6x8y5wWfrxiC7GendK5k64VHQfQBPi4Q3A0eFZpGK2A=",
+                            "encrypt": 1,
+                            "duration": "378.0865",
+                            "rate": "915.332",
+                            "randInit": "05aszyJEH2CHRWMr"
+                        }
+                    ]
+                },
+                {
+                    "id": "509003",
+                    "name": "缓冲区溢出利用 - 覆写EIP寄存器",
+                    "courseId": "21375",
+                    "url": "/21375/0_4_509003_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_4_509003_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "3u9M9vgDkdmMHeDIL0fask1Ww/olJBVbxlAFIS4y0GE=",
+                            "rand": "jlzEnknSv030rAPCoxqs2DuJ1ue5dtVWdxYMGjqRRUI=",
+                            "encrypt": 1,
+                            "duration": "154.7664",
+                            "rate": "385.605",
+                            "randInit": "k9nFK7zh0B6XKZNG"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_4_509003_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "wEcOkiE/pbzNYMvyopi3oXlv5B26KF8efgY9PvXEf80=",
+                            "rand": "Gw53NcGmGko550Jl1LkkrEv/WJKkP99K3tE7CypPC00=",
+                            "encrypt": 1,
+                            "duration": "154.7842",
+                            "rate": "574.843",
+                            "randInit": "k9nFK7zh0B6XKZNG"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_4_509003_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "/US4Dc4XVK1k28v6UFB+EVXRcvdRlfSCL6YoiVrtzNQ=",
+                            "rand": "E33vizLe+/qedE9xKLpLbTDks4PPIkiE+E6XbShPvjo=",
+                            "encrypt": 1,
+                            "duration": "154.7664",
+                            "rate": "744.758",
+                            "randInit": "k9nFK7zh0B6XKZNG"
+                        }
+                    ]
+                },
+                {
+                    "id": "509002",
+                    "name": "缓冲区溢出利用 - 查找坏字节",
+                    "courseId": "21375",
+                    "url": "/21375/0_5_509002_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_5_509002_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+p2KHkjMc/0oh5jkfT59fcjPCfxBzhzbBcJwQQSwMP0=",
+                            "rand": "whFV1aUXBfct7NpI5RvffKso/JlBWakdds1YI4wiVOE=",
+                            "encrypt": 1,
+                            "duration": "367.0865",
+                            "rate": "444.05",
+                            "randInit": "7xPeXehMcBFGmKH5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_5_509002_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "uhIgjPbnLv9sva0EXkmMgHnmWia6ra4XfFBt7iO5mwM=",
+                            "rand": "V3TvcsSa6b9NeyS08+fttKNwX7j8Eg6U+FX6kPqz4l8=",
+                            "encrypt": 1,
+                            "duration": "367.0865",
+                            "rate": "685.211",
+                            "randInit": "7xPeXehMcBFGmKH5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_5_509002_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "/r7Y5sL+AHntr0lY1HdUPAkO/3GosKblwOPZuXJELjE=",
+                            "rand": "YeQXSD2tZH8aMgUp9WVug0kLyyDh02rT2yx7gCnTSik=",
+                            "encrypt": 1,
+                            "duration": "367.0865",
+                            "rate": "917.535",
+                            "randInit": "7xPeXehMcBFGmKH5"
+                        }
+                    ]
+                },
+                {
+                    "id": "509001",
+                    "name": "缓冲区溢出利用 - 查找可利用模块中的JMP ESP",
+                    "courseId": "21375",
+                    "url": "/21375/0_6_509001_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_6_509001_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "GC6OIC9Nz0tqsXsD8daoN/f3lsbojr7ILLRNNbbdpbg=",
+                            "rand": "yDQmFWiu3BdK3HEDQOubb1LCBIzzmwPls5di+8dXxZw=",
+                            "encrypt": 1,
+                            "duration": "557.7664",
+                            "rate": "430.604",
+                            "randInit": "TkmMTRsdcSdMpPMb"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_6_509001_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "v/JjO7O0hhaVRxe+Fz692XKUcLp/88LpYCPD7SCrukM=",
+                            "rand": "uy7s2Zo5TkwOiS2bfhXa8IPGrR6wolxhq3RsK4V46vY=",
+                            "encrypt": 1,
+                            "duration": "557.7664",
+                            "rate": "647.384",
+                            "randInit": "TkmMTRsdcSdMpPMb"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_6_509001_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "YiS3VlC3bYtbRfibvDz+40/76UCWZciqVtRqhKwXPo0=",
+                            "rand": "7ZE67pW4MbbiWE6fInMVjvEiL61mkqCYfrScDA9taiQ=",
+                            "encrypt": 1,
+                            "duration": "557.7897",
+                            "rate": "838.089",
+                            "randInit": "TkmMTRsdcSdMpPMb"
+                        }
+                    ]
+                },
+                {
+                    "id": "509000",
+                    "name": "缓冲区溢出利用 - Exploi开发",
+                    "courseId": "21375",
+                    "url": "/21375/0_7_509000_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/21375/0_7_509000_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "6bdYm32723xfirwH1r0u7j0ng/xzqaOoO/pGcoiKPbk=",
+                            "rand": "C/ck+mssxuIvM1Yo+02IUyu5UAvi2Ew3zu53RRn7qsw=",
+                            "encrypt": 1,
+                            "duration": "322.4323",
+                            "rate": "448.673",
+                            "randInit": "C8C8GSma4D7MQpSG"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/21375/0_7_509000_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "wnXLNAmqxMVA5fwGH2oiu17hmwU168y/Xozkpmid26E=",
+                            "rand": "53cfS71AdFbslEyLgu4jN1wCCkO/1YjJmYhq0ps67DU=",
+                            "encrypt": 1,
+                            "duration": "322.4064",
+                            "rate": "694.186",
+                            "randInit": "C8C8GSma4D7MQpSG"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/21375/0_7_509000_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "jztI25fcxGHpnvxMb4MtUFGTdIK5GEpGjXqRiYQvs5I=",
+                            "rand": "EM+E3Gpp8HuKuM+XrC419znHbwfr8537XpDJ+61v62E=",
+                            "encrypt": 1,
+                            "duration": "322.4555",
+                            "rate": "928.149",
+                            "randInit": "C8C8GSma4D7MQpSG"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
