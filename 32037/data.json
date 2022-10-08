@@ -1,0 +1,711 @@
+{
+    "id": "32037",
+    "name": "CTF之电子数字取证技术-Volatility",
+    "lecturer": "热爱网络安全，正在或准备参加CTF竞赛的同学",
+    "descriptionText": "具备学习CTF取证类题目解题能力",
+    "chapters": [
+        {
+            "id": "106713",
+            "name": "Volatility安装与使用",
+            "courseId": "32037",
+            "sections": [
+                {
+                    "id": "849916",
+                    "name": "Volatility介绍与安装",
+                    "courseId": "32037",
+                    "url": "/32037/0_0_849916_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/0_0_849916_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "+oyRh5nBUqAKodQvFn0LKsuEN2qTozOzYO7LugrlgHY=",
+                            "rand": "noZFl0C5/5PgTkK8q7+kihyDb+luhGa0j6M+g8uvOH4=",
+                            "encrypt": 1,
+                            "duration": "609.6464",
+                            "rate": "484.623",
+                            "randInit": "t4rQCHdehpXM6n5i"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/0_0_849916_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "bSPQ52eViifojrINVa6hZ5gk0keIpMhJFupovPdIRXA=",
+                            "rand": "CSpZikarK+0KW6ACofs0CqQqV9mH9JtJ1CAXjDlet8U=",
+                            "encrypt": 1,
+                            "duration": "609.6464",
+                            "rate": "742.301",
+                            "randInit": "t4rQCHdehpXM6n5i"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/0_0_849916_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "tj3hN3K8PMHCd2fhCUWg/UnI1hlCm95Sp/aSAJPArSk=",
+                            "rand": "T7QwMJoTw4MPqx72ewPBt/2BkQcc4ZJ0yZfpx0sL74g=",
+                            "encrypt": 1,
+                            "duration": "609.6631",
+                            "rate": "857.183",
+                            "randInit": "t4rQCHdehpXM6n5i"
+                        }
+                    ]
+                },
+                {
+                    "id": "849915",
+                    "name": "Volatility使用方法",
+                    "courseId": "32037",
+                    "url": "/32037/0_1_849915_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/0_1_849915_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ewsdQTEeQYmCh8aLVUDyInIWfRaAGCCOtf5PKcuFbNo=",
+                            "rand": "AwSRu9cDw655rUiQkhkyXFXVlPgJZ0g38ldCABs3dt0=",
+                            "encrypt": 1,
+                            "duration": "820.2864",
+                            "rate": "469.133",
+                            "randInit": "h58wdY3yzR0GxSRD"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/0_1_849915_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ApliijRPSI5Qkh+3KqKCMKZMo4me7ECaK6uddzBJpX4=",
+                            "rand": "0DZJDdbeRiyFdGdlfMkEy5nlEVpzz7nfA245RW4E13w=",
+                            "encrypt": 1,
+                            "duration": "820.2864",
+                            "rate": "703.349",
+                            "randInit": "h58wdY3yzR0GxSRD"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/0_1_849915_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Cl8IpDGt+FdHo/w+czBQgGC6r7X7AWNggCVE9R1XPkk=",
+                            "rand": "WAMfuYLr7zKS1Toyf5fy50/opcFaT73ychnmfqCrGNA=",
+                            "encrypt": 1,
+                            "duration": "820.2864",
+                            "rate": "747.435",
+                            "randInit": "h58wdY3yzR0GxSRD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "106714",
+            "name": "CTF取证赛题讲解",
+            "courseId": "32037",
+            "sections": [
+                {
+                    "id": "849914",
+                    "name": "CTF取证赛题讲解（一）",
+                    "courseId": "32037",
+                    "url": "/32037/1_0_849914_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_0_849914_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ZwTKq54Cpb/XyOtuU/oRq8g6wUTBw4py+LX1E8WK+0g=",
+                            "rand": "xK+oI2oo5QlQjS+01A2vGlekMBmTWmqppvOt+UDxzxc=",
+                            "encrypt": 1,
+                            "duration": "187.6464",
+                            "rate": "335.767",
+                            "randInit": "8JfE40xBQQB4a40H"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_0_849914_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "YvskDtzkdg/q16NMy7kbH978al180jBba4qUhZtsT2s=",
+                            "rand": "Y6UnDY1y59DnjURvx3V7H3TMlkJ8cqmTEWHAuuFamVA=",
+                            "encrypt": 1,
+                            "duration": "187.6464",
+                            "rate": "377.397",
+                            "randInit": "8JfE40xBQQB4a40H"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_0_849914_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "MZc9KQ8B4+G3zeWqNlNBiYsGRJ6rImaSR5mTFVrELcY=",
+                            "rand": "ul9AVr1eL0kaMgfwVVuqZW1TXFxSR2ZDpaT/pn5EDMg=",
+                            "encrypt": 1,
+                            "duration": "187.6464",
+                            "rate": "407.318",
+                            "randInit": "8JfE40xBQQB4a40H"
+                        }
+                    ]
+                },
+                {
+                    "id": "849913",
+                    "name": "CTF取证赛题讲解（二）",
+                    "courseId": "32037",
+                    "url": "/32037/1_1_849913_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_1_849913_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "kZw7SqROVrPo0ecZs3FP6HTy1wuByDMVwhhJ1XwzIDg=",
+                            "rand": "UsZAP4V9rD0EANyqrAkNwkieK+R/BID+pE3XWLbnVBk=",
+                            "encrypt": 1,
+                            "duration": "425.4464",
+                            "rate": "346.84",
+                            "randInit": "YJHfehrRDTKQtDws"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_1_849913_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Z6CbQHi4NRqlhfq3qLUuEeltQkfnfZv2uPBgc2wRsWw=",
+                            "rand": "wCI3IQfpuQyHT/DwKmFucRlX+PDyGfAy5+j5W5bLPVU=",
+                            "encrypt": 1,
+                            "duration": "425.4464",
+                            "rate": "382.785",
+                            "randInit": "YJHfehrRDTKQtDws"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_1_849913_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "uAA40f4h4X3DUWbKCf5zPoTUPOGwuhBuNmds1qfemtI=",
+                            "rand": "R/MdW8RU9zrYmtTQrUGfmulI+X2PpP7gA35czEOwI0w=",
+                            "encrypt": 1,
+                            "duration": "425.4464",
+                            "rate": "414.392",
+                            "randInit": "YJHfehrRDTKQtDws"
+                        }
+                    ]
+                },
+                {
+                    "id": "849912",
+                    "name": "CTF取证赛题讲解（三）",
+                    "courseId": "32037",
+                    "url": "/32037/1_2_849912_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_2_849912_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "VMmyvCASV4P6KY+9jzxKUhMNa3GzwL8THxX0CTnznik=",
+                            "rand": "1IlHxtCM/mHVUuQ6lvk92PgS1CpYA6KWeDHSH5rvUyw=",
+                            "encrypt": 1,
+                            "duration": "252.0864",
+                            "rate": "358.181",
+                            "randInit": "R4HkSsSr4eD7GznW"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_2_849912_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "utf9xsKa1Sq9WkZ6BaHLKPHUKQfsgQd+VWhi0DAzn5g=",
+                            "rand": "QfQXShLe+HEZArFysMLpX5+iCF/lsqqMsFWhyG2A49Q=",
+                            "encrypt": 1,
+                            "duration": "252.0864",
+                            "rate": "399.085",
+                            "randInit": "R4HkSsSr4eD7GznW"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_2_849912_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "xTEcKoxkIphcTn7kfH0nsJmdzy90GsIMoXhGnBOylto=",
+                            "rand": "RbTCJ1ZEAFVYviK4EYjcl/H+UzcntsP5Q8eTEiP0jTQ=",
+                            "encrypt": 1,
+                            "duration": "252.0864",
+                            "rate": "433.295",
+                            "randInit": "R4HkSsSr4eD7GznW"
+                        }
+                    ]
+                },
+                {
+                    "id": "849911",
+                    "name": "CTF取证赛题讲解（四）",
+                    "courseId": "32037",
+                    "url": "/32037/1_3_849911_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_3_849911_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "dZ93XhfmqZChT43yPeV/+Lky4tWc2B41lqPf/UXp1KU=",
+                            "rand": "1J2KMqWvboz3CkKgBWNQXrCgqC8kcYTd/3nJ4kAxifE=",
+                            "encrypt": 1,
+                            "duration": "644.7949",
+                            "rate": "435.316",
+                            "randInit": "zN4C7560TiA25Hmm"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_3_849911_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "AWV1D0CxycqTrsQNngF7ZjDZX93ke7egluGZ4JHt4Wg=",
+                            "rand": "LnnObrrop+G88MU3O8Iiq6QA99xTgRbd66Gy2ul2cKw=",
+                            "encrypt": 1,
+                            "duration": "644.7949",
+                            "rate": "477.514",
+                            "randInit": "zN4C7560TiA25Hmm"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_3_849911_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "adX1SahvRZL2+5DoaGP/LEvow+5NC/AMU608uaQ1m64=",
+                            "rand": "qFWZFBVv2VAPMnlO1UnDvdzP3Q4LZpn9QZ+vz0FM0OY=",
+                            "encrypt": 1,
+                            "duration": "644.7664",
+                            "rate": "510.115",
+                            "randInit": "zN4C7560TiA25Hmm"
+                        }
+                    ]
+                },
+                {
+                    "id": "849910",
+                    "name": "CTF取证赛题讲解（五）",
+                    "courseId": "32037",
+                    "url": "/32037/1_4_849910_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_4_849910_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "WcKH7RRjnmsuP8YuaBevzjpiHxUz4TaOb9fDyaFUlZ8=",
+                            "rand": "N+w53ruMWTRfNp0Z5RLdwEuAaYPLyIFYxWCrVSF9mQE=",
+                            "encrypt": 1,
+                            "duration": "769.6464",
+                            "rate": "402.205",
+                            "randInit": "HY9rKcNYY7tHjWrP"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_4_849910_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "t0wkP/CmzAV4uwPBtSrXBmK5tPhDAmOqzVkqSqEV25E=",
+                            "rand": "y6Kr+sFCKfFOTmj1uKeaCa4qVyinjx2F1Yeax2YuCDs=",
+                            "encrypt": 1,
+                            "duration": "769.6464",
+                            "rate": "440.669",
+                            "randInit": "HY9rKcNYY7tHjWrP"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_4_849910_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "hZHH1SoMXh/dLatl85Ij0IQKhANK7+/QY/m9dLCUdKs=",
+                            "rand": "5QJVir+Oheb5ti0DIh3r9AjHIRAjrT1Wsm0i9SgVJ74=",
+                            "encrypt": 1,
+                            "duration": "769.6464",
+                            "rate": "470.069",
+                            "randInit": "HY9rKcNYY7tHjWrP"
+                        }
+                    ]
+                },
+                {
+                    "id": "849909",
+                    "name": "CTF取证赛题讲解（六）",
+                    "courseId": "32037",
+                    "url": "/32037/1_5_849909_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_5_849909_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "XyaNVJ1uTbOz/BKiIVL2wABLz7lWI3NLnXbR+KlL7PQ=",
+                            "rand": "dTGo10pgUQAB7w53DxZYQWxgrnt2CqRBpBdSpF7WfQA=",
+                            "encrypt": 1,
+                            "duration": "438.6064",
+                            "rate": "379.31",
+                            "randInit": "XKC3QZSC3kiyy3ZC"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_5_849909_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "T3jBg/pWQ/FfZaPczibatyTW6nyu4Fo9sY8FVVoXBzs=",
+                            "rand": "2nt8jkUJwEdMds3sh5TqCuGqW4EIIMM7pn2aCST5/lo=",
+                            "encrypt": 1,
+                            "duration": "438.6064",
+                            "rate": "417.588",
+                            "randInit": "XKC3QZSC3kiyy3ZC"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_5_849909_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "F03k/6BSQ5GJLSZ5I7y8yQPTi6qYmJ5Ir7SO1jMOatQ=",
+                            "rand": "QNpJauU3+XubOUXY7z41zDpQ6nc5o/odmhik/M2qPpU=",
+                            "encrypt": 1,
+                            "duration": "438.6064",
+                            "rate": "447.651",
+                            "randInit": "XKC3QZSC3kiyy3ZC"
+                        }
+                    ]
+                },
+                {
+                    "id": "849908",
+                    "name": "CTF取证赛题讲解（七）",
+                    "courseId": "32037",
+                    "url": "/32037/1_6_849908_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_6_849908_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Pjv5+LyEqZQP/COf/AYQz2GK9+AoMXrxE1l1IFcK3nA=",
+                            "rand": "we6A2Xv/rvDldThGYdE/iEr2G3jyALvG2eCffbk3s4c=",
+                            "encrypt": 1,
+                            "duration": "369.8065",
+                            "rate": "319.641",
+                            "randInit": "DMX36XZD9jhKiJ0F"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_6_849908_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "VlQktNhH1zvPZfiHsZWI3D5ObyJzHGA5LazPSNiZO4M=",
+                            "rand": "ftqJGR6TM3+01f/UdY4fOhCE2yhkI/cjnMneMnYsVFs=",
+                            "encrypt": 1,
+                            "duration": "369.8065",
+                            "rate": "355.532",
+                            "randInit": "DMX36XZD9jhKiJ0F"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_6_849908_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "dja6CUjTZuIqCjJf5IjXzoepS4PF7mc7jL2Fbcyh0ZY=",
+                            "rand": "rzFOqVNfy/DSEJH5RnB4IOs7Da0jfoYT7VmMKqFHURw=",
+                            "encrypt": 1,
+                            "duration": "369.8065",
+                            "rate": "384.208",
+                            "randInit": "DMX36XZD9jhKiJ0F"
+                        }
+                    ]
+                },
+                {
+                    "id": "849907",
+                    "name": "CTF取证赛题讲解（八）",
+                    "courseId": "32037",
+                    "url": "/32037/1_7_849907_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_7_849907_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "kDTxp2cYEAnTOVK5henXMPXbt9xto0nvn5twMCsFRHM=",
+                            "rand": "7015UdWsUQpYZIINaFst7nghN1j/z0TA3jtDuZuAuA4=",
+                            "encrypt": 1,
+                            "duration": "485.9265",
+                            "rate": "392.136",
+                            "randInit": "t7FKazMh60668Nkn"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_7_849907_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "FHwCX/p5uofPXukIXnfdAMgx4Jsfgn8INvV3MfnqlI4=",
+                            "rand": "94SuBJ2O4oEOOd7LH8kJde6UwNZkb1d8vCa2pzdyAvY=",
+                            "encrypt": 1,
+                            "duration": "485.9265",
+                            "rate": "426.751",
+                            "randInit": "t7FKazMh60668Nkn"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_7_849907_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "iKqt+oQoMdLIYT3Ob0PHJWpnv0YrbwmssRBPU7y8gmc=",
+                            "rand": "PEDEbTDIX1KhlmNEMDV/Y170glvVMwaiU+ce88q2S5A=",
+                            "encrypt": 1,
+                            "duration": "485.9265",
+                            "rate": "458.244",
+                            "randInit": "t7FKazMh60668Nkn"
+                        }
+                    ]
+                },
+                {
+                    "id": "849903",
+                    "name": "CTF取证赛题讲解（九）",
+                    "courseId": "32037",
+                    "url": "/32037/1_8_849903_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_8_849903_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "5m35rv3HarISrHlb+MrVYr0cd3eTQ55BHg8c8CA674U=",
+                            "rand": "WCBVATkRfwn83JFwqulCtkiGX0u98aUh/Tl/kGBNmt0=",
+                            "encrypt": 1,
+                            "duration": "565.4865",
+                            "rate": "448.713",
+                            "randInit": "nWzGMJNGSnaxwXcc"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_8_849903_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "xcLv0ozTGaIv1ieKJtg9jojLsBDjwX1tpYaQc0Jm0TU=",
+                            "rand": "xKJhGXmuUhdApPy6HlpY94f6W9N8a4lVnVc92td2wkY=",
+                            "encrypt": 1,
+                            "duration": "565.4865",
+                            "rate": "512.582",
+                            "randInit": "nWzGMJNGSnaxwXcc"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_8_849903_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "7GW3m0p+Ldw8xabQ9qBlZv+qqO5z9MNxAPXdzyhyDCs=",
+                            "rand": "9A0jlsceio57lRdYVCfJckGEHinTX9c7C7u0o1xWtR8=",
+                            "encrypt": 1,
+                            "duration": "565.4865",
+                            "rate": "546.889",
+                            "randInit": "nWzGMJNGSnaxwXcc"
+                        }
+                    ]
+                },
+                {
+                    "id": "849906",
+                    "name": "CTF取证赛题讲解（十）",
+                    "courseId": "32037",
+                    "url": "/32037/1_9_849906_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_9_849906_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "CL1kNvWtAXr19YXEejC1MTzlkVixKd8pj2b+VSY81E0=",
+                            "rand": "u7US58X59xbnpeiO+MCO+ri/i2cYD8EGCjuJMUdMiTM=",
+                            "encrypt": 1,
+                            "duration": "990.6865",
+                            "rate": "425.753",
+                            "randInit": "ZREXeXTbhde3ean5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_9_849906_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "QbwU5YDDcPeoaHeLC3Z48kG/dnGIh9jCZcNsmkl2ya0=",
+                            "rand": "Jowupa21J39yUrcAFiOlb+2NsILOjpTTfHt763jAE4E=",
+                            "encrypt": 1,
+                            "duration": "990.6865",
+                            "rate": "475.963",
+                            "randInit": "ZREXeXTbhde3ean5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_9_849906_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "mA7TlHzHN/MW3uzhcJRIh4NOE6sXpl+JUmNVEOqjeh0=",
+                            "rand": "zpqoWy7Byqy90RChDx5ncXpPtnczK7otmHKbLe1U/AM=",
+                            "encrypt": 1,
+                            "duration": "990.6865",
+                            "rate": "505.508",
+                            "randInit": "ZREXeXTbhde3ean5"
+                        }
+                    ]
+                },
+                {
+                    "id": "849905",
+                    "name": "CTF取证赛题讲解（十一）",
+                    "courseId": "32037",
+                    "url": "/32037/1_10_849905_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/32037/1_10_849905_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "v5a8jWg2izWM2OsUK022JvtbhFUH/ZpdgxUbM2iTGMM=",
+                            "rand": "PFFZ3lGgZOMf9Xsdks/2tno1KXsDS22r/xazo8JA29o=",
+                            "encrypt": 1,
+                            "duration": "3169.3264",
+                            "rate": "450.419",
+                            "randInit": "sBrfs2EP5pQiiCGZ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/32037/1_10_849905_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "bbJwmdsLkcB2EGJVWxguWRNak18W++iJSkMLESE9Paw=",
+                            "rand": "C13m/fwpPe6NZhJDQMB4/a5yYU1eDkY73naPQACShrw=",
+                            "encrypt": 1,
+                            "duration": "3169.3264",
+                            "rate": "562.084",
+                            "randInit": "sBrfs2EP5pQiiCGZ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/32037/1_10_849905_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "z0QFoRfvp+6Now4lA2oTat14v/KV2S2aE7nCWPva+Ws=",
+                            "rand": "e1hppnjaKABNiHQcZSuHbUoKpVJnjnk+ZOirYRxqDIM=",
+                            "encrypt": 1,
+                            "duration": "3169.3264",
+                            "rate": "592.89",
+                            "randInit": "sBrfs2EP5pQiiCGZ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
