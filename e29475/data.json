@@ -1,0 +1,434 @@
+{
+    "id": "29475",
+    "name": "安装和配置 Windows Server 2022 联合身份验证服务",
+    "lecturer": "未知",
+    "descriptionText": "通过这一个课程的介绍，首先我们就能够去了解到，Windows Server 2022 的系统当中，联合身份验证服务一方面它提供了丰富的身份验证方式，并且与 Azure AD 集成，实现多重身份验服务，给现代化的应用程序提供用户的声明属性，保证用户始终使用一个帐号，更加安全访问现代化的应用程序，然后我们就可以去完成 ADFS 服务的不同部署模式的安装、升级和初始化配置，在 ADFS 服务当中添加和配置支持声明验证的应用程序、并且配置特性存储，允许 ADFS 连接到 LDAP、SQL Server 等不同的数据源，并且通过规则和策略提取和转换成为声明，提供给应用程序使用，并且结合证书服务和 Azure AD 集成的配置，实现证书认证，多重身份验证，设备注册验证等多种不同类型的验证方式，增强用户帐号和应用程序的安全，最后理解 Web 应用程序代理服务的应用场景和特点，并且完成 Windows Server 2022 的系统当中，Web 应用程序代理角色的安装、初始化和配置，实现 Web应用程序的发布",
+    "chapters": [
+        {
+            "id": 95605,
+            "name": "课程简介",
+            "sorted": 1,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 781435,
+                    "name": "课程简介",
+                    "chapterId": 95605,
+                    "courseId": "29475",
+                    "url": "e29475/1-1_95605_781435_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e29475/1-1_95605_781435_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "60603/NWsA0BTpS9ibl9wG4GIzJVqzHLfdV7v40ocqQ=",
+                            "rand": "S1FgT8QjsRQj6vQ5tsb/uR8A/0EqaT1PuO7MNShflxs=",
+                            "encrypt": 1,
+                            "duration": "66.9431",
+                            "rate": "375.87",
+                            "randInit": "s6KT64B23fMiCpTK"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e29475/1-1_95605_781435_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "l9PxJLj+Bkhd/NVlZ9FXg412NRLQHnDjgqyzpwvCL5o=",
+                            "rand": "GgvhT7/I0CIgI8BexXVkBzSd8JmiR9CGX6u3+pXqKu4=",
+                            "encrypt": 1,
+                            "duration": "66.9264",
+                            "rate": "462.729",
+                            "randInit": "s6KT64B23fMiCpTK"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e29475/1-1_95605_781435_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "NbMQy5Okh0wC5QVyvKY/P5bzkEXbnvNo9SUWhEWgb9M=",
+                            "rand": "RIP7Y+fyZ4HInLjI21mYk85d4mhmd42LSws0k3jKBEI=",
+                            "encrypt": 1,
+                            "duration": "66.9264",
+                            "rate": "520.821",
+                            "randInit": "s6KT64B23fMiCpTK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 95606,
+            "name": "ADFS 服务简介",
+            "sorted": 2,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778617,
+                    "name": "ADFS 服务简介",
+                    "chapterId": 95606,
+                    "courseId": "29475",
+                    "url": "e29475/2-1_95606_778617_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e29475/2-1_95606_778617_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "zWuYHCabeXBkv8KBNVR8zmkun1/60nq5FMJzpeom5u4=",
+                            "rand": "rHZAaWfNKt3KsASO7lX0L4H3kF+iuoJuoafaN8SBiNI=",
+                            "encrypt": 1,
+                            "duration": "131.6864",
+                            "rate": "354.007",
+                            "randInit": "WiCiFDx7PtsAb4dj"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e29475/2-1_95606_778617_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "U+j6t8LIjNV6blMrcynVoJ04ZqO/t/YQmJLW4kW6poU=",
+                            "rand": "nAOHhLZ3qv1eNE+rQj2xVUyc0eEt50I30YEE866X5/o=",
+                            "encrypt": 1,
+                            "duration": "131.6864",
+                            "rate": "400.696",
+                            "randInit": "WiCiFDx7PtsAb4dj"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e29475/2-1_95606_778617_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4nz7vnSwyonMIW3zpqHdW56ZirbgaxvUw/LdpXhcD6k=",
+                            "rand": "aoCED3xh890F4GpDxW/5QMd1VVDiAsJmTGYqz2dmrBc=",
+                            "encrypt": 1,
+                            "duration": "131.7036",
+                            "rate": "435.474",
+                            "randInit": "WiCiFDx7PtsAb4dj"
+                        }
+                    ]
+                },
+                {
+                    "id": 778616,
+                    "name": "演示环境",
+                    "chapterId": 95606,
+                    "courseId": "29475",
+                    "url": "e29475/2-2_95606_778616_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "e29475/2-2_95606_778616_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "LUH5jMiMGHgx91R18pKfOZIkqn6WXJeFELNgqljSheY=",
+                            "rand": "xWQuMRdnU+gwfNnVQ7pdk9sqtBPxtTe4HNkJ24q3C9E=",
+                            "encrypt": 1,
+                            "duration": "647.1265",
+                            "rate": "447.265",
+                            "randInit": "per2xTJ7ZJcfiWf4"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "e29475/2-2_95606_778616_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "9ByE4e3miAP1bAScnMe77YbRZqiI5wjaZu/L9SV4uUY=",
+                            "rand": "zPWunCu4YUExb9XXtg5SZuE1oxaS2Xi62+hzPwQ8CNw=",
+                            "encrypt": 1,
+                            "duration": "647.1265",
+                            "rate": "485.462",
+                            "randInit": "per2xTJ7ZJcfiWf4"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "e29475/2-2_95606_778616_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "8VTcQm1eoeA+cztr5ahQ9HxhNcbDxwgOuTPfk6iIslE=",
+                            "rand": "pyQzOAc+2QJaFwV4vMCsbU8+eiOIPdDHx2Mp0nzZkM0=",
+                            "encrypt": 1,
+                            "duration": "647.1265",
+                            "rate": "519.169",
+                            "randInit": "per2xTJ7ZJcfiWf4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 95607,
+            "name": "ADFS 部署",
+            "sorted": 3,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778615,
+                    "name": "先决条件",
+                    "chapterId": 95607,
+                    "courseId": "29475",
+                    "url": "e29475/3-1_95607_778615",
+                    "urls": []
+                },
+                {
+                    "id": 778614,
+                    "name": "快速部署",
+                    "chapterId": 95607,
+                    "courseId": "29475",
+                    "url": "e29475/3-2_95607_778614",
+                    "urls": []
+                },
+                {
+                    "id": 778613,
+                    "name": "标准部署",
+                    "chapterId": 95607,
+                    "courseId": "29475",
+                    "url": "e29475/3-3_95607_778613",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95608,
+            "name": "ADFS 升级",
+            "sorted": 4,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778612,
+                    "name": "升级过程",
+                    "chapterId": 95608,
+                    "courseId": "29475",
+                    "url": "e29475/4-1_95608_778612",
+                    "urls": []
+                },
+                {
+                    "id": 778611,
+                    "name": "ADFS 升级",
+                    "chapterId": 95608,
+                    "courseId": "29475",
+                    "url": "e29475/4-2_95608_778611",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95609,
+            "name": "声明验证",
+            "sorted": 5,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778610,
+                    "name": "声明验证",
+                    "chapterId": 95609,
+                    "courseId": "29475",
+                    "url": "e29475/5-1_95609_778610",
+                    "urls": []
+                },
+                {
+                    "id": 778609,
+                    "name": "声明验证",
+                    "chapterId": 95609,
+                    "courseId": "29475",
+                    "url": "e29475/5-2_95609_778609",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95677,
+            "name": "联合信任",
+            "sorted": 6,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778649,
+                    "name": "联合信任",
+                    "chapterId": 95677,
+                    "courseId": "29475",
+                    "url": "e29475/6-1_95677_778649",
+                    "urls": []
+                },
+                {
+                    "id": 778648,
+                    "name": "联合信任",
+                    "chapterId": 95677,
+                    "courseId": "29475",
+                    "url": "e29475/6-2_95677_778648",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95678,
+            "name": "特性存储",
+            "sorted": 7,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778647,
+                    "name": "特性存储",
+                    "chapterId": 95678,
+                    "courseId": "29475",
+                    "url": "e29475/7-1_95678_778647",
+                    "urls": []
+                },
+                {
+                    "id": 778646,
+                    "name": "特性存储",
+                    "chapterId": 95678,
+                    "courseId": "29475",
+                    "url": "e29475/7-2_95678_778646",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95693,
+            "name": "证书认证",
+            "sorted": 8,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778673,
+                    "name": "证书认证",
+                    "chapterId": 95693,
+                    "courseId": "29475",
+                    "url": "e29475/8-1_95693_778673",
+                    "urls": []
+                },
+                {
+                    "id": 778672,
+                    "name": "证书认证",
+                    "chapterId": 95693,
+                    "courseId": "29475",
+                    "url": "e29475/8-2_95693_778672",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95694,
+            "name": "AzureAD 集成",
+            "sorted": 9,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 778671,
+                    "name": "AzureAD 集成",
+                    "chapterId": 95694,
+                    "courseId": "29475",
+                    "url": "e29475/9-1_95694_778671",
+                    "urls": []
+                },
+                {
+                    "id": 778670,
+                    "name": "AzureAD 集成",
+                    "chapterId": 95694,
+                    "courseId": "29475",
+                    "url": "e29475/9-2_95694_778670",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95889,
+            "name": "多重身份验证",
+            "sorted": 10,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 781196,
+                    "name": "多重身份验证",
+                    "chapterId": 95889,
+                    "courseId": "29475",
+                    "url": "e29475/10-1_95889_781196",
+                    "urls": []
+                },
+                {
+                    "id": 781195,
+                    "name": "多重身份验证",
+                    "chapterId": 95889,
+                    "courseId": "29475",
+                    "url": "e29475/10-2_95889_781195",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95890,
+            "name": "设备注册",
+            "sorted": 11,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 781194,
+                    "name": "设备注册",
+                    "chapterId": 95890,
+                    "courseId": "29475",
+                    "url": "e29475/11-1_95890_781194",
+                    "urls": []
+                },
+                {
+                    "id": 781193,
+                    "name": "设备注册",
+                    "chapterId": 95890,
+                    "courseId": "29475",
+                    "url": "e29475/11-2_95890_781193",
+                    "urls": []
+                }
+            ]
+        },
+        {
+            "id": 95891,
+            "name": "WAP 代理",
+            "sorted": 12,
+            "courseId": "29475",
+            "sections": [
+                {
+                    "id": 781192,
+                    "name": "WAP 代理",
+                    "chapterId": 95891,
+                    "courseId": "29475",
+                    "url": "e29475/12-1_95891_781192",
+                    "urls": []
+                },
+                {
+                    "id": 781191,
+                    "name": "WAP 代理",
+                    "chapterId": 95891,
+                    "courseId": "29475",
+                    "url": "e29475/12-2_95891_781191",
+                    "urls": []
+                }
+            ]
+        }
+    ]
+}
