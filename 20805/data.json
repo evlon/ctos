@@ -1,0 +1,1315 @@
+{
+    "id": "20805",
+    "name": "XSS跨站脚本漏洞精讲／原理／绕过／防御",
+    "lecturer": "让开发工程师、测试工程师、运维工程师、安全工程师迅速构建XSS漏洞的知识体系",
+    "descriptionText": "理论+实验+代码分析，三个梯度逐步学习XSS漏洞，让你懂代码、知绕过、可防御。",
+    "chapters": [
+        {
+            "id": "57726",
+            "name": "XSS跨站脚本漏洞原理／危害",
+            "courseId": "20805",
+            "sections": [
+                {
+                    "id": "486811",
+                    "name": "【理论】XSS漏洞分类介绍及应用",
+                    "courseId": "20805",
+                    "url": "/20805/0_0_486811_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/0_0_486811_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "cneUWv3H/Xvy8jK+jKxWke/KMNhBapFPbTuKQuEfjXo=",
+                            "rand": "DlzP1djVBIA0964BMw5kOWM9kqvbO2+6A1q8rD+CpkQ=",
+                            "encrypt": 1,
+                            "duration": "1277.7665",
+                            "rate": "449.529",
+                            "randInit": "WKdnsdr43hXfAbiX"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/0_0_486811_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "jgGWAxI2VWUDalO4jvKNCvImxXoVx7PQifIOZlfUuok=",
+                            "rand": "+dnSNWzhMn2E+D/JiVmPTC72HraZXopoy5Scq2vfjR0=",
+                            "encrypt": 1,
+                            "duration": "1277.7709",
+                            "rate": "690.847",
+                            "randInit": "WKdnsdr43hXfAbiX"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/0_0_486811_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "tOHSnUjP3bpor1ydsgx98gcjmkukV+bDpZf9jwghSPY=",
+                            "rand": "ixoNLtBlyuej84d0u6ANkWRgBOtDgBey7kJUPX3oTwk=",
+                            "encrypt": 1,
+                            "duration": "1277.7665",
+                            "rate": "935.707",
+                            "randInit": "WKdnsdr43hXfAbiX"
+                        }
+                    ]
+                },
+                {
+                    "id": "486812",
+                    "name": "【理论】XSS漏洞原理介绍",
+                    "courseId": "20805",
+                    "url": "/20805/0_1_486812_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/0_1_486812_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "xG/EiL+5KmjRAQyyWpgYSpA9c+3SAu83pY3tPeVAPj4=",
+                            "rand": "CjFzSCizjdO/vEYb3/HtEX+ECUPB20eH7lBSnNHKUYw=",
+                            "encrypt": 1,
+                            "duration": "530.0864",
+                            "rate": "453.092",
+                            "randInit": "TcGwXC36jG3MnjZf"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/0_1_486812_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "U1eLV60nBXvfWS9WBpg5yX0DFhKyXU8kwVWKDl1vIZM=",
+                            "rand": "FQ35yG4UDCZXeGnHk+dYRbEoHIZAMXJ+9z2hoNeEZMQ=",
+                            "encrypt": 1,
+                            "duration": "530.1348",
+                            "rate": "696.106",
+                            "randInit": "TcGwXC36jG3MnjZf"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/0_1_486812_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "WDFRPcAJCLaV00Jar3cHhaal+6eF37gkX3rYquZ+o+A=",
+                            "rand": "zMCl4yoh23TWjO+25rPp8+pUjoa3c4GRs7ubtk245o4=",
+                            "encrypt": 1,
+                            "duration": "530.0864",
+                            "rate": "940.303",
+                            "randInit": "TcGwXC36jG3MnjZf"
+                        }
+                    ]
+                },
+                {
+                    "id": "486810",
+                    "name": "【理论】XSS利用方式及应用",
+                    "courseId": "20805",
+                    "url": "/20805/0_2_486810_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/0_2_486810_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "B5dMbiIRtlUYqHp4w+zGqpASdjs+E9/N2ksWcuga9U4=",
+                            "rand": "lGrSQhOEDjPz6oBLTxwMTgXDzeOiuQf4MJN8B1otaTk=",
+                            "encrypt": 1,
+                            "duration": "1711.1665",
+                            "rate": "456.485",
+                            "randInit": "yZ9Xw6DaHbQ4WBmN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/0_2_486810_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "FvhS3QW9ucXJtk0kjICJ9YoFK31GiDZ972DEJ3AO4T8=",
+                            "rand": "A0a7kmvqFwM0YCrmeBYvfrknEvJykP+eM/LDUEggryY=",
+                            "encrypt": 1,
+                            "duration": "1711.1665",
+                            "rate": "704.258",
+                            "randInit": "yZ9Xw6DaHbQ4WBmN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/0_2_486810_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "qVrOsCZuzOZdEeV3IdahNSoOyd7MECvPh6UanOyqbDk=",
+                            "rand": "uUBTNcWUe4mJQMrQBiYAvx5UORE62P0IXv74MTwa5YU=",
+                            "encrypt": 1,
+                            "duration": "1711.1714",
+                            "rate": "953.716",
+                            "randInit": "yZ9Xw6DaHbQ4WBmN"
+                        }
+                    ]
+                },
+                {
+                    "id": "486809",
+                    "name": "【实验】通过实验深入了解XSS漏洞的三个分类",
+                    "courseId": "20805",
+                    "url": "/20805/0_3_486809_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/0_3_486809_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "W9SSFBz2ZlYp/Jx9vra9lQs0qr9o/1x9Ybl0dxOn4wo=",
+                            "rand": "krVThX4AHHtUKB/0jZh3sed3ysJXI2v68rjsYtr+kFo=",
+                            "encrypt": 1,
+                            "duration": "2434.9666",
+                            "rate": "455.725",
+                            "randInit": "0YXrFdeSeAHWn25P"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/0_3_486809_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "k4VzM0uq31vLUgS+7P9QYuo5cJDpeimiTFdLnKNZAQA=",
+                            "rand": "p87GVOTnMkRIS6nrZpJg3qb3kTkNQrQT3vjgsh6RH1k=",
+                            "encrypt": 1,
+                            "duration": "2434.9666",
+                            "rate": "705.13",
+                            "randInit": "0YXrFdeSeAHWn25P"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/0_3_486809_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ewuK+8vG0OeBt+h/zIFNKx6GhNLmDrOnoUzmfbSKyDc=",
+                            "rand": "UhvcA6t8ENHzOyn7XHZM+djgnnjY8NkjAyJ3sGQQ/bY=",
+                            "encrypt": 1,
+                            "duration": "2434.9666",
+                            "rate": "954.009",
+                            "randInit": "0YXrFdeSeAHWn25P"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "57845",
+            "name": "XSS平台使用",
+            "courseId": "20805",
+            "sections": [
+                {
+                    "id": "486808",
+                    "name": "【实验】XSS平台-开源项目",
+                    "courseId": "20805",
+                    "url": "/20805/1_0_486808_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/1_0_486808_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "l4GBozha72HZ2l2sKq3zdw+kt14Pd9j6xTs9Md/tUAs=",
+                            "rand": "9Yuaayxm2W5TBFdiLgsvjAwBV8ooQ1SU+Q9N+9Kkzmo=",
+                            "encrypt": 1,
+                            "duration": "2659.2864",
+                            "rate": "453.431",
+                            "randInit": "BfXi6zyy34jtNip7"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/1_0_486808_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "BZq3yhCKJOi3VRJfNE6r6swnrbYiIUVeGLVItEcmIkI=",
+                            "rand": "tE0lY9WWvOOeVFnMC0AIW0WyOaN2Y3HSCx9nZ9EurSc=",
+                            "encrypt": 1,
+                            "duration": "2659.3118",
+                            "rate": "701.509",
+                            "randInit": "BfXi6zyy34jtNip7"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/1_0_486808_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "DIeT63bO4BTZdXA+X/wRx4yvuDaecBdWSEWopGlVvFg=",
+                            "rand": "keqATMhZ9QOrD8Hv56rWGd5Xi4OfAqvbfD3oZ+TiIJ4=",
+                            "encrypt": 1,
+                            "duration": "2659.3118",
+                            "rate": "949.683",
+                            "randInit": "BfXi6zyy34jtNip7"
+                        }
+                    ]
+                },
+                {
+                    "id": "486807",
+                    "name": "【实验】XSS平台-BEEF",
+                    "courseId": "20805",
+                    "url": "/20805/1_1_486807_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/1_1_486807_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "a+vVXhPGkkYx7256wsd30VyH6jdShQEBDsHGGQBSUI0=",
+                            "rand": "hNS8uZv2FXqPsR3CxdtNYHDiaWc7LpTgin3tu67QLrE=",
+                            "encrypt": 1,
+                            "duration": "2765.4502",
+                            "rate": "454.508",
+                            "randInit": "zdMn2REjCHfm9MNS"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/1_1_486807_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "8ZkQxcUHeDh3NRqAfCwsoqGezsNLx7L2wvam2X1oEvY=",
+                            "rand": "JOcWqNayvcxyhYvyN8BrpSTe28p0qZDav85IPeCY1bI=",
+                            "encrypt": 1,
+                            "duration": "2765.4465",
+                            "rate": "703.656",
+                            "randInit": "zdMn2REjCHfm9MNS"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/1_1_486807_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "IB80p/bim29+9BytwZam+A/AOv/nqjCXKVHXeJx85Jg=",
+                            "rand": "rSVZHZLQRuCudNLV6+d2IE/JHK0szdWybJwx26UZcMA=",
+                            "encrypt": 1,
+                            "duration": "2765.4465",
+                            "rate": "952.322",
+                            "randInit": "zdMn2REjCHfm9MNS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "57846",
+            "name": "XSS代码审计及绕过",
+            "courseId": "20805",
+            "sections": [
+                {
+                    "id": "486806",
+                    "name": "【实验】XSS漏洞环境说明",
+                    "courseId": "20805",
+                    "url": "/20805/2_0_486806_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_0_486806_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "e6YQQ7GxoQ5oCJycHfu+hs+927cANn4kGV0+htyQH3w=",
+                            "rand": "EBdGZRI3Kzs+4Ggg7Z3yZ4OaDXcezfQ35SPSf7soB+g=",
+                            "encrypt": 1,
+                            "duration": "453.3464",
+                            "rate": "465.986",
+                            "randInit": "bmTKTS0Qm2dZhnkw"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_0_486806_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "tUrWTZwSzC6uDggSo45oJpBmEY7qukkgxNgcqbDP9L4=",
+                            "rand": "amRUhtnCpBZDdK6Qcos/62tWOxMxFMwc6VcWvgr8AQY=",
+                            "encrypt": 1,
+                            "duration": "453.3264",
+                            "rate": "723.042",
+                            "randInit": "bmTKTS0Qm2dZhnkw"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_0_486806_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HioiZIvQ0X5Ce8AwK1QqRVDl9wyEccc0zq3tRt9M2GM=",
+                            "rand": "R2KfokK+1ZTqsEUFS43vPRTBUOnvrmNArmTSlqgpguw=",
+                            "encrypt": 1,
+                            "duration": "453.3264",
+                            "rate": "981.019",
+                            "randInit": "bmTKTS0Qm2dZhnkw"
+                        }
+                    ]
+                },
+                {
+                    "id": "486805",
+                    "name": "【实验】XSS绕过初体验",
+                    "courseId": "20805",
+                    "url": "/20805/2_1_486805_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_1_486805_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "gZ+OCDsKJ49YxR9YBqLG+TZN40tGkhLDqjXm0vGEOp0=",
+                            "rand": "4Y+s7d7mCwhtfyb2yDxRDR0pSa3cEJehXDoaUGQxnnk=",
+                            "encrypt": 1,
+                            "duration": "517.2064",
+                            "rate": "472.602",
+                            "randInit": "SasbtW0H69tA0aW3"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_1_486805_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "cdYHGnlQSVdrd7wpir5TjBOrDkGAVtNgI4QyEGXlbtM=",
+                            "rand": "LVN0kNFbLtMmTI3NkYnDm2ixh7u8nXGU9gGTQ/H80pw=",
+                            "encrypt": 1,
+                            "duration": "517.2245",
+                            "rate": "735.491",
+                            "randInit": "SasbtW0H69tA0aW3"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_1_486805_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HkO7zBTn7UIS3AbRWaA9pO4N5Umdgpo023JprKBY+ic=",
+                            "rand": "fTVjxVAfNFqQch85gXO5QhwGZSX7xg7v7o2Mcwfh2bc=",
+                            "encrypt": 1,
+                            "duration": "517.2064",
+                            "rate": "999.406",
+                            "randInit": "SasbtW0H69tA0aW3"
+                        }
+                    ]
+                },
+                {
+                    "id": "486804",
+                    "name": "【实验】XSS事件触发绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_2_486804_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_2_486804_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "YXQNfSNwFMIvNisHdaJG1LNgPZlnan1e+H8Z05aKadI=",
+                            "rand": "SYxos1I24AqxA7aLlBO7eoaoL5cssJSXHs5AzYxcVt4=",
+                            "encrypt": 1,
+                            "duration": "458.8864",
+                            "rate": "483.909",
+                            "randInit": "nf8ZFhZerZDNnPXn"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_2_486804_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "/NSnI5GYCpKiJ/N7jOAqMOOL1IQHiRDOjne9l/fQoy4=",
+                            "rand": "QGopP94JIlMp0blwfOwMUcVc68lNVNE7Un2lRL8wksk=",
+                            "encrypt": 1,
+                            "duration": "458.8864",
+                            "rate": "749.672",
+                            "randInit": "nf8ZFhZerZDNnPXn"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_2_486804_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Tt64SUxJ1F9AAz/0jFVIpSSUC7zGas0z9NBhJSAnpN0=",
+                            "rand": "xI9oHgOCchSHf6EgUaB1GAZNc+6pY7fuMrELegqu0a4=",
+                            "encrypt": 1,
+                            "duration": "458.8864",
+                            "rate": "1016.224",
+                            "randInit": "nf8ZFhZerZDNnPXn"
+                        }
+                    ]
+                },
+                {
+                    "id": "486803",
+                    "name": "【实验】XSS语法逃逸",
+                    "courseId": "20805",
+                    "url": "/20805/2_3_486803_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_3_486803_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "hLaZWgS7dWYsoTNKg/p2Qs32vEw5l4tX6UexwwMoo30=",
+                            "rand": "rdcMK8pGFN0j/xHeHdSxvIfdqkXoOIyAykK9bPhpVI0=",
+                            "encrypt": 1,
+                            "duration": "301.7664",
+                            "rate": "468.853",
+                            "randInit": "kRTzzmAPwfE0rwWJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_3_486803_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "OdxbjzZkvo4g8NYlgNXULY0GINjYZqo+Bmi5mznq00I=",
+                            "rand": "UJN23fZbmXAbZmZ6OfEV4zUNnhzs2Ytox2VoLMO/gWQ=",
+                            "encrypt": 1,
+                            "duration": "301.7665",
+                            "rate": "727.776",
+                            "randInit": "kRTzzmAPwfE0rwWJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_3_486803_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "0PtZGE5nLJEHXCIXTjiX/hw+R+fXX/DN9Uio/Z9sVmQ=",
+                            "rand": "tajT8j8AokrPXh7p6Xm/uj0haILYoyshiEKdahuNy7c=",
+                            "encrypt": 1,
+                            "duration": "301.7664",
+                            "rate": "986.45",
+                            "randInit": "kRTzzmAPwfE0rwWJ"
+                        }
+                    ]
+                },
+                {
+                    "id": "486802",
+                    "name": "【实验】XSS白名单绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_4_486802_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_4_486802_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "UZs5s4f7f0mDesSrN/OERMZJcLlVF7Vz2P94MQdBTdM=",
+                            "rand": "iO8V1JPkzXc8aQ9ClV2SpQoIKAip1bgGjLRi5u+BkMo=",
+                            "encrypt": 1,
+                            "duration": "374.2464",
+                            "rate": "478.242",
+                            "randInit": "H2dMx2GAsJxYNXAP"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_4_486802_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "zgdf+5sk1RjW/pJaeE9c8/DN0MIRGaULNfIGcciKhTA=",
+                            "rand": "JyKhB1xbYeJwtv1ilBU9WA61RVHm9SVZLi9jgJnC47s=",
+                            "encrypt": 1,
+                            "duration": "374.2464",
+                            "rate": "747.578",
+                            "randInit": "H2dMx2GAsJxYNXAP"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_4_486802_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ryNFYc9MEefwZut5Pui0cPd+1DxjAbApo3BDdzQmQXc=",
+                            "rand": "bGr1pdzLDZ8Ebb68Pdj1vHy5oExJZDM1rUVDUZw6ZW8=",
+                            "encrypt": 1,
+                            "duration": "374.2592",
+                            "rate": "1011.277",
+                            "randInit": "H2dMx2GAsJxYNXAP"
+                        }
+                    ]
+                },
+                {
+                    "id": "486801",
+                    "name": "【实验】HREF属性绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_5_486801_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_5_486801_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "S0S3i+b7tNswmxJdMEMcIps5SoxsqXAaMhuGopvXJ6Q=",
+                            "rand": "AxV3eBuDUQExnmFRiCP+VtwZmPZJG7bHgAWrysx+hhI=",
+                            "encrypt": 1,
+                            "duration": "368.4464",
+                            "rate": "474.112",
+                            "randInit": "2TebJz0pm4km5cmK"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_5_486801_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "uq51jFkLhHaHUBRRi/CAHyMv94CHjnKR45yOaw1SbWQ=",
+                            "rand": "E8bo6UcOw31F7FqRb3QyiUBoObcMrmSLbkdW7LaGHFw=",
+                            "encrypt": 1,
+                            "duration": "368.4464",
+                            "rate": "736.728",
+                            "randInit": "2TebJz0pm4km5cmK"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_5_486801_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Mf8jTSigpofPiARr2XAaU3KTMBnH/dkCinM3l6GBuKs=",
+                            "rand": "NRC6D0Dbll/joWHcC9P6XpofsIpP7q6nnrLhFKv66cw=",
+                            "encrypt": 1,
+                            "duration": "368.4464",
+                            "rate": "999.331",
+                            "randInit": "2TebJz0pm4km5cmK"
+                        }
+                    ]
+                },
+                {
+                    "id": "486800",
+                    "name": "【实验】XSS双写绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_6_486800_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_6_486800_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "frC8YjT7zJ1T5UUpzNYRLwH1uJlM4CIVasjdLGhYyaA=",
+                            "rand": "k+xG9xxWUuWxnD+X7CkH5dxht2ZMj2fUM/fhMbRSnTs=",
+                            "encrypt": 1,
+                            "duration": "325.4464",
+                            "rate": "477.643",
+                            "randInit": "GXCSYtp0BJDeYhCi"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_6_486800_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "5q8RWxEXBKDwrpFSALSMt/xMKGw1uqV78Jyo1xKlOJc=",
+                            "rand": "+BseFx+EqpDX/6TZiXZ5uirNiCx5p9IzVLAL4i8KtUw=",
+                            "encrypt": 1,
+                            "duration": "325.4464",
+                            "rate": "738.61",
+                            "randInit": "GXCSYtp0BJDeYhCi"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_6_486800_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "DTpxtKvMw7/srXeremIuUP6zU086x2mTjEQdmqwN5H0=",
+                            "rand": "l6t6THZ60YAIqyAz0uG36jH+QmlqX+Lt9pcWRmuPWi0=",
+                            "encrypt": 1,
+                            "duration": "325.4464",
+                            "rate": "1003.635",
+                            "randInit": "GXCSYtp0BJDeYhCi"
+                        }
+                    ]
+                },
+                {
+                    "id": "486799",
+                    "name": "【实验】HTML实体编码绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_7_486799_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_7_486799_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "mUkCPMiPr4ZUCbUk2JsPFRjlWzKRMACcBXK+HOFhyeQ=",
+                            "rand": "iZIYHXdQF1Vpbl8bfaFJyi9lg/2MfG+wSxALM+lsqaQ=",
+                            "encrypt": 1,
+                            "duration": "732.3264",
+                            "rate": "412.047",
+                            "randInit": "wMzbTb3c0Qi4NWYA"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_7_486799_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "i0ZlF2zrzV9ZyTXsXKq0L3UZslvumed5FWZ5mT4f+lM=",
+                            "rand": "mBN8JvU3k8PEs7FSBZEUaxs0VnlIXLPlYWjcCVsbido=",
+                            "encrypt": 1,
+                            "duration": "732.3264",
+                            "rate": "621.318",
+                            "randInit": "wMzbTb3c0Qi4NWYA"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_7_486799_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "/scGJDNmSeRcdNdisWL3mqzDxs7vomcGsthgQa7EiHE=",
+                            "rand": "Tn6h/pCBBmGbfVmEVUzqyI1bPjXmVrC0EIw+F23f2h4=",
+                            "encrypt": 1,
+                            "duration": "732.3342",
+                            "rate": "834.279",
+                            "randInit": "wMzbTb3c0Qi4NWYA"
+                        }
+                    ]
+                },
+                {
+                    "id": "486798",
+                    "name": "【实验】特殊场景逻辑绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_8_486798_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_8_486798_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Ozz7qo/qQiH3NPpMGb2jTtVU4lWNJUFEparfssedWck=",
+                            "rand": "0Nkyt33SwWrv896hZFiqpaxjMcAxMfGoPsVHK/4OVxQ=",
+                            "encrypt": 1,
+                            "duration": "353.7264",
+                            "rate": "487.885",
+                            "randInit": "k4GNAYRS3c43bk3d"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_8_486798_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "MWd2ugnLSr+JhCJLbBZX5xz4PVArsHZNcQKRSzJb4OU=",
+                            "rand": "VSavqKJ49dOLaxpowjB9uH90vSSYV68yQgrO3AFXdzw=",
+                            "encrypt": 1,
+                            "duration": "353.7264",
+                            "rate": "761.531",
+                            "randInit": "k4GNAYRS3c43bk3d"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_8_486798_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "2BG6HJw9hW5alMWRcRlmiTTOrdJ6+zsxi8JZAD6yeHg=",
+                            "rand": "WfVSQnZg/WQolu6EgnXCoAj52wEVY8a91G5vHGbPjb8=",
+                            "encrypt": 1,
+                            "duration": "353.7264",
+                            "rate": "1033.052",
+                            "randInit": "k4GNAYRS3c43bk3d"
+                        }
+                    ]
+                },
+                {
+                    "id": "486797",
+                    "name": "【实验】利用隐藏字段绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_9_486797_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_9_486797_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "i3qbW7d/4qH37TFxaLQo94eLlnEss9hsVjwl5ieNVCQ=",
+                            "rand": "bgGrET/yLTCTbvdi/T02lGN+Cl3gSgcdBaGsaGQ0ZGo=",
+                            "encrypt": 1,
+                            "duration": "417.9664",
+                            "rate": "454.053",
+                            "randInit": "sr0fctj8p069FMhR"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_9_486797_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "x3/L/ovge9vVb30b8UvYaUU1VdtKDTk2x6/TFS0yeug=",
+                            "rand": "pID4a80d0xHzR8VBttMgWKBikLAWZb5AT/A3yXvMGtc=",
+                            "encrypt": 1,
+                            "duration": "417.9824",
+                            "rate": "709.522",
+                            "randInit": "sr0fctj8p069FMhR"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_9_486797_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "EhFKOsqXnldrrS0v1YS46oK0aNd9cSZ58GUhhHkKeMQ=",
+                            "rand": "ZgVqy75aVFePiei8RoLe8Bzynqyz69U3gexRZh+5hUI=",
+                            "encrypt": 1,
+                            "duration": "417.9664",
+                            "rate": "957.797",
+                            "randInit": "sr0fctj8p069FMhR"
+                        }
+                    ]
+                },
+                {
+                    "id": "486796",
+                    "name": "【实验】HTTP头部XSS",
+                    "courseId": "20805",
+                    "url": "/20805/2_10_486796_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_10_486796_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "SmDp6Cp32SaXT+BNw1gTPSjj+uhMCcXtb+cCQq7arH8=",
+                            "rand": "QaLlRIN2J72Hg89n4GgMQDxt/hajNciJqdQp13tQZzw=",
+                            "encrypt": 1,
+                            "duration": "1285.5265",
+                            "rate": "466.139",
+                            "randInit": "jFsdEbK9nexSjW5G"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_10_486796_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "yglh82OZCXpaN/Lx/pV9pyETUHcm9kSqDxCSglguuT4=",
+                            "rand": "i9/MScJU6iWDet0Ndl4XuzaQ+rxmCbjeIi00vM7zEow=",
+                            "encrypt": 1,
+                            "duration": "1285.5265",
+                            "rate": "723.149",
+                            "randInit": "jFsdEbK9nexSjW5G"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_10_486796_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "2fyAyPLzai+rnC4lwpMpXiPhD+1rLhyM3FDcMW0D5tM=",
+                            "rand": "R6xkn7yqrNhyqTNSjTjfeik3CwtUdLx8KAsafsIfT0M=",
+                            "encrypt": 1,
+                            "duration": "1285.5265",
+                            "rate": "980.037",
+                            "randInit": "jFsdEbK9nexSjW5G"
+                        }
+                    ]
+                },
+                {
+                    "id": "486795",
+                    "name": "【实验】Angularjs绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_11_486795_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_11_486795_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "gXsz84jGcOGiHKGYro42hcjMsUdOjtSkP6EDWeg+gpU=",
+                            "rand": "YO0TQHTp4OKZDvdxQPwJoiUTzITgXBW99ILpAJqxJfw=",
+                            "encrypt": 1,
+                            "duration": "454.2464",
+                            "rate": "449.822",
+                            "randInit": "MpZNSpjhBkaAiSZp"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_11_486795_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "3xRYe+GmxPeiIswiET0+dR2mToceCb+0q74QzrzamCg=",
+                            "rand": "nr0CbKaevXMpaIwRkxafNmiE5FBmcPLoS9CZu4ARQeA=",
+                            "encrypt": 1,
+                            "duration": "454.2464",
+                            "rate": "694.918",
+                            "randInit": "MpZNSpjhBkaAiSZp"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_11_486795_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Xle7ZmuhuZcFkKEPF5d12bIfdqKMn4g06xCKtSPkezE=",
+                            "rand": "YmUjisDNOR/JadQ8E8bSZrD9hQ9UGDqOXYHm04R+ACE=",
+                            "encrypt": 1,
+                            "duration": "454.2464",
+                            "rate": "941.052",
+                            "randInit": "MpZNSpjhBkaAiSZp"
+                        }
+                    ]
+                },
+                {
+                    "id": "486794",
+                    "name": "【实验】利用HTML语法特性绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_12_486794_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_12_486794_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ezM74mzY4xSQVrdK8EVbcHJEGuK4KOC9tR9zmCXVNG0=",
+                            "rand": "Q+1G7DkUZ3c8md/dEvLTgVnci+x+goE/cSoEJuK2ObM=",
+                            "encrypt": 1,
+                            "duration": "316.2464",
+                            "rate": "479.934",
+                            "randInit": "6DFWpFamkGCD9FeH"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_12_486794_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "OakdbSX8LDh6OfqWRjvJw/sty7joIfUATIFpbmlhn9k=",
+                            "rand": "ugTPiGrYZkfJFwHBz9vwR0ZCXFnx8NGyoX6hXiZnEGw=",
+                            "encrypt": 1,
+                            "duration": "316.2558",
+                            "rate": "748.809",
+                            "randInit": "6DFWpFamkGCD9FeH"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_12_486794_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "fG0NrecX/EIwXHDFua8nj0lCGWVB70rKJYv4PVccLug=",
+                            "rand": "30uhJ65gAxYZhryy5w9TL8UrXvdgZ2e7qZnPxPVkhMw=",
+                            "encrypt": 1,
+                            "duration": "316.2464",
+                            "rate": "1017.019",
+                            "randInit": "6DFWpFamkGCD9FeH"
+                        }
+                    ]
+                },
+                {
+                    "id": "486793",
+                    "name": "【实验】可控变量绕过",
+                    "courseId": "20805",
+                    "url": "/20805/2_13_486793_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_13_486793_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "zWor5oetwuRBA8xMW1hmIPQdQv9qRSxyBxO1UzTob9U=",
+                            "rand": "fN32ezSsgBoRD0+H9f6SoHiUaeUMHDjB4+e2o/GPzZg=",
+                            "encrypt": 1,
+                            "duration": "211.3264",
+                            "rate": "421.166",
+                            "randInit": "B6d4NTd5edJ0sWMR"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_13_486793_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "JhHqx+AY3T98ibiKeTiOxXUSvB2Cx2vIGlFlUa1Ht2o=",
+                            "rand": "PKI7bg9kT0vlJSwfi7IhYQ1RZYKri5JFWMAj9hrCNFI=",
+                            "encrypt": 1,
+                            "duration": "211.3264",
+                            "rate": "645.493",
+                            "randInit": "B6d4NTd5edJ0sWMR"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_13_486793_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "3XEfXlLfJ3/249n3+zrCLqkyGOfy1FgF2SWkAwBgm8I=",
+                            "rand": "sRWci0WRCOMi7J6TAOz/tUP3ZPzUtyZ53EACPj5JmpY=",
+                            "encrypt": 1,
+                            "duration": "211.3264",
+                            "rate": "870.63",
+                            "randInit": "B6d4NTd5edJ0sWMR"
+                        }
+                    ]
+                },
+                {
+                    "id": "486792",
+                    "name": "【实验】XSS绕过测验一",
+                    "courseId": "20805",
+                    "url": "/20805/2_14_486792_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_14_486792_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "FDiZDg1ecVCgX13MCpFe5VuytvNOM1mvFGuXMe2t51Q=",
+                            "rand": "htiaO+WW8CPqvVu2uOVHbQN65lWZKqCrla7+hU0sSnM=",
+                            "encrypt": 1,
+                            "duration": "1675.0065",
+                            "rate": "460.107",
+                            "randInit": "Ndc3RNZN5Ew4NSdr"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_14_486792_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "RDP9jaykHe4imvyxT1LegUafIDS7U5gknmrnUNKkR4o=",
+                            "rand": "w3FqEQvuV+pe+ferWZ7+RgU7SR3xYmzJiROD5UGCH60=",
+                            "encrypt": 1,
+                            "duration": "1675.0065",
+                            "rate": "711.334",
+                            "randInit": "Ndc3RNZN5Ew4NSdr"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_14_486792_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "A6fqQ125z0V0s303Q+8yB3NdLHO92uCt7oad69ACg7E=",
+                            "rand": "tMNVU2fXf5WhhQK71m5L2gd67SZ/kip5xUuw/sH6eNs=",
+                            "encrypt": 1,
+                            "duration": "1675.0065",
+                            "rate": "960.778",
+                            "randInit": "Ndc3RNZN5Ew4NSdr"
+                        }
+                    ]
+                },
+                {
+                    "id": "486791",
+                    "name": "【实验】XSS绕过测验二",
+                    "courseId": "20805",
+                    "url": "/20805/2_15_486791_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/2_15_486791_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "tZRcfJ6Kr7AYy6zQ+IWnQkpfKoLpsO1U/dS6D1EUwtM=",
+                            "rand": "EN48kQoWFu/NTDgQsyzTSNu5P1hq2HKqzGQrzPvsVxY=",
+                            "encrypt": 1,
+                            "duration": "642.6464",
+                            "rate": "475.928",
+                            "randInit": "552KdA6KPxYWtmtK"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/2_15_486791_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "sxNQNtnhemIbSbR+pjWJCFXkUnjsBbUOsoCL5ox1mw4=",
+                            "rand": "Ql+Hh8JyF8sKUaIXivA6FeWwl7YtMvH3BFTc4bKjH1I=",
+                            "encrypt": 1,
+                            "duration": "642.6464",
+                            "rate": "741.016",
+                            "randInit": "552KdA6KPxYWtmtK"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/2_15_486791_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "R148G0O+SFbFe1mn3dr70M1tzqeBAMt1Y1vuJw+FnG4=",
+                            "rand": "SvmLt1XUdY/84I9d+JRwTOkKcyrUOzpuIw3XNBHEIZs=",
+                            "encrypt": 1,
+                            "duration": "642.6464",
+                            "rate": "1005.875",
+                            "randInit": "552KdA6KPxYWtmtK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "57850",
+            "name": "XSS漏洞防御",
+            "courseId": "20805",
+            "sections": [
+                {
+                    "id": "486790",
+                    "name": "【理论】XSS漏洞防御",
+                    "courseId": "20805",
+                    "url": "/20805/3_0_486790_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/3_0_486790_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Vv3UEF6fkqkIJioJRAvgC5i448zJqn/eOgTifO4eAjI=",
+                            "rand": "DghyM2NHijtTWdnoj5yzahfgZyDTJSmlGC0u7JKB8TI=",
+                            "encrypt": 1,
+                            "duration": "842.4465",
+                            "rate": "437.798",
+                            "randInit": "hdC6e3FT0pfr500a"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/3_0_486790_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Y0viONceMn8xggorKfJ2WM3S6cUEKqLtpCLtsqCZ0v8=",
+                            "rand": "hSYwmuldcojrZT+xko8g2xn5CJZjKRXz3rTBXJkesr4=",
+                            "encrypt": 1,
+                            "duration": "842.4465",
+                            "rate": "665.072",
+                            "randInit": "hdC6e3FT0pfr500a"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/3_0_486790_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "lYQ/yYW1HhMxN2a8szf6UO9tycuW3FdAgUtLpyT7D3s=",
+                            "rand": "YCkE+Jrswe+bFdV8cU67EyUZveMPYqFiSJmfU0NCVw4=",
+                            "encrypt": 1,
+                            "duration": "842.4465",
+                            "rate": "901.323",
+                            "randInit": "hdC6e3FT0pfr500a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "99890",
+            "name": "结课考试",
+            "courseId": "20805",
+            "sections": [
+                {
+                    "id": "808635",
+                    "name": "结课考试",
+                    "courseId": "20805",
+                    "url": "/20805/4_0_808635_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/20805/4_0_808635_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "MNnRU2yJxI5agRPK8VhtgWU0Lc0S0viZEzQLaIRxXf8=",
+                            "rand": "0Xtc9dGCwHZL1GE4vWrIVlrmh2pD90meDEmoyybu4Fk=",
+                            "encrypt": 1,
+                            "duration": "729.1664",
+                            "rate": "311.646",
+                            "randInit": "PFQY3eTeRJSpiXZJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/20805/4_0_808635_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ez/rvwPAxxzDcL+LJHKl9PbS9efwG3i+IP3tKJoADTU=",
+                            "rand": "AWxI/PEeBj7bz9/yS6M4hPLJwVX2MH95C25vmqK0BCc=",
+                            "encrypt": 1,
+                            "duration": "729.1664",
+                            "rate": "353.173",
+                            "randInit": "PFQY3eTeRJSpiXZJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/20805/4_0_808635_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "f4Fo2OSIv1POZHtMSRr2BG99UR+tpmu0zPxa2VyuMoU=",
+                            "rand": "QOAdz1NenrzEYr8+Y6MzUxBFdacMabdWiyez8NT0Vv8=",
+                            "encrypt": 1,
+                            "duration": "729.1984",
+                            "rate": "390.246",
+                            "randInit": "PFQY3eTeRJSpiXZJ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
