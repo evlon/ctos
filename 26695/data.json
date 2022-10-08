@@ -1,0 +1,612 @@
+{
+    "id": "26695",
+    "name": "WebShell管理工具使用（冰蝎、菜刀）及内网渗透",
+    "lecturer": "①Web安全工程师 ②网络安全工程师 ③渗透测试工程师 ④软件开发工程师 ⑤安全运维工程师 6⃣️小白",
+    "descriptionText": "掌握Webshell管理工具的使用，以此为跳板进行内网渗透",
+    "chapters": [
+        {
+            "id": "82977",
+            "name": "WebShell管理工具介绍",
+            "courseId": "26695",
+            "sections": [
+                {
+                    "id": "685519",
+                    "name": "【理论】Web后门管理工具介绍",
+                    "courseId": "26695",
+                    "url": "/26695/0_0_685519_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/0_0_685519_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "b9mR5cwXZxRXFHR55RpKJAYDZ+0vEAlU+jTe61GtEAA=",
+                            "rand": "l5JS9eNHkBo+65f/bfGaE3IO5emYcD9ZU/75wFaOWfg=",
+                            "encrypt": 1,
+                            "duration": "1737.9664",
+                            "rate": "331.255",
+                            "randInit": "9ji3MW6PRwxrcjZX"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/0_0_685519_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "KQ+orlPxspW58l3SrkquZmGXxbPYQpeoWUby42yKqMY=",
+                            "rand": "ccsGytUVXxzNz+ZKtQDshv/GJqlFoVrAL91i7N0Rs8I=",
+                            "encrypt": 1,
+                            "duration": "1737.9904",
+                            "rate": "505.153",
+                            "randInit": "9ji3MW6PRwxrcjZX"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/0_0_685519_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "tI9ZzCXkizvngc860zL7ZowSQ+u99PH4R4McAyFhDWw=",
+                            "rand": "dBQuJ1wJjFg+WVROYPKjfmKjTQ969pYhLBZh5J0lDlk=",
+                            "encrypt": 1,
+                            "duration": "1737.9664",
+                            "rate": "690.813",
+                            "randInit": "9ji3MW6PRwxrcjZX"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82978",
+            "name": "菜刀工具使用",
+            "courseId": "26695",
+            "sections": [
+                {
+                    "id": "685518",
+                    "name": "【理论】菜刀配合Kali-Metasploit进行提权",
+                    "courseId": "26695",
+                    "url": "/26695/1_0_685518_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/1_0_685518_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "SXN7b5PkXkwooVpMPRl6UNv0p4qHPqriNBoNyASvx7Q=",
+                            "rand": "3dVpy4UIWowkuLDbYjMEFQOtkw8QFZxXtZqvRwnRaZk=",
+                            "encrypt": 1,
+                            "duration": "339.9664",
+                            "rate": "282.908",
+                            "randInit": "tdTQAyKGrMCeABi8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/1_0_685518_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "6Rw8cUkpcqK/U75AXVEukGOaUzC0A7E3/EYuFaL6m/w=",
+                            "rand": "tWoycsTmYOabcjXsPINVPIfvjm7EXiR264Zg9SHbMUg=",
+                            "encrypt": 1,
+                            "duration": "339.9664",
+                            "rate": "405.558",
+                            "randInit": "tdTQAyKGrMCeABi8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/1_0_685518_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Dc8tOh9dVAJnar9H07kOrEBnhd+KUnNmFJ+HY4/jM6o=",
+                            "rand": "PgpJS4gkHC666XNE6EoWeocjBkK3biC9aVNlzK/9Vas=",
+                            "encrypt": 1,
+                            "duration": "339.9664",
+                            "rate": "611.675",
+                            "randInit": "tdTQAyKGrMCeABi8"
+                        }
+                    ]
+                },
+                {
+                    "id": "685517",
+                    "name": "【试验】菜刀配合Kali-Metasploit提权-环境搭建",
+                    "courseId": "26695",
+                    "url": "/26695/1_1_685517_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/1_1_685517_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "UaSEFz2BMS2YFOQwv0/usqgVbDFP5G0H5siJs662Gog=",
+                            "rand": "GL2gNZFUBdNGofK38sT9gW/IA6YmGzBFIdoDgo9xc5U=",
+                            "encrypt": 1,
+                            "duration": "675.5200",
+                            "rate": "623.356",
+                            "randInit": "rTNh2pJGAH9Re89C"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/1_1_685517_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "S4hpJU/0tzwvRJC3gWBr/aDe32hEW5k7aJY16wzY0GY=",
+                            "rand": "WQfelEkP3k1NFi03NdpaIEUsRpke8MkQc1rrE8elyqo=",
+                            "encrypt": 1,
+                            "duration": "675.5200",
+                            "rate": "979.523",
+                            "randInit": "rTNh2pJGAH9Re89C"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/1_1_685517_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "CNyE2/Dd/XTdhKR1cpkwDIH1vk0wgMTPLJhBhaBps9o=",
+                            "rand": "O0GjfhKD3fK5SBdp0KqI0P1iiOL8s62N78p8KH5aXs4=",
+                            "encrypt": 1,
+                            "duration": "675.5200",
+                            "rate": "1330.928",
+                            "randInit": "rTNh2pJGAH9Re89C"
+                        }
+                    ]
+                },
+                {
+                    "id": "685516",
+                    "name": "【试验】菜刀配合Kali-Metasploit进行提权",
+                    "courseId": "26695",
+                    "url": "/26695/1_2_685516_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/1_2_685516_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "3MQXYeaLVNczFwpJcgPGmPjfrGbSQ+51tcAxAC+Ase4=",
+                            "rand": "r+VOKQrEyQKSVzhb9/ratoGySie4ascvnfpOHfurSAw=",
+                            "encrypt": 1,
+                            "duration": "1892.0548",
+                            "rate": "622.282",
+                            "randInit": "HF2yGG8jNiE7bAj5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/1_2_685516_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "NemV5LDPfG0TFOwM1d7t2dw4kCxFXNnYlwtTwjHU8iY=",
+                            "rand": "1MTtZrxDIZYnXgEqhrZIHQIIEO+ii/jJIgYWkKWjksg=",
+                            "encrypt": 1,
+                            "duration": "1892.0548",
+                            "rate": "977.624",
+                            "randInit": "HF2yGG8jNiE7bAj5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/1_2_685516_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "B6IhyhUMx4FGpKr+WaNDR1jb3jeaUtsEzP5vgWlMsuo=",
+                            "rand": "VO2aXsZZbJ21hvy/0UWvnh6hA7tlyGaZzLe+dEwIFcs=",
+                            "encrypt": 1,
+                            "duration": "1892.0464",
+                            "rate": "1356.216",
+                            "randInit": "HF2yGG8jNiE7bAj5"
+                        }
+                    ]
+                },
+                {
+                    "id": "685515",
+                    "name": "【试验】使用菜刀进行数据库提权",
+                    "courseId": "26695",
+                    "url": "/26695/1_3_685515_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/1_3_685515_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "PHnz/10uAIZnNlGr/CPQ0pVnLo+kMpkX3RL7pFKefAQ=",
+                            "rand": "Js0sEHfpRR8YA8wCQN5h9RQaRhPLa0RYIOJVV+JIoV8=",
+                            "encrypt": 1,
+                            "duration": "1324.7665",
+                            "rate": "800.203",
+                            "randInit": "FF00QxdJ7T4Mk3XW"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/1_3_685515_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "4ua+OCKneFRXYD5apOGTFrTLf9nl27q1yMSgD83CMJ8=",
+                            "rand": "zXXO0tDl3X+YyEuYwLqihdJjLK99+2D3GhYFSygtz+o=",
+                            "encrypt": 1,
+                            "duration": "1324.7665",
+                            "rate": "1298.068",
+                            "randInit": "FF00QxdJ7T4Mk3XW"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/1_3_685515_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HtitTIi58u1A3lfoQPo92T4rdBWiAjyj80EruN65dys=",
+                            "rand": "OkAtcZrLNRHiV+lV8uFL6qT3WwLkrmwCUOTYh0i5sVo=",
+                            "encrypt": 1,
+                            "duration": "1324.7665",
+                            "rate": "1632.654",
+                            "randInit": "FF00QxdJ7T4Mk3XW"
+                        }
+                    ]
+                },
+                {
+                    "id": "685514",
+                    "name": "【试验】菜刀的小知识总结",
+                    "courseId": "26695",
+                    "url": "/26695/1_4_685514_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/1_4_685514_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "wQCjdiQmH+VyCDkHnBIY4PCwN3Cc0mp1QMdlUrGwaNY=",
+                            "rand": "XluT1CVNsq4d2SI5IV7AqGdAn0F4NbTyNRlxMRU9fL4=",
+                            "encrypt": 1,
+                            "duration": "377.8000",
+                            "rate": "524.907",
+                            "randInit": "Z9ZnCFNkRjf4QpnM"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/1_4_685514_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "TWNDPBTGyYOsYsV88YNmSFs0BDFTh/1RQyPsS5HAzyg=",
+                            "rand": "NpTFjwscqbCOe+lu3KMW3e5/A0zALACpNk8/R8lxTZ0=",
+                            "encrypt": 1,
+                            "duration": "377.8000",
+                            "rate": "866.706",
+                            "randInit": "Z9ZnCFNkRjf4QpnM"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/1_4_685514_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "UT0KymXaXoLASiLX8TA7hTRFQZXuy6UTLzw8GDasOak=",
+                            "rand": "iqLc8v5PVOVF6OYFHl0uMso17kDo5W9WuQQ8Jn/ZL8g=",
+                            "encrypt": 1,
+                            "duration": "377.8000",
+                            "rate": "1167.395",
+                            "randInit": "Z9ZnCFNkRjf4QpnM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82979",
+            "name": "冰蝎3.0工具使用",
+            "courseId": "26695",
+            "sections": [
+                {
+                    "id": "685513",
+                    "name": "【试验】冰蝎使用环境搭建",
+                    "courseId": "26695",
+                    "url": "/26695/2_0_685513_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/2_0_685513_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "pKddVChkTPJI/FmuclFiZKnOBZLpDzT31U/AaV69RF0=",
+                            "rand": "7SiWbPi0+YK/t8D5Xi0huAwpraKDL73jkpdrusxYGqQ=",
+                            "encrypt": 1,
+                            "duration": "879.5200",
+                            "rate": "812.415",
+                            "randInit": "6yF7fpY9F5a72M3Z"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/2_0_685513_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ntPz03pW5pfUOxGAORELGeuquEsEGKOBEdSrickYqaU=",
+                            "rand": "og0dagot4+tU28jQSjQl5YG64Wg9s1Q9nRhog2XSMUY=",
+                            "encrypt": 1,
+                            "duration": "879.5200",
+                            "rate": "1300.108",
+                            "randInit": "6yF7fpY9F5a72M3Z"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/2_0_685513_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "J4iEzqWCqE3L/iDuopvP7SN6KHHWmW3UxAoVQz7hpOE=",
+                            "rand": "CBErs5PTw9goFHMsGNd7ZrtzckssR1BgOQ9eRAaAURY=",
+                            "encrypt": 1,
+                            "duration": "879.5200",
+                            "rate": "1618.026",
+                            "randInit": "6yF7fpY9F5a72M3Z"
+                        }
+                    ]
+                },
+                {
+                    "id": "685512",
+                    "name": "【试验】冰蝎反弹操作系统shell",
+                    "courseId": "26695",
+                    "url": "/26695/2_1_685512_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/2_1_685512_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "OeBhYfCxMRvh2/SNCOBVKl3tiD0hH/vF/i1Jnk8Dj54=",
+                            "rand": "RMkDmMTviIyEHgwVIMeBC0ebieZ3d9G3QSBV/1CtQgw=",
+                            "encrypt": 1,
+                            "duration": "1640.4464",
+                            "rate": "729.699",
+                            "randInit": "aQSmMTZPT3hjtSFk"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/2_1_685512_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "deKueTJNGSjIwnDnHPES3T+HwrAV5DeP5HLVSU3ISRk=",
+                            "rand": "19pQvTc7rfs7WyuqicLuAdUlN9uBjm4r1paEEx7MBqU=",
+                            "encrypt": 1,
+                            "duration": "1640.4464",
+                            "rate": "1181.352",
+                            "randInit": "aQSmMTZPT3hjtSFk"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/2_1_685512_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "LN+uFueQyKM3E4g9pxRBq/V3SM+3kIKNIhp+v1QcGrA=",
+                            "rand": "BLwD6lhLS3uynkVyjThbONtDm1/dziHiaMqMjbIHqsc=",
+                            "encrypt": 1,
+                            "duration": "1640.4464",
+                            "rate": "1507.18",
+                            "randInit": "aQSmMTZPT3hjtSFk"
+                        }
+                    ]
+                },
+                {
+                    "id": "685511",
+                    "name": "【试验】冰蝎VPS内网渗透-端口转发",
+                    "courseId": "26695",
+                    "url": "/26695/2_2_685511_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/2_2_685511_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "FpcL2tT9J/sb+saTA2jz+B0fzDSD67TC7eNU7wuUZXs=",
+                            "rand": "1rk78nqmVCb4NhO65rmRiK0+N1fTYpTpkBOO9Pm+Ugw=",
+                            "encrypt": 1,
+                            "duration": "1611.5200",
+                            "rate": "809.054",
+                            "randInit": "B0Q7xb38RMH6H5Qy"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/2_2_685511_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "WFIE0vfM+rMi7nXiDqBr/G7GckXLC/pjDwBdeEY4IJc=",
+                            "rand": "k/F9Gt6ByHhXjt5/nQfMk0EvHDktF9DTUW6nPyoA1hs=",
+                            "encrypt": 1,
+                            "duration": "1611.5200",
+                            "rate": "1317.419",
+                            "randInit": "B0Q7xb38RMH6H5Qy"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/2_2_685511_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "niHJii89SXzIZxxYaTLvyF2KBtBdT6hDK98auzYiW/Y=",
+                            "rand": "NPe6g+EvIneeO6db+lS1ojLDXwYpFa8NRyf/VliV/5Q=",
+                            "encrypt": 1,
+                            "duration": "1611.5200",
+                            "rate": "1663.954",
+                            "randInit": "B0Q7xb38RMH6H5Qy"
+                        }
+                    ]
+                },
+                {
+                    "id": "685510",
+                    "name": "【试验】冰蝎内网渗透-Socks5代理打穿内网",
+                    "courseId": "26695",
+                    "url": "/26695/2_3_685510_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/2_3_685510_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "S21nq+eSmf5/hq9xPGrEFPuk586TwZah9lCVh/iZWrE=",
+                            "rand": "vtl8BYe6ngvv8Rb2P8nJabWPaKawB/epFpg54zPpER4=",
+                            "encrypt": 1,
+                            "duration": "1788.5601",
+                            "rate": "708.89",
+                            "randInit": "Cw4jjTTRSXRf2xCQ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/2_3_685510_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "PTyKNaB3WTpFTP/A9U2jj2cFTmdnNMO28Nr/QlqYzG8=",
+                            "rand": "NhOpY5hCXtG/GlxsdftBBIYZLISqs94/WIqtWiDwx98=",
+                            "encrypt": 1,
+                            "duration": "1788.5601",
+                            "rate": "1136.845",
+                            "randInit": "Cw4jjTTRSXRf2xCQ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/2_3_685510_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "cVdQvOXMXGweY08n0OEzfrGLPMdVQ4XUnBDCSU9i3zU=",
+                            "rand": "X7HMwpixZpKyA0wgaSmruaGcI4gFzY5U0kv44y9DGJI=",
+                            "encrypt": 1,
+                            "duration": "1788.5601",
+                            "rate": "1489.111",
+                            "randInit": "Cw4jjTTRSXRf2xCQ"
+                        }
+                    ]
+                },
+                {
+                    "id": "685509",
+                    "name": "【试验】冰蝎内网渗透-冰蝎自带的Socks代理使用",
+                    "courseId": "26695",
+                    "url": "/26695/2_4_685509_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/26695/2_4_685509_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "y8RFd96VdCttJHuwYig+aAkI6hF9J8svQS/Kfotd880=",
+                            "rand": "LloLM5ZNExlwqGtZTYVDzU74DP20zci2PN5pKwFqua4=",
+                            "encrypt": 1,
+                            "duration": "631.5828",
+                            "rate": "626.639",
+                            "randInit": "csD5Azfb7yTFp2RA"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/26695/2_4_685509_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "skUCOwR103HTDwq5+Tbm0sPyeYM2+MmONz1ZOOeauZY=",
+                            "rand": "txble5zztZQmdQ18nxiiMLSbIjnQE68LlXijpn4nIjg=",
+                            "encrypt": 1,
+                            "duration": "631.5665",
+                            "rate": "1021.681",
+                            "randInit": "csD5Azfb7yTFp2RA"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/26695/2_4_685509_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "oZviNnn8k/sgkSCPmcW8a/+GepqlX/ZRmJvyaa41yNs=",
+                            "rand": "CdxRwdFI3agbA0K8fvqjuohM1GJ1XF6OXpAGuH01A0U=",
+                            "encrypt": 1,
+                            "duration": "631.5665",
+                            "rate": "1339.374",
+                            "randInit": "csD5Azfb7yTFp2RA"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
