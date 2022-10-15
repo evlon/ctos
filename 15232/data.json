@@ -1,0 +1,788 @@
+{
+    "id": "15232",
+    "name": "Electron实战（4）：API视频课程",
+    "lecturer": "electron程序员,node.js程序员,web程序员,javascript程序员,极客",
+    "descriptionText": "让学员学习Electron核心API的使用方法",
+    "chapters": [
+        {
+            "id": "309809",
+            "name": "第1章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "309809",
+                    "name": "为应用程序添加托盘图标和上下文菜单",
+                    "courseId": "15232",
+                    "url": "/15232/0_0_309809_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/0_0_309809_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "kURnfzaoyajRTo84I3U7PmXpI/LWIjDVvHMj6A/dASg=",
+                            "rand": "4SR5FwOU145tQgIkJomlHj2z1/vDpC8cbT5qdeks/kI=",
+                            "encrypt": 1,
+                            "duration": "520.3665",
+                            "rate": "455.503",
+                            "randInit": "7wG0TPy2tc33T8sk"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/0_0_309809_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "yBDbO2xkys5VltXdWwZ5Oz/XB03aJx7ISH3zqCHnTWM=",
+                            "rand": "IaFdMAUvskSaMNBJ41npkql7GgP0LnAfbireUi8+wSU=",
+                            "encrypt": 1,
+                            "duration": "520.3665",
+                            "rate": "663.36",
+                            "randInit": "7wG0TPy2tc33T8sk"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/0_0_309809_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ZUI1X/H4DfHFU7NcfHwDHe8o7rPd84vFhxn3Hitlnt4=",
+                            "rand": "eTqHlGlQBTSccIbuJf1YXETLxtxWV+rMh70ogWwFjUw=",
+                            "encrypt": 1,
+                            "duration": "520.3665",
+                            "rate": "713.581",
+                            "randInit": "7wG0TPy2tc33T8sk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "309808",
+            "name": "第2章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "309808",
+                    "name": "添加多个托盘图标",
+                    "courseId": "15232",
+                    "url": "/15232/1_0_309808_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/1_0_309808_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "gqsn72p2XhqY0d4XuQ6jgR0L2LXo8J825zJXDufjYh0=",
+                            "rand": "EdgnxfnpTXL4XJrzP4/eJfWtvC/w/Yund/9jaw2C9c0=",
+                            "encrypt": 1,
+                            "duration": "378.7664",
+                            "rate": "451.386",
+                            "randInit": "5AYyTdHDPm6APb6B"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/1_0_309808_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "nOZ/8eX0thBcmyZKIcxvyyVHhL9bMr42Dfr+d0sxUR4=",
+                            "rand": "wHpaeCtYDK8W/xIHJZI2ig9zf5jXpnPdaDGdtBxhxG8=",
+                            "encrypt": 1,
+                            "duration": "378.7664",
+                            "rate": "656.632",
+                            "randInit": "5AYyTdHDPm6APb6B"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/1_0_309808_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "pksmy8msIrj7gq86MLMZRSL7eeMTPYJyvdD7k/Nbr9M=",
+                            "rand": "8ffWVXqYIiWIQlADyBDouxZtCfz+4K9ZgrWfyUBJXXE=",
+                            "encrypt": 1,
+                            "duration": "378.7664",
+                            "rate": "707.077",
+                            "randInit": "5AYyTdHDPm6APb6B"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "309805",
+            "name": "第3章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "309805",
+                    "name": "托盘事件",
+                    "courseId": "15232",
+                    "url": "/15232/2_0_309805_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/2_0_309805_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "fiErKHJaVnvI3uevVOp61jzpbQVDI9TpVwr4z85FUTk=",
+                            "rand": "F/bHps0WOJFjD8O0P4wLIfy2E84OD2rZ9HxUDp1NhaY=",
+                            "encrypt": 1,
+                            "duration": "1062.8464",
+                            "rate": "458.377",
+                            "randInit": "zrPYA0FjehMbdW6K"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/2_0_309805_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "q9MjtrJUIKvCEaGT9R3Nh+FZrrz8Dv3cSm4rC4PZEoI=",
+                            "rand": "umNsH1MRl9xVprV1S9FsM5X/LwwCqbHonsGDOTYVnxY=",
+                            "encrypt": 1,
+                            "duration": "1062.8464",
+                            "rate": "662.132",
+                            "randInit": "zrPYA0FjehMbdW6K"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/2_0_309805_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "cUITZGrPfIP2IEBgM9Zfy8hfGaLCOzZh9LtjDQxTj0w=",
+                            "rand": "/HtdRBCKZ+lQILn+G25/8BuVUzyt9OMc/2PNT0L/rYs=",
+                            "encrypt": 1,
+                            "duration": "1062.8464",
+                            "rate": "703.527",
+                            "randInit": "zrPYA0FjehMbdW6K"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "309807",
+            "name": "第4章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "309807",
+                    "name": "托盘方法",
+                    "courseId": "15232",
+                    "url": "/15232/3_0_309807_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/3_0_309807_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "sPjsDcUfMXa8ubyJqXGDyYFfeHWelnkzTThPhJV1P2c=",
+                            "rand": "p5XIISBYj+YHgy/VJUJB6islloODNb3smJ1Vw2xsLGQ=",
+                            "encrypt": 1,
+                            "duration": "635.7664",
+                            "rate": "454.308",
+                            "randInit": "h0XbCh0eSBZ2cPiC"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/3_0_309807_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "m/R4ctPfDKuEMha6L0jbu4sHlMyYmVBbXVgmN/20aFc=",
+                            "rand": "+clzChfw0M0+ZTiWiKa0pT9m5b+x1zzcSZR6sr7zJsU=",
+                            "encrypt": 1,
+                            "duration": "635.7664",
+                            "rate": "650.806",
+                            "randInit": "h0XbCh0eSBZ2cPiC"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/3_0_309807_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "mPhzkTWOLY5QhEe0gkv+C2AYjYph1nBQ3kWAFet1BQA=",
+                            "rand": "AryuOIMAou6+xVXJRumz7cUlDjcExeZ44om9UnjWWR0=",
+                            "encrypt": 1,
+                            "duration": "635.7664",
+                            "rate": "691.365",
+                            "randInit": "h0XbCh0eSBZ2cPiC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "309806",
+            "name": "第5章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "309806",
+                    "name": "为Windows托盘图标添加气泡消息",
+                    "courseId": "15232",
+                    "url": "/15232/4_0_309806_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/4_0_309806_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "WwKHJegrfC2emLUlPIFcqfWxUDuUQE581NFMgUz1Cyk=",
+                            "rand": "EWTdexRMrvP4F1m4GB+IQx7YmHwXRvmRfZslwH00tPU=",
+                            "encrypt": 1,
+                            "duration": "535.3665",
+                            "rate": "451.874",
+                            "randInit": "CHfpfAb5y3Bke8zj"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/4_0_309806_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "5FLHAG9MtG2aaZ+Yip0kDnBJAy0/tP5NG97UZo4xxDc=",
+                            "rand": "fRAvtY+z39NEo8vzpVND0/EThAfe0p69HetaaBIH/3U=",
+                            "encrypt": 1,
+                            "duration": "535.3665",
+                            "rate": "648.423",
+                            "randInit": "CHfpfAb5y3Bke8zj"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/4_0_309806_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "NQvs0odRkm4Xs/Pgm7BzZ5s/wqe5ifC0dHX+E471nmk=",
+                            "rand": "HsdcpR6SZpbc9lEAFAG3AtTRfhoPsQvxzm6onmd+kkg=",
+                            "encrypt": 1,
+                            "duration": "535.3665",
+                            "rate": "691.992",
+                            "randInit": "CHfpfAb5y3Bke8zj"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "309804",
+            "name": "第6章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "309804",
+                    "name": "拖拽和显示图像",
+                    "courseId": "15232",
+                    "url": "/15232/5_0_309804_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/5_0_309804_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "u8M04bXQEBp7ij1eXsiZ5Xiy9pMVjXT2e5ZgLDQtB8A=",
+                            "rand": "WBPBCcNFMEijnS8MzNSMmA8gq6qy+bV4iLHtcpgDGmY=",
+                            "encrypt": 1,
+                            "duration": "365.1664",
+                            "rate": "462.036",
+                            "randInit": "dzESSDdYYMf3iBSW"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/5_0_309804_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "MSaFJ6EDkddYpG6ezKDnFhXHKDYVclI3Lz9WdHPZxUA=",
+                            "rand": "js0aQD86tZ7QQzYalOqJSZDYkBLu5bEbAJp5+D+2Xjk=",
+                            "encrypt": 1,
+                            "duration": "365.1664",
+                            "rate": "695.359",
+                            "randInit": "dzESSDdYYMf3iBSW"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/5_0_309804_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "TDvAAm70exZLuXejzbHWnv2H2v13xrKZNizrj6PSowE=",
+                            "rand": "2MfuLS4d8ApdbruABOHGE9iJds/qZVSYHRlduEV3X/4=",
+                            "encrypt": 1,
+                            "duration": "365.1664",
+                            "rate": "750.248",
+                            "randInit": "dzESSDdYYMf3iBSW"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "312604",
+            "name": "第7章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "312604",
+                    "name": "拖拽显示不同尺寸的图像",
+                    "courseId": "15232",
+                    "url": "/15232/6_0_312604_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/6_0_312604_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "OWnR5lqiFeROvfFeAMQAIjpFvlanBgyWmerSKpJrtvc=",
+                            "rand": "ySw7cuXEUP7patesZ0jfFBKgorc6Uod9hXHTD2Q+u00=",
+                            "encrypt": 1,
+                            "duration": "743.3665",
+                            "rate": "468.088",
+                            "randInit": "9tz8Kdr4hHBkYcW8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/6_0_312604_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "cu9fhsNEaYexb3VvtjJcBr8TjJxWqVGS5U6El6Q3X7E=",
+                            "rand": "3SZbhQD1PLIyU1jmVOZZv0tUqQCTELzfoypPozcwnZQ=",
+                            "encrypt": 1,
+                            "duration": "743.3665",
+                            "rate": "683.058",
+                            "randInit": "9tz8Kdr4hHBkYcW8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/6_0_312604_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "GaI6WhvoZso4uOIO2aG8++oEYMvwh/WvlzjhL3CxTSA=",
+                            "rand": "Ev/u7vGqtBTEOFZ+v+LeVHrshR0nwVQ5zQEWoxLBp0Y=",
+                            "encrypt": 1,
+                            "duration": "743.3665",
+                            "rate": "728.101",
+                            "randInit": "9tz8Kdr4hHBkYcW8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "312603",
+            "name": "第8章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "312603",
+                    "name": "拍照",
+                    "courseId": "15232",
+                    "url": "/15232/7_0_312603_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/7_0_312603_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "zZ7yUVLQAwacRQ0YBV2+XnHKEjD+a1Cbb9KRO0rH6JM=",
+                            "rand": "DmsU/vD8GvBBdYGfzumqs0yqU1NdrM+4Wqh4PLyxQjM=",
+                            "encrypt": 1,
+                            "duration": "816.1664",
+                            "rate": "468.667",
+                            "randInit": "zprNr54sSJrhWwbA"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/7_0_312603_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "psb+1Z5oUQwpuiVLzEhbwVc08ZnaeMOububBGMLUS1g=",
+                            "rand": "UkByoLX3psYaw8ZiE9167Tk1frjW/NJPFvSVHHQh/eM=",
+                            "encrypt": 1,
+                            "duration": "816.1664",
+                            "rate": "695.028",
+                            "randInit": "zprNr54sSJrhWwbA"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/7_0_312603_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "PXp4LF3uNaY6RDgJ3arHgQgX2B8nVu323YPe/uj+t64=",
+                            "rand": "9sxyH1Mp/Ebe16Kr730jlWvI2Wb5k7syuWcVyq/E1Jk=",
+                            "encrypt": 1,
+                            "duration": "816.1664",
+                            "rate": "740.522",
+                            "randInit": "zprNr54sSJrhWwbA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "314330",
+            "name": "第9章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "314330",
+                    "name": "根据当前操作系统类型定制样式",
+                    "courseId": "15232",
+                    "url": "/15232/8_0_314330_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/8_0_314330_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Kw2+YPa2k1Li7zCaZ7SE6dYnHtIFypMk/pltfQ8i3X0=",
+                            "rand": "R/5e0INyV7q5hO1G6FNQeuKwJAAVRVxZQnjv/PWSRfI=",
+                            "encrypt": 1,
+                            "duration": "886.4465",
+                            "rate": "459.703",
+                            "randInit": "naKK0CT36ykjQDF0"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/8_0_314330_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Byhpfcl2SCtWnnGvNGd2TlgEyJSRSRndOpB+mt4r1kY=",
+                            "rand": "SNmjQ5eERL8DqkuFn7C4IdozGAoNZ24ChR+U/CLFpfw=",
+                            "encrypt": 1,
+                            "duration": "886.4465",
+                            "rate": "672.181",
+                            "randInit": "naKK0CT36ykjQDF0"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/8_0_314330_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "hWge8McCeLAH6uvjmEkBuzM7X0S+N/4A4uY4tyH3arY=",
+                            "rand": "DeK0c3BtLmh70jOBib4YuhAdeFBFGxZCvMftmrZ1ZXg=",
+                            "encrypt": 1,
+                            "duration": "886.4465",
+                            "rate": "718.811",
+                            "randInit": "naKK0CT36ykjQDF0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "314329",
+            "name": "第10章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "314329",
+                    "name": "数据存储：用localStorage读写键值数据",
+                    "courseId": "15232",
+                    "url": "/15232/9_0_314329_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/9_0_314329_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "eN/V6TmBq5M2U4dUM2xcm+EkPmCLNQxoKAViMeHzkj4=",
+                            "rand": "kM3NYAwSNSd4hkFu3Mcx2IPQ6f2V9Nmsor4lR9pseEQ=",
+                            "encrypt": 1,
+                            "duration": "719.8464",
+                            "rate": "461.621",
+                            "randInit": "pYWJYssHtcANWjT8"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/9_0_314329_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Xt2X9Pw6QTRbPRIRhHrBG8kCSzdu8abPK3aXEuuh+oI=",
+                            "rand": "E0NCLV26970lpk2TYKg/ZufuDqWDUSxhxCd3fHH3F3Y=",
+                            "encrypt": 1,
+                            "duration": "719.8464",
+                            "rate": "680.038",
+                            "randInit": "pYWJYssHtcANWjT8"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/9_0_314329_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Re9eRgAlG3Iga2SOy8o75MtoAZB7RnYP8soW40UIycM=",
+                            "rand": "LfO9wJHe9m0loE4eRlu2uECS3Rw1puD57jiuavEzpl4=",
+                            "encrypt": 1,
+                            "duration": "719.8464",
+                            "rate": "739.221",
+                            "randInit": "pYWJYssHtcANWjT8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "315997",
+            "name": "第11章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "315997",
+                    "name": "数据存储：用JavaScript引擎操作SQLite数据库",
+                    "courseId": "15232",
+                    "url": "/15232/10_0_315997_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/10_0_315997_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "oSs2LZN5kKb16kOIm9dmOJSlR2NY3SQBXYQJULJWzPk=",
+                            "rand": "WS4wjscxf2Vq++gHtrsHbhcYvnrKwi5oySFr1J87gnM=",
+                            "encrypt": 1,
+                            "duration": "2114.8735",
+                            "rate": "458.302",
+                            "randInit": "ra4fYCzJXPSwW9xP"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/10_0_315997_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Ei2SfQ1zLfhRRUESzb3XBZNE4RmGe5iwR2+f+1Yk3fc=",
+                            "rand": "0xYiX+ST2oP5m/A6RKx91hmcxryL1bJC2QQ+L9TTkEA=",
+                            "encrypt": 1,
+                            "duration": "2114.8464",
+                            "rate": "663.843",
+                            "randInit": "ra4fYCzJXPSwW9xP"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/10_0_315997_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "tzmUN2zxxoVX/yOIxoHVJz8ooTSQJRS5GVpNzHJtSTs=",
+                            "rand": "UP5iDPI0S8tHxxhRrkFIlptB5U9t+7/m/ZOPvuHoANQ=",
+                            "encrypt": 1,
+                            "duration": "2114.8464",
+                            "rate": "703.524",
+                            "randInit": "ra4fYCzJXPSwW9xP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "315996",
+            "name": "第12章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "315996",
+                    "name": "数据存储：在Electron中编译sqlite3模块",
+                    "courseId": "15232",
+                    "url": "/15232/11_0_315996_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/11_0_315996_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "lBNn7Efd3q1T9csZFB9ER3/MoWs5Ygf4N67bNV8bpAo=",
+                            "rand": "6HymXAAia6+Qv5SmZ/1PPtbsPheVsgPVQSfLZ+mt1kA=",
+                            "encrypt": 1,
+                            "duration": "1061.5664",
+                            "rate": "451.469",
+                            "randInit": "Y3GdszFsTeFZxaw4"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/11_0_315996_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "eViF2XWdQe2UtZrm5MvkN0y98UY6rZDTykNQ+L+z71Q=",
+                            "rand": "Cq2Lvhb4yxpSTsNl3B8W7XV/0IeZQP/BTYbJeNE5iAc=",
+                            "encrypt": 1,
+                            "duration": "1061.5664",
+                            "rate": "652.396",
+                            "randInit": "Y3GdszFsTeFZxaw4"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/11_0_315996_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "2rXDQAj98yhKbCZ/8gtYIcdAZzE8i4gH8wzjBZ9XfuQ=",
+                            "rand": "WX8kAdunLXXcGQyJptgJZfKnw4GKf0YIXwk8cgAkz6o=",
+                            "encrypt": 1,
+                            "duration": "1061.5664",
+                            "rate": "693.977",
+                            "randInit": "Y3GdszFsTeFZxaw4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "809123",
+            "name": "第13章节",
+            "courseId": "15232",
+            "sections": [
+                {
+                    "id": "809123",
+                    "name": "结课考试",
+                    "courseId": "15232",
+                    "url": "/15232/12_0_809123_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/15232/12_0_809123_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Hpgn2zFJNR1HnppiA0Z0+0ikyA4NzDk8yGQwdixG4Uo=",
+                            "rand": "nAiIlBhEqk2V8Q56rTTq3/ry6Qg4xF880VrHJQzrY1w=",
+                            "encrypt": 1,
+                            "duration": "457.6465",
+                            "rate": "333.695",
+                            "randInit": "KnX5if0J4nT2PJyJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/15232/12_0_809123_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "aFXwohdRKOi7N3Bm1QLND4eOII1+B14JRrhzXU2G95Y=",
+                            "rand": "dq/4sz8XlFDRcfBA9YPzqKFCEG+qYSwrKBAfdY2/Byw=",
+                            "encrypt": 1,
+                            "duration": "457.6465",
+                            "rate": "424.123",
+                            "randInit": "KnX5if0J4nT2PJyJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/15232/12_0_809123_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ptIzse+eRRmXwMlBHQDXB7zEMqFiW8vBIX3xlaXBDiU=",
+                            "rand": "PzVEl5t/kagvNeHfSFzNJcKcqjwItiPtP3qqb5h9ir4=",
+                            "encrypt": 1,
+                            "duration": "457.6465",
+                            "rate": "494.015",
+                            "randInit": "KnX5if0J4nT2PJyJ"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
