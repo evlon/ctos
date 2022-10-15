@@ -1,0 +1,1700 @@
+{
+    "id": "5568",
+    "name": "“软件设计是怎样炼成的？”实战视频课程",
+    "lecturer": "软件设计师，用户体验设计师，程序员，系统架构师。",
+    "descriptionText": "理解什么是优秀的设计；学习从分析需求开始如何逐步做出实用的软件设计；学习架构设计、数据库设计、用户体验设计和详细设计的实战技巧。",
+    "chapters": [
+        {
+            "id": "7161",
+            "name": "软件设计是怎样炼成的？",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "92998",
+                    "name": "什么是漂亮的设计",
+                    "courseId": "5568",
+                    "url": "/5568/0_0_92998_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/0_0_92998_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "2uoMv3OEviorwC19DAP5/oVUSNnUckwe9uaDZChQrfI=",
+                            "rand": "kO6z2cUCxKjIJeRVVOhHrmnQzUtIFl+OYwLXVsKAzQc=",
+                            "encrypt": 1,
+                            "duration": "513.0464",
+                            "rate": "263.366",
+                            "randInit": "SjSSbdKEEXDy7weC"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/0_0_92998_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "194XPRZyxlsRhvASUWhrHGfzRbMhoRHFNkySFr73rRU=",
+                            "rand": "9d0bUMH2+c2mv9411+OPGfLFFzqIFOoy3YJulz30lso=",
+                            "encrypt": 1,
+                            "duration": "513.0464",
+                            "rate": "298.527",
+                            "randInit": "SjSSbdKEEXDy7weC"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/0_0_92998_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "36duFbLHQiiPBB1a8bPMqfvv4HlrCTGe3bqVyxJFjBg=",
+                            "rand": "piz90pcpLN9W/vo4IST7I3Flm7sDfmIlgzMJ8Hv/pzE=",
+                            "encrypt": 1,
+                            "duration": "513.0464",
+                            "rate": "330.175",
+                            "randInit": "SjSSbdKEEXDy7weC"
+                        }
+                    ]
+                },
+                {
+                    "id": "92999",
+                    "name": "四个案例四种“典型”",
+                    "courseId": "5568",
+                    "url": "/5568/0_1_92999_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/0_1_92999_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "g58cBnKy1nptUS0coLFM9YCIsPkZ9AVkbQW9Y11lO3g=",
+                            "rand": "210aBMeZUVFE11UNjcqy0hCFYqYqSwEFOE2MPQZaoyE=",
+                            "encrypt": 1,
+                            "duration": "1008.4064",
+                            "rate": "280.198",
+                            "randInit": "jjmYYR47CMD48C9M"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/0_1_92999_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "a18VIe8yC5ebtm8Nqgl7WiIWqa+pVMEjfPWXFKWK+OU=",
+                            "rand": "TJDNMR/tf86kc0WScfPj5BieE3v3lVeF4zTXrNY3JQ0=",
+                            "encrypt": 1,
+                            "duration": "1008.4064",
+                            "rate": "315.914",
+                            "randInit": "jjmYYR47CMD48C9M"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/0_1_92999_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "gPeHQDaZkBk2KCpwOSq1ff2bPufXRLJ9+xtwWvoIj98=",
+                            "rand": "bVAdPHprIfZdoK9BsVgs82/Orz1/QUaNhtGdLQWLfPY=",
+                            "encrypt": 1,
+                            "duration": "1008.4064",
+                            "rate": "348.505",
+                            "randInit": "jjmYYR47CMD48C9M"
+                        }
+                    ]
+                },
+                {
+                    "id": "93000",
+                    "name": "设计案例分析：某线上社区网站",
+                    "courseId": "5568",
+                    "url": "/5568/0_2_93000_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/0_2_93000_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "MTBM2qKjEbPX2P9OjR5DF5xu63ETM4cbWoQaJXK0Nus=",
+                            "rand": "5LGf4eAMnJ73wkmVgsgXsOs2/tLzIfMGxN3DY5hIz6w=",
+                            "encrypt": 1,
+                            "duration": "599.5264",
+                            "rate": "306.815",
+                            "randInit": "3SN5f9MTJcmWHmSC"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/0_2_93000_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "9EW+EtomH10D0/1E08RVTYSSON4ztYjyDe2RDDCc8uk=",
+                            "rand": "/MA/aDFOkXfy+ekbcXtGJq0U122ALnWLTjHElzP805U=",
+                            "encrypt": 1,
+                            "duration": "599.5264",
+                            "rate": "347.204",
+                            "randInit": "3SN5f9MTJcmWHmSC"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/0_2_93000_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Tj1f9BOaAUqwc5Y4XwkhLOQ72ck0Vw7ueX4olwa5bkY=",
+                            "rand": "RKIXw+/o7tKKtqz6LMMboquz2jhbi3aUmonPi8+0A0Y=",
+                            "encrypt": 1,
+                            "duration": "599.5843",
+                            "rate": "381.636",
+                            "randInit": "3SN5f9MTJcmWHmSC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7162",
+            "name": "必须首先学习的软件设计基础知识",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "93002",
+                    "name": "优秀设计从分析需求开始",
+                    "courseId": "5568",
+                    "url": "/5568/1_0_93002_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/1_0_93002_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "E7SKMRcxDCs0hmHIGcm+feqRq0/piUFXKBjwbePMLjw=",
+                            "rand": "UJSA0V1PavuA+s8IiPaEU8MttQEW2l3ZqepWr7wb0Is=",
+                            "encrypt": 1,
+                            "duration": "1162.7665",
+                            "rate": "318.821",
+                            "randInit": "mefpmx0PmjBCwmGp"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/1_0_93002_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "x5sFG6adi2vApqolliv3fpkVXASSBx0uqOUqGouAU1I=",
+                            "rand": "7gHl/XyYNQMWnhuue5tpiDaLrWggclwWA3zbxXFR1T0=",
+                            "encrypt": 1,
+                            "duration": "1162.7665",
+                            "rate": "357.5",
+                            "randInit": "mefpmx0PmjBCwmGp"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/1_0_93002_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4IrogCrSs1+6PYT8X37ZnlRFEGvLtG9ws+N0a8TbWdo=",
+                            "rand": "MJQOouDYAYvsiPI/svLtr4yY3mHxJC1KN64pnAnmfMI=",
+                            "encrypt": 1,
+                            "duration": "1162.8062",
+                            "rate": "389.922",
+                            "randInit": "mefpmx0PmjBCwmGp"
+                        }
+                    ]
+                },
+                {
+                    "id": "93003",
+                    "name": "软件系统不是木桶型的",
+                    "courseId": "5568",
+                    "url": "/5568/1_1_93003_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/1_1_93003_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "qFpD/eljFaoECi3lqxpmeu59otcVmt2g+WINXw+fG+0=",
+                            "rand": "DhdwkdRgOekXNbKZePpVHaFu4CfeUXqh55i7+l4E2gM=",
+                            "encrypt": 1,
+                            "duration": "685.8464",
+                            "rate": "294.369",
+                            "randInit": "4kYpxDH44iMWA7p9"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/1_1_93003_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "G3HML5BU6uXaUW06oIx4p42NoRbyxg3kPSxtXu+hjfg=",
+                            "rand": "3+W2tIFhfpmuH+pHBqMB68nTj8hwo+6vYtXe2vSJ3eA=",
+                            "encrypt": 1,
+                            "duration": "685.8464",
+                            "rate": "332.125",
+                            "randInit": "4kYpxDH44iMWA7p9"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/1_1_93003_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "dzLv2fgzSbfrd2ItUjt1nqnW6TeItRLxXgUtfXvwd5w=",
+                            "rand": "Qyfscmdi/8bkcbjbaRYURepNeQAz2hPqzcfD/IpZTr4=",
+                            "encrypt": 1,
+                            "duration": "685.8464",
+                            "rate": "364.551",
+                            "randInit": "4kYpxDH44iMWA7p9"
+                        }
+                    ]
+                },
+                {
+                    "id": "93004",
+                    "name": "软件设计的三种常见思路（1）",
+                    "courseId": "5568",
+                    "url": "/5568/1_2_93004_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/1_2_93004_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "OMrgn/OMbNbCIvfzAXk5csejH0sKHsBm3nJsXh7kse0=",
+                            "rand": "UNGtDrXax5Wf9aAYZRcep97dt4mJUQM+DNyjAgoasUI=",
+                            "encrypt": 1,
+                            "duration": "691.1636",
+                            "rate": "254.102",
+                            "randInit": "HHD8eT5MRcpWweY3"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/1_2_93004_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Xcyvy1kCag2Z3hyqjIbVLuZcmKt0zMFBbZjqt0sO8rs=",
+                            "rand": "VnIt0yo0t3zyBlJEdpt9jTpZDvWItNtxa2TGjQ0AmHY=",
+                            "encrypt": 1,
+                            "duration": "691.1636",
+                            "rate": "289.881",
+                            "randInit": "HHD8eT5MRcpWweY3"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/1_2_93004_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "lRhSjmD1Q+Bgoes2BkOkzGIAAplpA+R1PK18NlO9eTE=",
+                            "rand": "LBwsg2NrD3zIo3SbP0UlUrzMfqGJsAc623OJ2sdxFhE=",
+                            "encrypt": 1,
+                            "duration": "691.1868",
+                            "rate": "321.749",
+                            "randInit": "HHD8eT5MRcpWweY3"
+                        }
+                    ]
+                },
+                {
+                    "id": "93005",
+                    "name": "软件设计的三种常见思路（2）",
+                    "courseId": "5568",
+                    "url": "/5568/1_3_93005_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/1_3_93005_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Rst7kG7Z2UGwJg0svDmK4YomEhPv+vOG7yfJ0dxHA7g=",
+                            "rand": "p9yH4xlXgio5gQrJ9ktSKfMWqfCMOaHSSDCzjbOgyIY=",
+                            "encrypt": 1,
+                            "duration": "1080.7264",
+                            "rate": "282.673",
+                            "randInit": "AHZzGHP5hy7KzBrf"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/1_3_93005_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "d7xyUCVr+kw2was2DbAWcEkVQYIqSb3PjsNbDuNzpLg=",
+                            "rand": "WWnv2KIGVPknAsbW5Ujtkc2pq/N3FKonQyaeowZ6+8Y=",
+                            "encrypt": 1,
+                            "duration": "1080.7264",
+                            "rate": "320.808",
+                            "randInit": "AHZzGHP5hy7KzBrf"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/1_3_93005_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "KrsbhqIRCmsu8uBvY3Q5u2YSSM7FRT2sW0AIIi9xhv0=",
+                            "rand": "SqrE1J07FvlE+uN0NU2umpweV8ys6mvyi1CTxUqMOU0=",
+                            "encrypt": 1,
+                            "duration": "1080.7471",
+                            "rate": "352.337",
+                            "randInit": "AHZzGHP5hy7KzBrf"
+                        }
+                    ]
+                },
+                {
+                    "id": "93006",
+                    "name": "四种重要的软件设计",
+                    "courseId": "5568",
+                    "url": "/5568/1_4_93006_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/1_4_93006_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "hig9J/SP15l8Eay8ZfAX6dhx0nnYaC1xTAUvAER+MqA=",
+                            "rand": "cC9QQt/CNjEOHlK1KvclU1pwBWunYvDMZt6EwTg3mcw=",
+                            "encrypt": 1,
+                            "duration": "425.0064",
+                            "rate": "303.87",
+                            "randInit": "3xYQ0Cd3aiSPmAFs"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/1_4_93006_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "IFovxWbP7oL0/fIxpFDW5l3tQPwVBustwUS+7yNyx04=",
+                            "rand": "LFtGjYXi8k83hXyvEkAMFNEXU1RG70zlq8yIowM4OaY=",
+                            "encrypt": 1,
+                            "duration": "425.0403",
+                            "rate": "346.255",
+                            "randInit": "3xYQ0Cd3aiSPmAFs"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/1_4_93006_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "DA0MjpGvwMatT0O/vjnkN1LZzpo3rRrSxstA6npxKLg=",
+                            "rand": "bl8QyRpdWIg10qXq1X2rYmXpFUpc0Gf9QDFUZC9N3jk=",
+                            "encrypt": 1,
+                            "duration": "425.0064",
+                            "rate": "384.229",
+                            "randInit": "3xYQ0Cd3aiSPmAFs"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7163",
+            "name": "规划系统骨架——架构设计",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "93008",
+                    "name": "不要“放之四海而皆准”的设计！",
+                    "courseId": "5568",
+                    "url": "/5568/2_0_93008_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/2_0_93008_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "zI621fbbDJubKBrheYM3XsERhmToNlMx7xw/y1ARdHY=",
+                            "rand": "rXfGYtPVMj5TRv7Q7AblwRShk932+H7uYqw0umCaFGE=",
+                            "encrypt": 1,
+                            "duration": "716.4465",
+                            "rate": "293.783",
+                            "randInit": "b4Cz609yeiRXjcYp"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/2_0_93008_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ZNy4PCzJAbWL9fSCc5DI5uwCe1x3uY9iLPShJ2cYrK4=",
+                            "rand": "JWhVYh8Bg0W0iDHfAD47oUxnU60npeoKhcaYmHIfeoo=",
+                            "encrypt": 1,
+                            "duration": "716.4465",
+                            "rate": "334.068",
+                            "randInit": "b4Cz609yeiRXjcYp"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/2_0_93008_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HT1qkSLXfMdtr2enyjSADoTtXbvFARR7odFM9EVKOB4=",
+                            "rand": "sOYoyNBk8e/rgTl4EpfhmaKuOAi5ZNGF/vDUC0Pm+L4=",
+                            "encrypt": 1,
+                            "duration": "716.4465",
+                            "rate": "366.503",
+                            "randInit": "b4Cz609yeiRXjcYp"
+                        }
+                    ]
+                },
+                {
+                    "id": "93038",
+                    "name": "需求驱动架构设计",
+                    "courseId": "5568",
+                    "url": "/5568/2_1_93038_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/2_1_93038_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "kcrMOgW+ZhEEd3BrYKZxjelkNqciwb1F2/PuwGSdSP4=",
+                            "rand": "K0nB1Ib0AX4ajKWCY2dDL09HMxGWxJkvKkeR8JU7Zxk=",
+                            "encrypt": 1,
+                            "duration": "1006.1664",
+                            "rate": "313.729",
+                            "randInit": "fMtDRMstw6487f3N"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/2_1_93038_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "vAbEp5qQVLKmwIUj1u9ibSkV+2UbLdUrdziqGZJRzNA=",
+                            "rand": "6EeDP4C4VCXTuEmntpC56Df5za57/54L/X2MPdbv2dE=",
+                            "encrypt": 1,
+                            "duration": "1006.1664",
+                            "rate": "349.432",
+                            "randInit": "fMtDRMstw6487f3N"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/2_1_93038_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "ZaIUUCcdnd5dG0CitQXi26NL2NDoBZ37Fq+/lNc74So=",
+                            "rand": "TLojsTrnfd7fcjO/ugrNFkLM7sVcXK9yWtF/e5kH3Cw=",
+                            "encrypt": 1,
+                            "duration": "1006.1664",
+                            "rate": "382.296",
+                            "randInit": "fMtDRMstw6487f3N"
+                        }
+                    ]
+                },
+                {
+                    "id": "93040",
+                    "name": "架构设计第一层拆解",
+                    "courseId": "5568",
+                    "url": "/5568/2_2_93040_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/2_2_93040_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "2n7yqRiLmSzVveJFAkcUAVcDNrwq7ku9NYzWfcF95DA=",
+                            "rand": "Fk0hpFddq/SUvOL9YURWwGRgf9WVTIxZYXDba5dVulc=",
+                            "encrypt": 1,
+                            "duration": "1005.6865",
+                            "rate": "328.048",
+                            "randInit": "rhhNMsXatzAK8ptZ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/2_2_93040_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "sWdHY5o8LoTnio+EqVMgRRiKPu3sYkFqMTR5SY00LTE=",
+                            "rand": "2usJmI8VXz/cPJko5hZRvvAWhKv3ZNFiZM02rOAY4xg=",
+                            "encrypt": 1,
+                            "duration": "1005.6865",
+                            "rate": "366.242",
+                            "randInit": "rhhNMsXatzAK8ptZ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/2_2_93040_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4SDDIBEbVxuznuEbhsFltH4QMFGccP4vZLTwIT1wZIY=",
+                            "rand": "uusJj2xhskUSsrMTzoI043/y+ljPpnHOJvcOQmlzhZ4=",
+                            "encrypt": 1,
+                            "duration": "1005.6865",
+                            "rate": "396.261",
+                            "randInit": "rhhNMsXatzAK8ptZ"
+                        }
+                    ]
+                },
+                {
+                    "id": "93041",
+                    "name": "架构设计第二层拆解",
+                    "courseId": "5568",
+                    "url": "/5568/2_3_93041_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/2_3_93041_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "RgrjMlPq1Z+wANNq8ATHKQl6ujeoJBZxGlnmR8Nsegc=",
+                            "rand": "9Enm4vQYX5ppjinYYYDFBV+EMdB2v8LffFJkP0jUOvE=",
+                            "encrypt": 1,
+                            "duration": "1454.8464",
+                            "rate": "294.398",
+                            "randInit": "W5akm6rQPDBbC8BP"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/2_3_93041_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "b/A7/rzIo8mvYp1PJkhMKS/rGKepI3vmQDTkT4msf5k=",
+                            "rand": "nNr3qecsp7CMbdzzeNckb5TT4qpHOVnPcbvTjCcXhvM=",
+                            "encrypt": 1,
+                            "duration": "1454.8464",
+                            "rate": "330.442",
+                            "randInit": "W5akm6rQPDBbC8BP"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/2_3_93041_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "nZYYO6IK+QIgukorjQahq+vXziI3kGaLr+zJIXVTziw=",
+                            "rand": "c22N0YfzNQ2V2FemlLiYTXOTLr6x5DIGbVpy5jqFJ0A=",
+                            "encrypt": 1,
+                            "duration": "1454.8464",
+                            "rate": "364.324",
+                            "randInit": "W5akm6rQPDBbC8BP"
+                        }
+                    ]
+                },
+                {
+                    "id": "93042",
+                    "name": "架构设计多细才合适？",
+                    "courseId": "5568",
+                    "url": "/5568/2_4_93042_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/2_4_93042_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "wehSr0e0+k4T+KBljVDF48N9hd9Zw3Ol+zzVHxZIBn8=",
+                            "rand": "pDNFxmNpAiM9WljYp+oD8V/cqr70kLWIs+lZi2eJH0k=",
+                            "encrypt": 1,
+                            "duration": "334.6864",
+                            "rate": "312.967",
+                            "randInit": "cR5hANh2y0X3THH3"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/2_4_93042_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "sXvNqpt+z4psBIVHyFWPHDkuglBjTtkQJFep6tuRiEc=",
+                            "rand": "BeZhnIzBwpf7GWplpoafUFcwHbTPy5WEdiD3lDKmS8c=",
+                            "encrypt": 1,
+                            "duration": "334.6864",
+                            "rate": "354.274",
+                            "randInit": "cR5hANh2y0X3THH3"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/2_4_93042_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "61NT8yZaQlgncTk0xfWQVZ3H2POhZErk6oackEwyvts=",
+                            "rand": "F6QUytKpwh1Zi3dnEgZtr3ywxhIyS/NqodE+SGS3z/A=",
+                            "encrypt": 1,
+                            "duration": "334.6864",
+                            "rate": "394.457",
+                            "randInit": "cR5hANh2y0X3THH3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7164",
+            "name": "打造系统底蕴——数据库设计",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "93043",
+                    "name": "数据库结构变更，后果可大可小",
+                    "courseId": "5568",
+                    "url": "/5568/3_0_93043_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/3_0_93043_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "x8j+YLg4bTE7fwfL/JOud+7E+kLpcJ6+Xzyrq2ItcbU=",
+                            "rand": "Y8a4VlY4WhzT8gZVxC8ZOrjafmJxC/Tx8IcqkkOLZ4U=",
+                            "encrypt": 1,
+                            "duration": "456.7664",
+                            "rate": "302.484",
+                            "randInit": "GkcRmGiGCbt0t9yz"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/3_0_93043_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "yBaD/xdJQiEOGPViv3q5EWUwF0lFDSSMb7zinA+tfvA=",
+                            "rand": "Zk7IK77TUlIun5nVeyu4IlN2xTt500ig4VTMLfh85i0=",
+                            "encrypt": 1,
+                            "duration": "456.7664",
+                            "rate": "339.824",
+                            "randInit": "GkcRmGiGCbt0t9yz"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/3_0_93043_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "q2lWAEP4+YUyC6oW4L2NHjk3B7EXlXcmR6MEHwWnOMo=",
+                            "rand": "ThAxhrZJbebGjUh3wkGyCqz4a+xFo7ebIHLUxim0JVo=",
+                            "encrypt": 1,
+                            "duration": "456.7819",
+                            "rate": "372.521",
+                            "randInit": "GkcRmGiGCbt0t9yz"
+                        }
+                    ]
+                },
+                {
+                    "id": "93061",
+                    "name": "业务模型驱动数据库设计",
+                    "courseId": "5568",
+                    "url": "/5568/3_1_93061_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/3_1_93061_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "zVqphH4aQh/sPYO9QG2Eh68qvprx+aBwXj71EqMpJog=",
+                            "rand": "ZgNNQX+N3dsd5tLF+vJeKoxmij8tvqj1JpzvykaER9U=",
+                            "encrypt": 1,
+                            "duration": "1145.5265",
+                            "rate": "318.349",
+                            "randInit": "zTrie5JmxWFd3Gb4"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/3_1_93061_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "gI4YD4Xnkg79SWBWUsQqUgjXxToLtMSYINEi7ELKVwc=",
+                            "rand": "QkzWZMiI4656nx81lQOzdORwTnTOieHcfvSwjwKR28s=",
+                            "encrypt": 1,
+                            "duration": "1145.5265",
+                            "rate": "357.753",
+                            "randInit": "zTrie5JmxWFd3Gb4"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/3_1_93061_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "FqJ+YkkFHdcv/5wF+iZ86p+cuarBDEPGeyXeP2pZYxw=",
+                            "rand": "Mt2nW6bqee5Baohdzmdg4X+M1zasrJt+uGnOTcU1+ew=",
+                            "encrypt": 1,
+                            "duration": "1145.5305",
+                            "rate": "393.795",
+                            "randInit": "zTrie5JmxWFd3Gb4"
+                        }
+                    ]
+                },
+                {
+                    "id": "93062",
+                    "name": "业务建模实战",
+                    "courseId": "5568",
+                    "url": "/5568/3_2_93062_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/3_2_93062_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "EIZF47cYA1jXT6EJwvtqE7FcLlgNqdjDy6NSs3zuQds=",
+                            "rand": "gD7Ano9CYNNcwY5YjphYyahXI+3QLdR2Sadmqx/pioU=",
+                            "encrypt": 1,
+                            "duration": "1107.4464",
+                            "rate": "303.083",
+                            "randInit": "74zawERswcF4nC3D"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/3_2_93062_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "AAAcMFUiZD+doqD7aB2sUS3sLRLLMrWrOwEXaiKWZko=",
+                            "rand": "GUCaHY3m19VTeWgm5/ZosDGfvD7icSMC10vGxVmjWUo=",
+                            "encrypt": 1,
+                            "duration": "1107.4464",
+                            "rate": "338.524",
+                            "randInit": "74zawERswcF4nC3D"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/3_2_93062_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "x0pbFserMsLZAQnIBvPyLibGX/sFFbXTrWcuV+swqWM=",
+                            "rand": "eYUxKJsSVS07eeuCBwkOJyhpdEiRGGjnd0k6fnRABdg=",
+                            "encrypt": 1,
+                            "duration": "1107.4464",
+                            "rate": "372.172",
+                            "randInit": "74zawERswcF4nC3D"
+                        }
+                    ]
+                },
+                {
+                    "id": "93063",
+                    "name": "一个“老土”但实用的设计",
+                    "courseId": "5568",
+                    "url": "/5568/3_3_93063_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/3_3_93063_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "SC36B0vKlYRRCfM2FcP//XsTLrtCdG69T5n5d17ZbXQ=",
+                            "rand": "kM8VmgkYQlCbN4+V9jnOvZCz+kLe7d5FEBLLn2yKcKY=",
+                            "encrypt": 1,
+                            "duration": "540.0864",
+                            "rate": "289.729",
+                            "randInit": "QEptZYyKeXd2A7aR"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/3_3_93063_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Bw/qba0/ZunO5HPnyAlbDna8bvMJEVsgepl+C//0Ry8=",
+                            "rand": "4SCR1N5fQriW76pzOeDfAQCfR0TePmuaQ79zSIavxjI=",
+                            "encrypt": 1,
+                            "duration": "540.1181",
+                            "rate": "325.553",
+                            "randInit": "QEptZYyKeXd2A7aR"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/3_3_93063_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "KTn6+3tfYUD7sHdT6YVTpfLQb/SGr3oXZJVn3AKQbOQ=",
+                            "rand": "YC8w6CanJyikRNPFeD/DswUYd1y8ZdjYpnKK033Bb6Y=",
+                            "encrypt": 1,
+                            "duration": "540.0949",
+                            "rate": "363.678",
+                            "randInit": "QEptZYyKeXd2A7aR"
+                        }
+                    ]
+                },
+                {
+                    "id": "93064",
+                    "name": "采用更进取的设计策略，打造工作流引擎！",
+                    "courseId": "5568",
+                    "url": "/5568/3_4_93064_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/3_4_93064_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "rg0CLzQhII48w2hd9WetHaeEahXzZ5SWcYFqamJjhpg=",
+                            "rand": "1G1CQu4lzWlDPOHSdkbptkaBoMv3rqu3yvhu/g+343M=",
+                            "encrypt": 1,
+                            "duration": "739.1265",
+                            "rate": "311.323",
+                            "randInit": "9sKZ5eQYTJ92mr0T"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/3_4_93064_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "sAjd3fmKBovZUnND7wdKCBeQ1J9Sm3mjSM32AtAqDQc=",
+                            "rand": "FAFnyVJQqNY34Eup839yNMhyyYs0ropj6+ittxw2DwM=",
+                            "encrypt": 1,
+                            "duration": "739.1265",
+                            "rate": "351.741",
+                            "randInit": "9sKZ5eQYTJ92mr0T"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/3_4_93064_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "xP6G4IO1O/PaLg4YQX2nboz5TW7U995bhMzPc17BoLY=",
+                            "rand": "D937v3BJKlHlyky1RApAWN30fJLhMTfyIfdXYB7IRAk=",
+                            "encrypt": 1,
+                            "duration": "739.1359",
+                            "rate": "384.991",
+                            "randInit": "9sKZ5eQYTJ92mr0T"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7165",
+            "name": "用户感觉好才是真的好——用户体验设计",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "93065",
+                    "name": "从“余额宝是吸血鬼”说起",
+                    "courseId": "5568",
+                    "url": "/5568/4_0_93065_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/4_0_93065_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "mWjKjDaiN49FlJ8iqt++57pclCdtMrC8u+w2y4MyFfo=",
+                            "rand": "Q6lUGq7O8ijuPCbd0uZLDRgUX5zA/G7hYSwGx89DmDM=",
+                            "encrypt": 1,
+                            "duration": "531.6865",
+                            "rate": "269.038",
+                            "randInit": "Gd4nm20JbiQXrxpT"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/4_0_93065_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "+fzOlmjJ4K9blRKfoRuYLIEiSKAgn7GPZB9T8QR4tZ0=",
+                            "rand": "xftEUDUPPwWB94TIFFeRkLS2+WMgKGtVJYQUYG6UFco=",
+                            "encrypt": 1,
+                            "duration": "531.6865",
+                            "rate": "306.6",
+                            "randInit": "Gd4nm20JbiQXrxpT"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/4_0_93065_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "zBVw+WzUkKqbKrOp4xmoSxw7hBDnXZZDFFzNpOWMPF0=",
+                            "rand": "VxqK9C8vSR+pbxiXb+0EVJVu9frVm1JrynCRo7On4y0=",
+                            "encrypt": 1,
+                            "duration": "531.6865",
+                            "rate": "343.694",
+                            "randInit": "Gd4nm20JbiQXrxpT"
+                        }
+                    ]
+                },
+                {
+                    "id": "93066",
+                    "name": "什么是用户体验与用户体验设计？",
+                    "courseId": "5568",
+                    "url": "/5568/4_1_93066_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/4_1_93066_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "lhkkvmS0fHISNRIY0nJ5x3N16u6u1T8vie42XB5jmJI=",
+                            "rand": "h6ftUf8q6ptYO2cBOjYpUBBxdnKoojYLY6t5JlJm37o=",
+                            "encrypt": 1,
+                            "duration": "491.1264",
+                            "rate": "268.871",
+                            "randInit": "hAmSYH34pacte0M7"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/4_1_93066_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "5UtzMv7TWWvIhI5oL4j9HW/wgrDD/NHpUlgfJd8fnC8=",
+                            "rand": "OU5jsd5Vhjpe5d2DZlYTi49FGOqy5HjW3Mmm73MHptM=",
+                            "encrypt": 1,
+                            "duration": "491.1706",
+                            "rate": "305.181",
+                            "randInit": "hAmSYH34pacte0M7"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/4_1_93066_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HB+DrU/r/UqaE3fomWzYDJNFfwY1XrthXSVIYqFbxWM=",
+                            "rand": "qoise8wEXcyd75PowdZIQqBNJuts3D7DiA8SrQX7g+o=",
+                            "encrypt": 1,
+                            "duration": "491.1264",
+                            "rate": "337.976",
+                            "randInit": "hAmSYH34pacte0M7"
+                        }
+                    ]
+                },
+                {
+                    "id": "93067",
+                    "name": "整体界面规划与首页设计",
+                    "courseId": "5568",
+                    "url": "/5568/4_2_93067_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/4_2_93067_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "NI5bwjPZMkXpXJk99Rs5tY8iBcKXGe6/V5lLpp/qIcs=",
+                            "rand": "nUesQ9V8mfFsls/1WrWZax0RevVNYw6AZQc6fkvq/Y8=",
+                            "encrypt": 1,
+                            "duration": "460.1664",
+                            "rate": "249.201",
+                            "randInit": "JKEk5c7CitARz3iB"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/4_2_93067_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "bZKBGevh0u14WsHdR4Y4suMDpJqLudiud+/PpKQ+1yE=",
+                            "rand": "01UlifJsVQ8G0DkYu7q7ij14b6H1Eec/Tifl9ojj1GQ=",
+                            "encrypt": 1,
+                            "duration": "460.1664",
+                            "rate": "284.917",
+                            "randInit": "JKEk5c7CitARz3iB"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/4_2_93067_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "FTORXXdEfUF1v9MFvRjJnl4b9FFRK/ZQ29d8QtGxq/A=",
+                            "rand": "v3oEdio5k7hWFxqVX9SgUk8FnKSwShg0cDQ4PYkPSIw=",
+                            "encrypt": 1,
+                            "duration": "460.1664",
+                            "rate": "317.86",
+                            "randInit": "JKEk5c7CitARz3iB"
+                        }
+                    ]
+                },
+                {
+                    "id": "93082",
+                    "name": "形象、文字、行为",
+                    "courseId": "5568",
+                    "url": "/5568/4_3_93082_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/4_3_93082_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "18Qz2wVbgnyGEGpaH7rwRCYux00TpkcHpyCTmLOYIuM=",
+                            "rand": "XqbbQDofJLEPEsKfYYPMt7RPF6AxGGfP9N2yQid9I3s=",
+                            "encrypt": 1,
+                            "duration": "649.3665",
+                            "rate": "282.555",
+                            "randInit": "exwWS54sBPZQ8SwN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/4_3_93082_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "0IlTmecx/ZtmLrlAb4n1ET+4HLgxLgFvMaFpTp/dpp4=",
+                            "rand": "/33LUayijhBzSH96msbkvw6BXmvmeZJSDrCZFL14aus=",
+                            "encrypt": 1,
+                            "duration": "649.3665",
+                            "rate": "322.438",
+                            "randInit": "exwWS54sBPZQ8SwN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/4_3_93082_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Nr3S1iTbpRGNJVlp1olELBiltWw+iVPHJzgOJoIF5Fk=",
+                            "rand": "iqhhGIepHDhDfdmadC1bak35uOvFmpiOCXwKA9J7OhU=",
+                            "encrypt": 1,
+                            "duration": "649.3665",
+                            "rate": "354.949",
+                            "randInit": "exwWS54sBPZQ8SwN"
+                        }
+                    ]
+                },
+                {
+                    "id": "93090",
+                    "name": "易用性设计",
+                    "courseId": "5568",
+                    "url": "/5568/4_4_93090_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/4_4_93090_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AVRV4lyED3a3t+jLJ+dyhRTfP3WCRC84fsDESr2xcnA=",
+                            "rand": "0rZ/93EX0xy5MNdp1ltwu0yLD7Tip2+v8oL4ML8GvjU=",
+                            "encrypt": 1,
+                            "duration": "452.3264",
+                            "rate": "273.384",
+                            "randInit": "dCtNhRCyc9kGMi9N"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/4_4_93090_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "XpvXMnYq+/Fl3bEO/W2/zeEAkfDA337QuYFrgtA1KZY=",
+                            "rand": "2wUcHtK7QHhP5IfkX6drF5yUSrHPrAwXc5COryU7/ac=",
+                            "encrypt": 1,
+                            "duration": "452.3264",
+                            "rate": "313.939",
+                            "randInit": "dCtNhRCyc9kGMi9N"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/4_4_93090_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "zTlP4OCTy4vo06MLQw6DkEZe5akCLBL8/eHW8TkwSGM=",
+                            "rand": "36427D8njDXKablVhjg3HX0aNQzl8C8HMOv7ZBx4nGU=",
+                            "encrypt": 1,
+                            "duration": "452.3264",
+                            "rate": "348.27",
+                            "randInit": "dCtNhRCyc9kGMi9N"
+                        }
+                    ]
+                },
+                {
+                    "id": "93091",
+                    "name": "用户体验设计 PK 程序设计",
+                    "courseId": "5568",
+                    "url": "/5568/4_5_93091_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/4_5_93091_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "HJs52uKJIq9hiT3cexy6R6XSKqgsTy+a4ULu6rY15ZM=",
+                            "rand": "MdD9nXxyoDTRLMxOjgcAT2nEj8Tnd8OZD9WYPRlwrtw=",
+                            "encrypt": 1,
+                            "duration": "507.4464",
+                            "rate": "260.499",
+                            "randInit": "5emsW3Y6kHDY3yw6"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/4_5_93091_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "viyIjzWXyivszwzcrbMOH85LBStP4BFQiDHHJwT8P74=",
+                            "rand": "XGp/nwxWYI/K2Ds4BTgBzmb/YPNlEcdJozcpGm33+jk=",
+                            "encrypt": 1,
+                            "duration": "507.4464",
+                            "rate": "296.344",
+                            "randInit": "5emsW3Y6kHDY3yw6"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/4_5_93091_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "umSoFkLltH0CU9T6tbWA8cNNLHV+ahgdvyQ6glho/dk=",
+                            "rand": "jWdGvYYTadxHmWootAgUlKxgJ+2CnU+addqf4Fk/QqE=",
+                            "encrypt": 1,
+                            "duration": "507.4477",
+                            "rate": "328.092",
+                            "randInit": "5emsW3Y6kHDY3yw6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7166",
+            "name": "细节决定成败——详细设计",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "93092",
+                    "name": "详细设计实用招数",
+                    "courseId": "5568",
+                    "url": "/5568/5_0_93092_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/5_0_93092_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "VGeH+9CZ5+N27dOchUGSnUHYWS88K7bIWUloJN8Xj08=",
+                            "rand": "L/lFrIwEklAHl4kVFWd89s9gzg0f1Ch+dlbsn2qufzU=",
+                            "encrypt": 1,
+                            "duration": "626.5264",
+                            "rate": "217.843",
+                            "randInit": "xwCxaEWEZZ8ECE9X"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/5_0_93092_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "AILgL9ergNFmen9I76prwkd6dxJmFcEVKNEp05kDZF0=",
+                            "rand": "2zdN6OGbZKFTEn8hc5pQOogVcPApX4DyVzvO8ZJ/k04=",
+                            "encrypt": 1,
+                            "duration": "626.5264",
+                            "rate": "251.924",
+                            "randInit": "xwCxaEWEZZ8ECE9X"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/5_0_93092_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "WlfhIiAEeAuS5dhc08TwKK9KgYJ5Ej7t6BTjhn3s7XY=",
+                            "rand": "GqrylfIU26VNVSJx7YZcbHcWQVMI/4fdjAC/jbH7eCU=",
+                            "encrypt": 1,
+                            "duration": "626.5264",
+                            "rate": "289.912",
+                            "randInit": "xwCxaEWEZZ8ECE9X"
+                        }
+                    ]
+                },
+                {
+                    "id": "93093",
+                    "name": "案例分析-某详细设计文档",
+                    "courseId": "5568",
+                    "url": "/5568/5_1_93093_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/5_1_93093_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Op7nH+onlnRPE68lIDznX7A4LUtGHN2z3Gb8M8f0t5o=",
+                            "rand": "F087CNyGSdVUdaCRdzd1ncyF6fUkyGapdsi4Rm6vhWA=",
+                            "encrypt": 1,
+                            "duration": "222.8414",
+                            "rate": "269.313",
+                            "randInit": "Qx2p0Cp390BaWKkB"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/5_1_93093_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "NjwC3KKqY5209YAxcBa9BGtzm5RXdyJy/b/ObCYwnkM=",
+                            "rand": "VOpzF7CQWmdgRD00/ixXuDKfoAb/pnzVlHiWoFLeUL8=",
+                            "encrypt": 1,
+                            "duration": "222.8414",
+                            "rate": "308.951",
+                            "randInit": "Qx2p0Cp390BaWKkB"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/5_1_93093_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9V8mZLm4l2jfbMY6omAvVnBzTWlC7PYWxQ5exSMOOkU=",
+                            "rand": "BqlM9qdeI7hFGgaeWQ58PTZOsXjjwc1NmGr/nlYEoP4=",
+                            "encrypt": 1,
+                            "duration": "222.8064",
+                            "rate": "344.303",
+                            "randInit": "Qx2p0Cp390BaWKkB"
+                        }
+                    ]
+                },
+                {
+                    "id": "93095",
+                    "name": "详细设计是架构设计的延续",
+                    "courseId": "5568",
+                    "url": "/5568/5_2_93095_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/5_2_93095_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "BppzTYbj+tEwcuOUS/hoxwAovbK1Gu51D6paZI9zbTo=",
+                            "rand": "G0LkOwIMia55RV3WIbCMmpdB+WYBLSgsMBbw6jcaf+Q=",
+                            "encrypt": 1,
+                            "duration": "892.9265",
+                            "rate": "278.704",
+                            "randInit": "ZBaDYcJSZxWCB0DC"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/5_2_93095_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Z//1pJf+//RNoXRy5tuf/NXeBiVwp/VsZK5BIXh3QUo=",
+                            "rand": "2UIsmtZfKdP88cFeiwvnXG2C0V3GrgWgWX+FATesaIM=",
+                            "encrypt": 1,
+                            "duration": "892.9677",
+                            "rate": "313.843",
+                            "randInit": "ZBaDYcJSZxWCB0DC"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/5_2_93095_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "CviyGpPFGU3CaR+glTCSO0mjTGyqvyOX6jN/bL7PtGw=",
+                            "rand": "zelUobyCu38sKivXQ8OWICFPQhmz94aXHznca928Pf4=",
+                            "encrypt": 1,
+                            "duration": "892.9677",
+                            "rate": "345.415",
+                            "randInit": "ZBaDYcJSZxWCB0DC"
+                        }
+                    ]
+                },
+                {
+                    "id": "93096",
+                    "name": "整个程序需要考虑的设计规范",
+                    "courseId": "5568",
+                    "url": "/5568/5_3_93096_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/5_3_93096_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "tk+y6xt/yEognmOmFF5IPyVj0Fe64K9o7kyh8dPdR+s=",
+                            "rand": "UrslbGk4BMm9I6XEWLUipyI1/wij4lolNhYRHVsHLJk=",
+                            "encrypt": 1,
+                            "duration": "679.8065",
+                            "rate": "308.768",
+                            "randInit": "fz7wwN7GwepZAeeD"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/5_3_93096_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "0kVMq9XvnfA+F78HNpamj152IeoTKZBBtQKb2s68DDk=",
+                            "rand": "lQAPe8gFNagAgVxKh/HbIgwfx/EGV0izlCsBB1fYbPg=",
+                            "encrypt": 1,
+                            "duration": "679.8322",
+                            "rate": "348.93",
+                            "randInit": "fz7wwN7GwepZAeeD"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/5_3_93096_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Q7rN+RJ6AUjc6c6xV0xsLBj0MF0A3qWg3s/vqvliRRQ=",
+                            "rand": "JBznSD3FIe5N9+uHTFLPaB9qvOLgWrjx3Glo5Zf8UB0=",
+                            "encrypt": 1,
+                            "duration": "679.8065",
+                            "rate": "385.865",
+                            "randInit": "fz7wwN7GwepZAeeD"
+                        }
+                    ]
+                },
+                {
+                    "id": "93097",
+                    "name": "关于技术预研",
+                    "courseId": "5568",
+                    "url": "/5568/5_4_93097_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/5_4_93097_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "5GTPYE6XH/IkHfYtpXTgMzO8VF2izOLdlJxTSXuVBgE=",
+                            "rand": "qfCkjCE28LILzuqZess5ucQPinT2KCkZBfqsZuu/ZnQ=",
+                            "encrypt": 1,
+                            "duration": "696.7664",
+                            "rate": "293.734",
+                            "randInit": "Tb8YaBjXNm8eewA4"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/5_4_93097_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "WZI/Eos5VPpVqiljiWhtrPR5MoVL0aZXIVG5wvf1mhM=",
+                            "rand": "53UaSDEyimP8zHTCQWnD5p/ouiHNtQ6bazqgk9M+BbQ=",
+                            "encrypt": 1,
+                            "duration": "696.7664",
+                            "rate": "336.337",
+                            "randInit": "Tb8YaBjXNm8eewA4"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/5_4_93097_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "QL9CZtN3zVWjzQ1Ed3HrBLLlymgC4GEAGWL25hzb4i4=",
+                            "rand": "lxiAD5qFDFLGTcCjpmVUSYMl19Ri7xigr6i28dMgH8w=",
+                            "encrypt": 1,
+                            "duration": "696.8060",
+                            "rate": "369.253",
+                            "randInit": "Tb8YaBjXNm8eewA4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7167",
+            "name": "软件设计是怎样炼成的？",
+            "courseId": "5568",
+            "sections": [
+                {
+                    "id": "93098",
+                    "name": "小结：软件设计是怎样炼成的？",
+                    "courseId": "5568",
+                    "url": "/5568/6_0_93098_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/6_0_93098_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "s1JkmtnjgxIteavkSQ56IFvwxy0fcOwBtRJR7vLbIVQ=",
+                            "rand": "wjTAWpO52uUYkCyk/sv+FouS9s3qSkXoMpU2I7Hf0/A=",
+                            "encrypt": 1,
+                            "duration": "429.7264",
+                            "rate": "305.502",
+                            "randInit": "ZZtkjTa009Xn4zRz"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/6_0_93098_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "bx5uETesw8LC6MZYFSXSHwd8uKdYamRTadx3Z1PBtpY=",
+                            "rand": "CUTYcbPNraUsLuHyeilu/s9k+UOgDskF60W28gIVYe0=",
+                            "encrypt": 1,
+                            "duration": "429.7264",
+                            "rate": "346.217",
+                            "randInit": "ZZtkjTa009Xn4zRz"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/6_0_93098_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "7NBpYtjJVIxqWiRC0xXvpo6q98oF8YAI6vAh1XhUwAU=",
+                            "rand": "G7Qnji+7C4ctOiXi5ES8O3Nn/lBHV+YVUaqfaFe2CUQ=",
+                            "encrypt": 1,
+                            "duration": "429.7264",
+                            "rate": "381.293",
+                            "randInit": "ZZtkjTa009Xn4zRz"
+                        }
+                    ]
+                },
+                {
+                    "id": "93099",
+                    "name": "“火球软件设计”系列课程",
+                    "courseId": "5568",
+                    "url": "/5568/6_1_93099_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/5568/6_1_93099_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "NN2PQTngJXlkuqJvKCgoRNygvlzVoaqBblENROykomQ=",
+                            "rand": "YthsOdydTVP816yG5QAUQG2rlwzxGT5T0u19TdkBz7I=",
+                            "encrypt": 1,
+                            "duration": "386.4865",
+                            "rate": "279.703",
+                            "randInit": "TPF9rsGpkz07txGb"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/5568/6_1_93099_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "T0qpRf/+7VWRBZVp/xVqrz8enQEctF8h6VLs3u6dzPw=",
+                            "rand": "n3pkGe3rxKquHQBbnKdpJeJ+Mg8Qfx6AWx7z/cqtygk=",
+                            "encrypt": 1,
+                            "duration": "386.4865",
+                            "rate": "321.419",
+                            "randInit": "TPF9rsGpkz07txGb"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/5568/6_1_93099_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "+YuFdxmnniHY1H4wfROwJFDuiAraMG7e/awIYypoAFc=",
+                            "rand": "Hip9qxCFZd0ydbCpJeq6eKnYWwzCeMIkaEmgXZpeSqw=",
+                            "encrypt": 1,
+                            "duration": "386.4865",
+                            "rate": "355.812",
+                            "randInit": "TPF9rsGpkz07txGb"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
