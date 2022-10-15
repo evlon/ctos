@@ -1,0 +1,725 @@
+{
+    "id": "30430",
+    "name": "实时数仓适用场景与构建方法",
+    "lecturer": "实时数仓开发工程师、数据平台开发工程师\r\n从事实时数仓数仓开发工作的相关人员\r\n",
+    "descriptionText": "深入了解实时数据仓库的综合概况，掌握实时数仓的设计思路及实现方法，学习实时数仓实践案例。",
+    "chapters": [
+        {
+            "id": "99356",
+            "name": "概念与应用：实时数据仓库概览",
+            "courseId": "30430",
+            "sections": [
+                {
+                    "id": "805413",
+                    "name": "我们为什么需要实时数仓",
+                    "courseId": "30430",
+                    "url": "/30430/0_0_805413_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/0_0_805413_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "AWEDNonHYVqB1zaEYrxAqIpbjMjY8SZScARtlfQIsc0=",
+                            "rand": "10QjCe7uZZB3bYh9Bcbk7Xpmf9+SrlkvmsaTKbSPgaQ=",
+                            "encrypt": 1,
+                            "duration": "648.5264",
+                            "rate": "290.372",
+                            "randInit": "aAtNNdB59PY0iJfn"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/0_0_805413_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Ta642qeicxZSaGi05mzTkjTX0m3aYPqgpzjaAQGIJcM=",
+                            "rand": "CDNG2WgDz55lKkZAMWhdi1aTcKUou3KgMiBjMV+/mns=",
+                            "encrypt": 1,
+                            "duration": "648.5264",
+                            "rate": "416.791",
+                            "randInit": "aAtNNdB59PY0iJfn"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/0_0_805413_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Eh14nKAAJmoAJ7kjE4QjfX/TeFFHbNWG78BrdudN6YI=",
+                            "rand": "2tA2jL9x/BJgkb9Ljcma2+1/6e68NqaLU7WL+U8UT50=",
+                            "encrypt": 1,
+                            "duration": "648.5264",
+                            "rate": "580.441",
+                            "randInit": "aAtNNdB59PY0iJfn"
+                        }
+                    ]
+                },
+                {
+                    "id": "805412",
+                    "name": "实时数据仓库概念与发展历程",
+                    "courseId": "30430",
+                    "url": "/30430/0_1_805412_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/0_1_805412_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "R8gINPAsx/Gf5ynJALWQ15cnqDSYyZv1XLR0hZcEwLU=",
+                            "rand": "26moDuu4DyGn377ZxpOYbrW2rJlWthyNP8t5zr4MAH8=",
+                            "encrypt": 1,
+                            "duration": "259.8065",
+                            "rate": "252.68",
+                            "randInit": "EM6hppYrCp54CKY3"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/0_1_805412_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "n6DetZ/tKuNwp28GKZrTdd649TSGFkQeTLmvTkmp8hA=",
+                            "rand": "Z2amJECvG06D3KqLlu0NA395pBJHwRXYlg+GJnQ5Who=",
+                            "encrypt": 1,
+                            "duration": "259.8065",
+                            "rate": "354.23",
+                            "randInit": "EM6hppYrCp54CKY3"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/0_1_805412_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "vAdNTcZj392/bX+kS8VE8Xzdztj8kXbqZlfBRSYBtZ0=",
+                            "rand": "Z3KJRy/1RJ8J/ThSxsd3Jjz7NiaZ1zP33BVFNSB2WGI=",
+                            "encrypt": 1,
+                            "duration": "259.8065",
+                            "rate": "489.575",
+                            "randInit": "EM6hppYrCp54CKY3"
+                        }
+                    ]
+                },
+                {
+                    "id": "805411",
+                    "name": "实时数仓与数据湖、数据中台之间的关系",
+                    "courseId": "30430",
+                    "url": "/30430/0_2_805411_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/0_2_805411_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "2h07VONPbXlggS+gTtN2+E4FxUNLV3yptJW8LFcVsks=",
+                            "rand": "wo0+/daOHuDj1VWReUGpagQoguEQmSfgcF96qzaPlwg=",
+                            "encrypt": 1,
+                            "duration": "559.0065",
+                            "rate": "420.681",
+                            "randInit": "ZhBGXcb5pZtWtF7X"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/0_2_805411_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "OGTDuDy2mMbpWOCaK1WEbPcp/+y2arq/fvi+RGDq/QA=",
+                            "rand": "KJtHzqgYuOpznTfhWMguVk/nyTXBttnP9JOAhevk7h4=",
+                            "encrypt": 1,
+                            "duration": "559.0065",
+                            "rate": "647.465",
+                            "randInit": "ZhBGXcb5pZtWtF7X"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/0_2_805411_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "wvCF6QQM52QK/McGDo5IiSTWPM6N9P2Aj9llmelZCB0=",
+                            "rand": "Iz9nEURH9p+wmfZgRAMY533OP8bW5dMr/zmpcRsU/8M=",
+                            "encrypt": 1,
+                            "duration": "559.0065",
+                            "rate": "883.252",
+                            "randInit": "ZhBGXcb5pZtWtF7X"
+                        }
+                    ]
+                },
+                {
+                    "id": "805410",
+                    "name": "实时数仓的应用场景",
+                    "courseId": "30430",
+                    "url": "/30430/0_3_805410_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/0_3_805410_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "HWiFVKcPJ96TvczuZvSjOKbBa2/Oj0amzkeyKudWeFg=",
+                            "rand": "G9nXmXmOeT1uSRne9Yt3jFDyRe7R5vs0Ramkn5teTxE=",
+                            "encrypt": 1,
+                            "duration": "93.7664",
+                            "rate": "305.19",
+                            "randInit": "5HdKNkZyfabrkBHs"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/0_3_805410_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "RE4rg7NSUnu1hEiUTdSFDdlDgWRKSVG8sgJlEfUmFs0=",
+                            "rand": "9skKeS/CPLUPio/kCkmgclT7gLqHNTSWCm7U/iXqiDg=",
+                            "encrypt": 1,
+                            "duration": "93.7664",
+                            "rate": "444.817",
+                            "randInit": "5HdKNkZyfabrkBHs"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/0_3_805410_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9wxucuZiF2yVXVeajc7RLBcqPeDTW3x5aEHlofuTxDk=",
+                            "rand": "+Isroj9QJLRJIhSRbZuavtztNVafWPFyOtid3uzMGPw=",
+                            "encrypt": 1,
+                            "duration": "93.7664",
+                            "rate": "617.598",
+                            "randInit": "5HdKNkZyfabrkBHs"
+                        }
+                    ]
+                },
+                {
+                    "id": "805409",
+                    "name": "实时数据仓库和离线数据仓库的使用",
+                    "courseId": "30430",
+                    "url": "/30430/0_4_805409_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/0_4_805409_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "yiEMHebGPmlZ5v+8qpTGfi3oJPFCEFO3nQZiWAonOEc=",
+                            "rand": "SSA/CJq3fVV7prt1YSGNR9WfMxiSgB9M8yYWTJjh6dE=",
+                            "encrypt": 1,
+                            "duration": "295.5664",
+                            "rate": "414.725",
+                            "randInit": "FBjHW3i5EiYG2ZSn"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/0_4_805409_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "5gWNX2ulVzCtO6uorEH+RN2pc0+ZhJ5dRuvdJAAC9gs=",
+                            "rand": "QJMDhZryGTRSgu5rNqqHtXVrybYh4CIcptKEIqQE1ks=",
+                            "encrypt": 1,
+                            "duration": "295.5664",
+                            "rate": "681.319",
+                            "randInit": "FBjHW3i5EiYG2ZSn"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/0_4_805409_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "y3UJiN9qMYl0HvHZQAnNxmhA+YgIqbmekzHrBLM6Qdk=",
+                            "rand": "Ci57OH2xbgaEA6VKEzMfWnVo1isDQdJ3X7zwTUj9xyI=",
+                            "encrypt": 1,
+                            "duration": "295.5664",
+                            "rate": "932.285",
+                            "randInit": "FBjHW3i5EiYG2ZSn"
+                        }
+                    ]
+                },
+                {
+                    "id": "805408",
+                    "name": "实时数仓的整体构建流程",
+                    "courseId": "30430",
+                    "url": "/30430/0_5_805408_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/0_5_805408_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "P1CJfiDeLmyoILZncFHJSs5n9i98yo5lFoxobmRo+z0=",
+                            "rand": "+rcd9WNjbKUqgCSQz6hJj00nsAxwwylyJB8Q3UmL9v8=",
+                            "encrypt": 1,
+                            "duration": "81.1264",
+                            "rate": "321.057",
+                            "randInit": "3tjzcWTZXSfmKfpZ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/0_5_805408_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Ty7Mu+kTQ8iTd77afD5hye2+mwZTBqrqgfsg1a7HMsc=",
+                            "rand": "ivj7SrHL1QbuzYt+93e/akbxQeGaZKCrSVpl/ZdABtA=",
+                            "encrypt": 1,
+                            "duration": "81.1264",
+                            "rate": "470.815",
+                            "randInit": "3tjzcWTZXSfmKfpZ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/0_5_805408_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9ZHbDIWrw1eZ0dP2QfC3nEpIITuQPvXGpbj7KBrNOCc=",
+                            "rand": "a28dOXNylTLcSOOAyce5nb3c9BdEWOUcTzj6PXZoZgk=",
+                            "encrypt": 1,
+                            "duration": "81.1264",
+                            "rate": "659.579",
+                            "randInit": "3tjzcWTZXSfmKfpZ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "99357",
+            "name": "建模方法论：实时数仓设计思路与实现方法",
+            "courseId": "30430",
+            "sections": [
+                {
+                    "id": "805407",
+                    "name": "实时数据仓库构建思路",
+                    "courseId": "30430",
+                    "url": "/30430/1_0_805407_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/1_0_805407_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Qky8S1tOUy7cr7CVEeVqjkOXHgBXdcNp65hRGGPcvpE=",
+                            "rand": "bKtjmSvOixSLrbQGoOv9JlnUWAR0KL33roqtbiTze64=",
+                            "encrypt": 1,
+                            "duration": "659.6064",
+                            "rate": "300.993",
+                            "randInit": "GBQaY7cjrDE8ZMs0"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/1_0_805407_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "EF/oPyfw4lkVXkjb9EM0Rc6HoXIjQ1iRJmdB+pG1ouo=",
+                            "rand": "5UcTF0z7gL6PhzjFfG85XSRYBtbr2dfHxz+qQGJzM8g=",
+                            "encrypt": 1,
+                            "duration": "659.6064",
+                            "rate": "454.987",
+                            "randInit": "GBQaY7cjrDE8ZMs0"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/1_0_805407_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "9XLPmf8OtgZidD9WJGgDuk/gN6SQ/Aq59NYWJFL/4ys=",
+                            "rand": "XS0J0idR1vuR/imdqQfr5DNsP6bISDhPEG/akivhQyA=",
+                            "encrypt": 1,
+                            "duration": "659.6064",
+                            "rate": "654.274",
+                            "randInit": "GBQaY7cjrDE8ZMs0"
+                        }
+                    ]
+                },
+                {
+                    "id": "805406",
+                    "name": "实时数据仓库构建常见问题指南",
+                    "courseId": "30430",
+                    "url": "/30430/1_1_805406_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/1_1_805406_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "9OXAVFj+Q2MYR7K6ZIE9SLvxT+0jx0om5WapdUIyUx0=",
+                            "rand": "g+74JJTUbHw6jC8FOmqHyCRQidV/26DyBjkDyAxA1js=",
+                            "encrypt": 1,
+                            "duration": "413.4865",
+                            "rate": "263.203",
+                            "randInit": "EmCb3nWzbRAsAT5a"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/1_1_805406_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "Wm+yMGrBFlH1K3Ow0Kl1prgpYYXE4g90bcIIk5o5/RU=",
+                            "rand": "z2Krg9xouQfOFo66HKiyDUocbcfj2s7Ks2tiByoYHzk=",
+                            "encrypt": 1,
+                            "duration": "413.4865",
+                            "rate": "369.977",
+                            "randInit": "EmCb3nWzbRAsAT5a"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/1_1_805406_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "zBkf7PK/lUDvgSNCodlTgqpASNZK/WlXXFythbVO0Vg=",
+                            "rand": "34A2JFhdwmOZDSI+r0mEFoISWrevhpXswmRDFyFAoik=",
+                            "encrypt": 1,
+                            "duration": "413.4865",
+                            "rate": "514.152",
+                            "randInit": "EmCb3nWzbRAsAT5a"
+                        }
+                    ]
+                },
+                {
+                    "id": "805405",
+                    "name": "实时数据仓库如何进行选型",
+                    "courseId": "30430",
+                    "url": "/30430/1_2_805405_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/1_2_805405_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "bptW8K5awld2mlcjpEFPSM9xVDF/0zFdjb+hYzJPMAA=",
+                            "rand": "w33xh81nemE3oOxE1YHujPZ3A7/jrcnJsntrHxOXxq8=",
+                            "encrypt": 1,
+                            "duration": "1868.9741",
+                            "rate": "394.265",
+                            "randInit": "a0wXBjmaiK9QM2FN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/1_2_805405_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "sZu1JdRXUemxxW4F9So1YD4GptyLEBDZV+phRSKrqmM=",
+                            "rand": "p3UdVIq5PSK1MxmXdY3X5ctkdk+LGy1LhOrwkqRqWFA=",
+                            "encrypt": 1,
+                            "duration": "1868.9664",
+                            "rate": "605.678",
+                            "randInit": "a0wXBjmaiK9QM2FN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/1_2_805405_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "h0CUIeLMnJqk3CJdCzMB21kt66BpdEUErKQXJZrfytk=",
+                            "rand": "7EPmaiQhVEKYgQyhLREHrXWcTeGIU8sWvOOYJ9md79U=",
+                            "encrypt": 1,
+                            "duration": "1868.9664",
+                            "rate": "850.984",
+                            "randInit": "a0wXBjmaiK9QM2FN"
+                        }
+                    ]
+                },
+                {
+                    "id": "805404",
+                    "name": "实时仓库建模方法",
+                    "courseId": "30430",
+                    "url": "/30430/1_3_805404_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/1_3_805404_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "sw4LISUzAd9FZ5CqADglFOTWSQVs2o7U2JnRKr/AncA=",
+                            "rand": "fnVsZmiC8in/9SUabyAhaWROZ2ZWGU117GhHDS8BFJw=",
+                            "encrypt": 1,
+                            "duration": "156.0464",
+                            "rate": "289.057",
+                            "randInit": "ehk04pkcYyJSWZ47"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/1_3_805404_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "oe0vuxTUYzeHi6S05TimR6cMdBayChI9OjZeye3mJlk=",
+                            "rand": "+9l7JEIsDvQHYosr7cIssIGfa6iGkMDV4jSMVA7BJqw=",
+                            "encrypt": 1,
+                            "duration": "156.0464",
+                            "rate": "417.708",
+                            "randInit": "ehk04pkcYyJSWZ47"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/1_3_805404_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "TojbzmJEOOSSmiAxLIIU5rOen85kgVvtZLJ9S1enOx0=",
+                            "rand": "GKTNWqG8Ou7bUSS9MwSDOqcKqH4vZNrN9Gha1xYCPvE=",
+                            "encrypt": 1,
+                            "duration": "156.0464",
+                            "rate": "590.693",
+                            "randInit": "ehk04pkcYyJSWZ47"
+                        }
+                    ]
+                },
+                {
+                    "id": "805403",
+                    "name": "如何从业务中识别业务测量指标和维度",
+                    "courseId": "30430",
+                    "url": "/30430/1_4_805403_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/1_4_805403_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "gFwrHqBV09DA2mRkL6DiKhdU1uV08KCtgHPYAlY8hDs=",
+                            "rand": "vtWiE3Z+TEnzDRBsx1LU+5ZOwhDntalELeWiOHkWM9c=",
+                            "encrypt": 1,
+                            "duration": "546.5048",
+                            "rate": "318.605",
+                            "randInit": "5srhifA9CE5HnYN5"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/1_4_805403_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "VcZFeTd1U4dDAQS8HzAiOqqdt0KKj2KZ4P8HbVtQt+k=",
+                            "rand": "l4Crdn+DcUaKfELEmashKfvyWl4c7CHktbOVZgsZ2co=",
+                            "encrypt": 1,
+                            "duration": "546.4865",
+                            "rate": "467.316",
+                            "randInit": "5srhifA9CE5HnYN5"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/1_4_805403_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "4OMIIERTPBdf3/1JCBRxRMY9uzgRXK/5XjeFu55HDaQ=",
+                            "rand": "h72+YKHXzTY/D358hzUwB8H78KYZRhRumhQbcz/XDfk=",
+                            "encrypt": 1,
+                            "duration": "546.4865",
+                            "rate": "663.479",
+                            "randInit": "5srhifA9CE5HnYN5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "99360",
+            "name": "业务场景实践：制造业实时数仓案例",
+            "courseId": "30430",
+            "sections": [
+                {
+                    "id": "805402",
+                    "name": "实时数仓业务场景实践",
+                    "courseId": "30430",
+                    "url": "/30430/2_0_805402_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/2_0_805402_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "hRmDUv7bXKW8tNQiEWptrzYPHOjXueTwWPFb03ZVYWM=",
+                            "rand": "QUKIZZgrRzweh+MVhEcG7kdGgCPDnSLSjotMB8Uiiik=",
+                            "encrypt": 1,
+                            "duration": "654.3264",
+                            "rate": "452.65",
+                            "randInit": "ZpNPMYafkeiBhyb3"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/2_0_805402_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "G5/nsKIfVKP6pEe9kAxzm8SszJt6/sDjDeIjS0Pk5Wo=",
+                            "rand": "pPV3ROrl+KVQz9kFdXM383V8yn2ZVHs8E3vxbHu0FOQ=",
+                            "encrypt": 1,
+                            "duration": "654.3264",
+                            "rate": "699.254",
+                            "randInit": "ZpNPMYafkeiBhyb3"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/2_0_805402_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "NhDHbGRv0fwrpGSQfXZLmRbPdIjens8z1GJBmFD9P4k=",
+                            "rand": "E84wsSmTuk5K/y7gl43O+YZDSzq+rhJSb07tRihyuxE=",
+                            "encrypt": 1,
+                            "duration": "654.3264",
+                            "rate": "947.465",
+                            "randInit": "ZpNPMYafkeiBhyb3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "100145",
+            "name": "结课考试",
+            "courseId": "30430",
+            "sections": [
+                {
+                    "id": "809356",
+                    "name": "结课考试",
+                    "courseId": "30430",
+                    "url": "/30430/3_0_809356_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/30430/3_0_809356_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "Uva3DugVhzxtJCAKwRX6dbMemJwBhZ8omX+kHf0hPg4=",
+                            "rand": "sMRoKmfH0erPPCuL6TKcSbeEH8FB8v+vK8N3C8UG9Nw=",
+                            "encrypt": 1,
+                            "duration": "983.2465",
+                            "rate": "454.872",
+                            "randInit": "DTGCzbYRPFpAM2Nn"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/30430/3_0_809356_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ikHAq1S1oRcFvdDkrAHvayW2pCOCcek+jYcJmbZ6MT4=",
+                            "rand": "j5scbsacg8u52eH6jXynKqewnYUDMTC6kzkUeuJQD6E=",
+                            "encrypt": 1,
+                            "duration": "983.2465",
+                            "rate": "496.175",
+                            "randInit": "DTGCzbYRPFpAM2Nn"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/30430/3_0_809356_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "UPot7VpGLmU3e4AGp48R6/eY1WUdFzoaVgVnozrU2cs=",
+                            "rand": "x3RWevH/yvxnVfCh8D7Ax4kB4OnLJKdlBLlvTWCUIzw=",
+                            "encrypt": 1,
+                            "duration": "983.2465",
+                            "rate": "529.019",
+                            "randInit": "DTGCzbYRPFpAM2Nn"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
