@@ -1,0 +1,248 @@
+{
+    "id": "2382",
+    "name": "敏捷教练-如何打造敏捷团队视频教程",
+    "lecturer": "项目经理； 敏捷教练",
+    "descriptionText": "调动项目各成员的工作主动性；让项目组各成员快乐地工作；让项目管理变成每一位项目成员的事情；让项目组团队所有人围绕项目成功这个目标而奋斗；让项目组成员勇于承担，敢于接受挑战。",
+    "chapters": [
+        {
+            "id": "44567",
+            "name": "第1章节",
+            "courseId": "2382",
+            "sections": [
+                {
+                    "id": "44567",
+                    "name": "解决项目组成员的地位不平等问题",
+                    "courseId": "2382",
+                    "url": "/2382/0_0_44567_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/2382/0_0_44567_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "iCpoXs4uGscdDW6TwE1jJ9cH/JuuUH0RK3TGecSV8Iw=",
+                            "rand": "Xqv7iU7lrbwuU3iMVjp+QmrX9X7vTjJwXx6bT9XUp0M=",
+                            "encrypt": 1,
+                            "duration": "1154.5664",
+                            "rate": "460.389",
+                            "randInit": "sQ7x7G7CBkGJYEaJ"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/2382/0_0_44567_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "BzSFUFC03aXtCxUv0jkdm415GmhuniRIQZzKOjU7Qos=",
+                            "rand": "M0/yTXtpGM+UFW0zCrmzTR78687pus0yXZXSPrYc1+s=",
+                            "encrypt": 1,
+                            "duration": "1154.5664",
+                            "rate": "714.225",
+                            "randInit": "sQ7x7G7CBkGJYEaJ"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/2382/0_0_44567_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "7YGdsb6HDYS88DXNa6LzeghTNWB+jLuoMYyKzNsEJ28=",
+                            "rand": "02jKO5E3tnHHuLCNIq/jDl7jxb4M63PQ7CQIGGi4UXM=",
+                            "encrypt": 1,
+                            "duration": "1154.5664",
+                            "rate": "854.854",
+                            "randInit": "sQ7x7G7CBkGJYEaJ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44571",
+            "name": "第2章节",
+            "courseId": "2382",
+            "sections": [
+                {
+                    "id": "44571",
+                    "name": "谁来做决策",
+                    "courseId": "2382",
+                    "url": "/2382/1_0_44571_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/2382/1_0_44571_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "q0MyXAA0siWMnHzpzu/793uzu336f/YyROVI63WcLzk=",
+                            "rand": "phdcWuG6q4LRyAA2eq5gpNFdYwEGERyCqkOtb4BAX7Q=",
+                            "encrypt": 1,
+                            "duration": "1418.9681",
+                            "rate": "453.302",
+                            "randInit": "M0JXRzyMaRmQfHRY"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/2382/1_0_44571_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "J5/HYYGzf9UIMbFoTOFtCEKRhD8XM47j06Fivz8nGZU=",
+                            "rand": "5kJyEiWuuOOd72Gxse0Fnz48lC0fM35zMgSEGxRoXUk=",
+                            "encrypt": 1,
+                            "duration": "1418.9681",
+                            "rate": "701.482",
+                            "randInit": "M0JXRzyMaRmQfHRY"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/2382/1_0_44571_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "z3v3iT2dtec149YzkjkN/iMFBjRUMEgLs0v8R6LhkF8=",
+                            "rand": "fTIkF+1gVnhgZ9tSQk+pIEQCWHZ29GdZmmB6vVc6dxw=",
+                            "encrypt": 1,
+                            "duration": "1418.9664",
+                            "rate": "843.253",
+                            "randInit": "M0JXRzyMaRmQfHRY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44572",
+            "name": "第3章节",
+            "courseId": "2382",
+            "sections": [
+                {
+                    "id": "44572",
+                    "name": "鼓励“犯错”",
+                    "courseId": "2382",
+                    "url": "/2382/2_0_44572_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/2382/2_0_44572_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "ElAN37D3Q2UWUVdrWL5jZRQ7yK29IcAVjUxYgnThpj0=",
+                            "rand": "SRagLbGgHp9KzGKSaRWaY0dPeeyJXlpI/u/kEL393BM=",
+                            "encrypt": 1,
+                            "duration": "679.6464",
+                            "rate": "459.695",
+                            "randInit": "cxxNBZMAXjbjSrKm"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/2382/2_0_44572_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "KEAs1G6I3UyQkWb8T7YPTju8TZx7hbm63EKI61koCgM=",
+                            "rand": "5gmboL72H2TgreBwzTMOWEkbeVvXZXUjb26Yu1iJdUc=",
+                            "encrypt": 1,
+                            "duration": "679.6464",
+                            "rate": "524.58",
+                            "randInit": "cxxNBZMAXjbjSrKm"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/2382/2_0_44572_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Bp3aJjNl+rlQtXEFaauez+OkISlt37JQJjbcXXijRkU=",
+                            "rand": "krmsYVt6vUzq382niis+fLnZ4VVyGHJIpdk8qXapc3E=",
+                            "encrypt": 1,
+                            "duration": "679.6465",
+                            "rate": "561.445",
+                            "randInit": "cxxNBZMAXjbjSrKm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "44574",
+            "name": "第4章节",
+            "courseId": "2382",
+            "sections": [
+                {
+                    "id": "44574",
+                    "name": "团队建设的决定性因素",
+                    "courseId": "2382",
+                    "url": "/2382/3_0_44574_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/2382/3_0_44574_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "9p4plqTS5DmZ08n9z+aG3FJXkeaNCsxQPWnAP5XxWjM=",
+                            "rand": "FKUWGI1me2Y9tNGgLvn6xM0sUO7quzASBbANbnPwJvw=",
+                            "encrypt": 1,
+                            "duration": "886.9664",
+                            "rate": "454.182",
+                            "randInit": "dXiMBdiYY235pHNN"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/2382/3_0_44574_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "xuyi/lyzUPDMONj+h4WvKuQrzBblnD0VjNyYQpk57fU=",
+                            "rand": "X7hAVhRXahxhVk8yzZJfo4n8aKJv8d3P71FejB1QguA=",
+                            "encrypt": 1,
+                            "duration": "886.9664",
+                            "rate": "570.678",
+                            "randInit": "dXiMBdiYY235pHNN"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/2382/3_0_44574_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Kbi9PMDa4sBMeHbzzfLYZuQsGoNw38o4xvceoALdDc0=",
+                            "rand": "jBegPzyUzQ1khEqxbjo05Jxs+bEsdsOz86noS+pkklY=",
+                            "encrypt": 1,
+                            "duration": "886.9770",
+                            "rate": "605.354",
+                            "randInit": "dXiMBdiYY235pHNN"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
