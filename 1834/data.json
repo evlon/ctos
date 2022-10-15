@@ -1,0 +1,128 @@
+{
+    "id": "1834",
+    "name": "神马是敏捷-轻松学习构建敏捷土壤视频课程",
+    "lecturer": "中高层领导，项目经理",
+    "descriptionText": "理解敏捷本质，学习构建敏捷土壤。",
+    "chapters": [
+        {
+            "id": "33711",
+            "name": "第1章节",
+            "courseId": "1834",
+            "sections": [
+                {
+                    "id": "33711",
+                    "name": "神马是敏捷-上",
+                    "courseId": "1834",
+                    "url": "/1834/0_0_33711_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/1834/0_0_33711_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "kKpz777mY5Us11KmMO/0RI+T6Q14MpXT1Lj11a1GdwA=",
+                            "rand": "MkCoqkv5UrgAQ24qnwzJDrLWY0HcHz/uk2oJvy9V36s=",
+                            "encrypt": 1,
+                            "duration": "1886.5664",
+                            "rate": "293.996",
+                            "randInit": "m42cBaH2Jp9HDpTk"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/1834/0_0_33711_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "CVEHtRg+VUzs9GfRkkOJTG9Qlkg9YU94Q7eZ1yVKYzE=",
+                            "rand": "hjVuaUmkgFmGIM8jBoVOSHTdz38dYz4LUYaUknsc+xk=",
+                            "encrypt": 1,
+                            "duration": "1886.5664",
+                            "rate": "328.102",
+                            "randInit": "m42cBaH2Jp9HDpTk"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/1834/0_0_33711_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "Iy8EBxsw1V6zfOfm4ZjIllgZ5b7vCYqdqrgFxFPDIRY=",
+                            "rand": "JO+KYk9sUjWE6HdcmQbJIFr7Mk5PPjJ6MriTYyFZuBs=",
+                            "encrypt": 1,
+                            "duration": "1886.5664",
+                            "rate": "360.988",
+                            "randInit": "m42cBaH2Jp9HDpTk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "33714",
+            "name": "第2章节",
+            "courseId": "1834",
+            "sections": [
+                {
+                    "id": "33714",
+                    "name": "神马是敏捷-下",
+                    "courseId": "1834",
+                    "url": "/1834/1_0_33714_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/1834/1_0_33714_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "d27sscFoT9HXxT1LGRMBVXPBMp73X4CB7LWsCA+3KpI=",
+                            "rand": "8psird7SPGUe0g1r0zXrDAOd7ISJ6nn3qvpHE9M/pQM=",
+                            "encrypt": 1,
+                            "duration": "1923.8865",
+                            "rate": "286.152",
+                            "randInit": "aAENF2B5i5pNBfns"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/1834/1_0_33714_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "ZlfsJgq4S5ToQR5QCDYQOozs/bf0B4UTn1293F7DdQE=",
+                            "rand": "42ZvfulCWFx2hpzoX9ilHYTYqzmMuq5T/LAIE+EnaYQ=",
+                            "encrypt": 1,
+                            "duration": "1923.8893",
+                            "rate": "321.605",
+                            "randInit": "aAENF2B5i5pNBfns"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/1834/1_0_33714_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "7J1e0aTpPHbHdYK2yw+zjIWIcQMtB1oBJyYpfPnfnfQ=",
+                            "rand": "KQvUsL6CqrpUa5RR/QdLZ0iaTvU+Ofl3iv5nF+vhZPw=",
+                            "encrypt": 1,
+                            "duration": "1923.9126",
+                            "rate": "352.599",
+                            "randInit": "aAENF2B5i5pNBfns"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
