@@ -1,0 +1,308 @@
+{
+    "id": "14425",
+    "name": "跟宁哥学Go语言视频课程（8）：并发技术",
+    "lecturer": "go程序员,go爱好者,区块链底层开发程序员",
+    "descriptionText": "本课程让学员学习并发的高级技术，如互斥锁、读写锁、内存同步等",
+    "chapters": [
+        {
+            "id": "285813",
+            "name": "第1章节",
+            "courseId": "14425",
+            "sections": [
+                {
+                    "id": "285813",
+                    "name": "并发的基本概念",
+                    "courseId": "14425",
+                    "url": "/14425/0_0_285813_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/14425/0_0_285813_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "m/Ywckwhh0gKCp27tZ2g0f+KGWvvW1hV04iq5Aliwus=",
+                            "rand": "XM8yMA6Shasa/66+7IX4VLgzzTrGQq8HxgsM2uqKjlU=",
+                            "encrypt": 1,
+                            "duration": "1370.2465",
+                            "rate": "437.21",
+                            "randInit": "PaH0GFSZDfJjK6AK"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/14425/0_0_285813_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "vrZJ49srLlyw64exUzKcFxbHVT74mdXk0k56zgyfQVc=",
+                            "rand": "RqX9pNPh17Mr0lV7XgZoNp4AXrqSpKAO+C5b+/Oun1s=",
+                            "encrypt": 1,
+                            "duration": "1370.2465",
+                            "rate": "620.405",
+                            "randInit": "PaH0GFSZDfJjK6AK"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/14425/0_0_285813_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "84Ty846c/4MGyJZodK+D5LphpkGJTpkxldVTJC9kFzQ=",
+                            "rand": "I43z8dByiFhm26U4J3vUOCLYCvafmZwvLH+HwqoOKGU=",
+                            "encrypt": 1,
+                            "duration": "1370.2465",
+                            "rate": "700.471",
+                            "randInit": "PaH0GFSZDfJjK6AK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "285812",
+            "name": "第2章节",
+            "courseId": "14425",
+            "sections": [
+                {
+                    "id": "285812",
+                    "name": "将非并发安全的变量限制在一个monitor并发函数中",
+                    "courseId": "14425",
+                    "url": "/14425/1_0_285812_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/14425/1_0_285812_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "x5Y/03WAqH431sQ7UkaOpYvkePfz+j7AmKKFhKi9Nts=",
+                            "rand": "HjhLiqj5ZRZBUG8NreZV5n/dFpY+rbp6ea4tLgoxnPM=",
+                            "encrypt": 1,
+                            "duration": "924.1664",
+                            "rate": "451.849",
+                            "randInit": "i8fJHzWXZtQk48sR"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/14425/1_0_285812_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "1ygsUGbkjrR4xC5v9TEHjDNwPUigwX97BJHmS0L2VoM=",
+                            "rand": "aK4fyupKSLdaaGMqCaPf6VFgDkMmfjKQGklBhtq2R6Y=",
+                            "encrypt": 1,
+                            "duration": "924.1664",
+                            "rate": "629.836",
+                            "randInit": "i8fJHzWXZtQk48sR"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/14425/1_0_285812_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "IMfORUdoEByyj/9eHBYv2PtC7Tto+xmTOIG09fiW5Ek=",
+                            "rand": "BlHcnClnHJuvd3HOJzo3NVdYfS5EPTZovM/91nT1zzE=",
+                            "encrypt": 1,
+                            "duration": "924.1664",
+                            "rate": "723.79",
+                            "randInit": "i8fJHzWXZtQk48sR"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "285811",
+            "name": "第3章节",
+            "courseId": "14425",
+            "sections": [
+                {
+                    "id": "285811",
+                    "name": "使用带缓存的Channel实现同步",
+                    "courseId": "14425",
+                    "url": "/14425/2_0_285811_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/14425/2_0_285811_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "zpBcyYyAPuOMfpJJBZsRsSq9z6lYY8Y5HgbONQO1DKY=",
+                            "rand": "U6nyM7RIaWGmVVEVjHSVmleavmOd4VIhAQZD7Mlm2DM=",
+                            "encrypt": 1,
+                            "duration": "858.7664",
+                            "rate": "460.441",
+                            "randInit": "4X70st3sRKKdJaXx"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/14425/2_0_285811_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "WbtXaVMngBLx5a8Qx8r+IKEInHbRJoh3xPhq67wN8Pk=",
+                            "rand": "9eD9cVXqfACCLO3R1tc+KCzcOabJbDfcTMbW2K2hp5U=",
+                            "encrypt": 1,
+                            "duration": "858.7664",
+                            "rate": "681.609",
+                            "randInit": "4X70st3sRKKdJaXx"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/14425/2_0_285811_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "pc28g8N9cOS0JIiTGjVSGK/lEg626dsZIUlTDZfRyKE=",
+                            "rand": "hi0cY2FbGjd5IWD2cmKUaZLGSQPm4WLBLZ2bocQ2TiU=",
+                            "encrypt": 1,
+                            "duration": "858.7664",
+                            "rate": "724.366",
+                            "randInit": "4X70st3sRKKdJaXx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "285810",
+            "name": "第4章节",
+            "courseId": "14425",
+            "sections": [
+                {
+                    "id": "285810",
+                    "name": "使用互斥锁（sync.Mutex）实现同步",
+                    "courseId": "14425",
+                    "url": "/14425/3_0_285810_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/14425/3_0_285810_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "2TcuSTz+J6xOH6dsUETDKot/Du1UZwhS9FA+BT1y4w0=",
+                            "rand": "9m1Ft1RUpbqYprBw62gB95UGp7dGrXoRG1c9K5ETVHs=",
+                            "encrypt": 1,
+                            "duration": "261.2464",
+                            "rate": "454.689",
+                            "randInit": "tepEZJHPAy9Nb9i7"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/14425/3_0_285810_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "MITtcikz3Jx1rXQ5GrCCV8T3agTH47xr0UdFFOHndzg=",
+                            "rand": "fUxSNH6QCknSSMmg545jETB/+6L35e3nkvqlgz0MF6I=",
+                            "encrypt": 1,
+                            "duration": "261.2464",
+                            "rate": "677.548",
+                            "randInit": "tepEZJHPAy9Nb9i7"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/14425/3_0_285810_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "WWafYYX2E7VCjVqJmnSi+iFbZ0QiE1fDF6WudqZbu0w=",
+                            "rand": "Zc1YNHf8u1590Oo6zhg0NBBXdqIRbetZHhBDPPOF8ao=",
+                            "encrypt": 1,
+                            "duration": "261.2464",
+                            "rate": "723.702",
+                            "randInit": "tepEZJHPAy9Nb9i7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "285809",
+            "name": "第5章节",
+            "courseId": "14425",
+            "sections": [
+                {
+                    "id": "285809",
+                    "name": "使用读写锁（sync.RWMutex）实现同步",
+                    "courseId": "14425",
+                    "url": "/14425/4_0_285809_HD.m3u8",
+                    "urls": [
+                        {
+                            "width": 540,
+                            "height": 540,
+                            "definition": "LD",
+                            "url": "/14425/4_0_285809_LD.m3u8",
+                            "format": "m3u8",
+                            "desc": "标清",
+                            "encryptionType": 1,
+                            "plaintext": "M2WJxaSezjfkQDt7izoFi6i8Yu57/poGc0XVRDxdDBE=",
+                            "rand": "eaIPMyT+OV6igL897CZ1hifHrSZWB8aGm0d7vkvcp3Q=",
+                            "encrypt": 1,
+                            "duration": "200.7664",
+                            "rate": "459.912",
+                            "randInit": "xtkYFht0NGdE0D6n"
+                        },
+                        {
+                            "width": 720,
+                            "height": 720,
+                            "definition": "SD",
+                            "url": "/14425/4_0_285809_SD.m3u8",
+                            "format": "m3u8",
+                            "desc": "高清",
+                            "encryptionType": 1,
+                            "plaintext": "YqNbz0TmykrbTQLdH7nfyfsohEDA6e9Tj0GzGlBrFkM=",
+                            "rand": "2vyXu1ZAckPPP5fKCE5z/ILU+Lrat1Aqies+XdQeW6Y=",
+                            "encrypt": 1,
+                            "duration": "200.7664",
+                            "rate": "700.121",
+                            "randInit": "xtkYFht0NGdE0D6n"
+                        },
+                        {
+                            "width": 1080,
+                            "height": 1080,
+                            "definition": "HD",
+                            "url": "/14425/4_0_285809_HD.m3u8",
+                            "format": "m3u8",
+                            "desc": "超清",
+                            "encryptionType": 1,
+                            "plaintext": "HWOdifOKOL8fRKwnJ8YsgpUiNKqOBX24QY8byLxAnro=",
+                            "rand": "m324+fFBtJ8L1mZrLzfQ6imLvONTtW3R1EAVqKNImZg=",
+                            "encrypt": 1,
+                            "duration": "200.7664",
+                            "rate": "754.245",
+                            "randInit": "xtkYFht0NGdE0D6n"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
