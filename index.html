@@ -230,6 +230,13 @@
             axios.get(rid + '/data.json')
                 .then(function (res) {
                     var data = res.data;
+                    data = JSON.parse(JSON.stringify(data),(key,val)=>{
+                        if(typeof val ==='string' && val.indexOf("uriencode:") === 0){
+                            return decodeURIComponent(val.substring("uriencode:".length, val.length))
+                        }
+                        return val;
+                    });
+
                     let playlist = [];
 
                     data.chapters.forEach(ch => {
